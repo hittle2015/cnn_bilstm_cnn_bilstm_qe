@@ -14,4 +14,9 @@
 
 # ignore  back up direcotory
 #
-*.*_bak 
+*.*_bak
+./*_bak
+# ignore models
+./saved_models/*
+./saved_model/*
+ 
