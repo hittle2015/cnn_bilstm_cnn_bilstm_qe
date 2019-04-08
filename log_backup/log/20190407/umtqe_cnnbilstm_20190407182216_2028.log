@@ -1,0 +1,37 @@
+Sun, 07 Apr 2019 18:22:16: INFO: running main.py --model CNN_BiLSTM -Opt sgd --run_log umtqe_cnnbilstm
+Sun, 07 Apr 2019 18:22:16: INFO: 	BATCH_SIZE=64
+Sun, 07 Apr 2019 18:22:16: INFO: 	BIDIRECTIONAL=True
+Sun, 07 Apr 2019 18:22:16: INFO: 	DEV_FILE=./data/cwmt_dev_comb.txt
+Sun, 07 Apr 2019 18:22:16: INFO: 	DROPOUT=0.3
+Sun, 07 Apr 2019 18:22:16: INFO: 	EMBED_DIM=300
+Sun, 07 Apr 2019 18:22:16: INFO: 	GRAD_CLIP=0.1
+Sun, 07 Apr 2019 18:22:16: INFO: 	HIDDEN_DIM=100
+Sun, 07 Apr 2019 18:22:16: INFO: 	IN_CHANNELS=1
+Sun, 07 Apr 2019 18:22:16: INFO: 	KERNEL_NUMS=300
+Sun, 07 Apr 2019 18:22:16: INFO: 	KERNEL_SIZES=[3, 4, 5]
+Sun, 07 Apr 2019 18:22:16: INFO: 	LEARNING_RATE=0.8
+Sun, 07 Apr 2019 18:22:16: INFO: 	MAX_SEQ_LEN=50
+Sun, 07 Apr 2019 18:22:16: INFO: 	MODEL=CNN_BiLSTM
+Sun, 07 Apr 2019 18:22:16: INFO: 	NUM_CLASS=2
+Sun, 07 Apr 2019 18:22:16: INFO: 	NUM_EPOCHS=100
+Sun, 07 Apr 2019 18:22:16: INFO: 	NUM_LAYERS=3
+Sun, 07 Apr 2019 18:22:16: INFO: 	OPTIMIZER=sgd
+Sun, 07 Apr 2019 18:22:16: INFO: 	PREDICTION_FILE=./predictions/cwmt_test.csv
+Sun, 07 Apr 2019 18:22:16: INFO: 	PRETRAINED_EMBEDDINGS=./word2vec/wiki.en_zh.vec
+Sun, 07 Apr 2019 18:22:16: INFO: 	PRETRAINED_WEIGHTS=tensor([[ 0.0046,  0.0888,  0.0158,  ..., -0.0273, -0.1007, -0.0268],
+        [ 0.0175, -0.0041,  0.0821,  ...,  0.0838, -0.0694,  0.0325],
+        [-0.0984,  0.0984,  0.0655,  ..., -0.0459, -0.0731, -0.0325],
+        ...,
+        [ 0.0349, -0.0255, -0.1632,  ...,  0.0312,  0.0566,  0.0062],
+        [-0.0184, -0.0437,  0.0105,  ...,  0.0298,  0.0121, -0.0181],
+        [ 0.0177, -0.0425, -0.0630,  ...,  0.0235, -0.1390, -0.0752]])
+Sun, 07 Apr 2019 18:22:16: INFO: 	RUN_LOG=umtqe_cnnbilstm
+Sun, 07 Apr 2019 18:22:16: INFO: 	SAVED_MODEL=./saved_model/cwmt.en_zh.pt
+Sun, 07 Apr 2019 18:22:16: INFO: 	SEED_NUM=123
+Sun, 07 Apr 2019 18:22:16: INFO: 	STATIC=False
+Sun, 07 Apr 2019 18:22:16: INFO: 	TEST=False
+Sun, 07 Apr 2019 18:22:16: INFO: 	TEST_FILE=./data/htqe_test_comb.txt
+Sun, 07 Apr 2019 18:22:16: INFO: 	TRAIN_FILE=./data/cwmt_train_comb.txt
+Sun, 07 Apr 2019 18:22:16: INFO: 	USE_GPU=True
+Sun, 07 Apr 2019 18:22:16: INFO: 	VOCAB_SIZE=44995
+Sun, 07 Apr 2019 18:22:16: INFO: 	WEIGHT_DECAY=0.001

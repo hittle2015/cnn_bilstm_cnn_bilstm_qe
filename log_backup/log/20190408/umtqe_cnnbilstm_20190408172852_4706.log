@@ -1,0 +1,38 @@
+Mon, 08 Apr 2019 17:28:52: INFO: running main.py --model=CNN_BiLSTM_ATT --optimizer=sgd --batch_size=64 --vocab_size=40000 --embed_dim=300 --in_channels=1 --kernel_sizes=123 --kernel_nums=300 --hidden_dim=200 --num_layers=2 --bidirectional=True --max_seq_len=50 --learning_rate=0.02 --num_epochs=500 --dropout=0.3 --num_class=2 --train_file=./data/cwmt_train_comb.txt --dev_file=./data/cwmt_dev_comb.txt --dev_file=./data/htqe_test_comb.txt --pretrained_embeddings=./word2vec/wiki.en_zh.vec --prediction_file=./predictions/htqe_test_comb_att.txt --saved_model=./saved_models/cwmt.en_zh.pt --test=False --weight_decay=0.001 --grad_clip=0.0 --momentum=0.0 --seed_num=123 --scheduler=steplr --run_log=umtqe_cnnbilstm
+Mon, 08 Apr 2019 17:28:52: INFO: 	BATCH_SIZE=64
+Mon, 08 Apr 2019 17:28:52: INFO: 	BIDIRECTIONAL=True
+Mon, 08 Apr 2019 17:28:52: INFO: 	DEV_FILE=./data/htqe_test_comb.txt
+Mon, 08 Apr 2019 17:28:52: INFO: 	DROPOUT=0.3
+Mon, 08 Apr 2019 17:28:52: INFO: 	EMBED_DIM=300
+Mon, 08 Apr 2019 17:28:52: INFO: 	GRAD_CLIP=0.0
+Mon, 08 Apr 2019 17:28:52: INFO: 	HIDDEN_DIM=200
+Mon, 08 Apr 2019 17:28:52: INFO: 	IN_CHANNELS=1
+Mon, 08 Apr 2019 17:28:52: INFO: 	KERNEL_NUMS=300
+Mon, 08 Apr 2019 17:28:52: INFO: 	KERNEL_SIZES=[1, 2, 3]
+Mon, 08 Apr 2019 17:28:52: INFO: 	LEARNING_RATE=0.02
+Mon, 08 Apr 2019 17:28:52: INFO: 	MAX_SEQ_LEN=50
+Mon, 08 Apr 2019 17:28:52: INFO: 	MODEL=CNN_BiLSTM_ATT
+Mon, 08 Apr 2019 17:28:52: INFO: 	MOMENTUM=0.0
+Mon, 08 Apr 2019 17:28:52: INFO: 	NUM_CLASS=2
+Mon, 08 Apr 2019 17:28:52: INFO: 	NUM_EPOCHS=500
+Mon, 08 Apr 2019 17:28:52: INFO: 	NUM_LAYERS=2
+Mon, 08 Apr 2019 17:28:52: INFO: 	OPTIMIZER=sgd
+Mon, 08 Apr 2019 17:28:52: INFO: 	PREDICTION_FILE=./predictions/htqe_test_comb_att.txt
+Mon, 08 Apr 2019 17:28:52: INFO: 	PRETRAINED_EMBEDDINGS=./word2vec/wiki.en_zh.vec
+Mon, 08 Apr 2019 17:28:52: INFO: 	PRETRAINED_WEIGHTS=tensor([[ 0.0046,  0.0888,  0.0158,  ..., -0.0273, -0.1007, -0.0268],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [ 0.0105, -0.0332,  0.0811,  ..., -0.1161, -0.0705, -0.0795],
+        ...,
+        [-0.0367,  0.0538,  0.0280,  ..., -0.0715, -0.0893,  0.0396],
+        [-0.0496,  0.0555,  0.0604,  ...,  0.0539, -0.1048,  0.0124],
+        [ 0.0305,  0.0643, -0.1584,  ...,  0.0898, -0.0361,  0.0977]])
+Mon, 08 Apr 2019 17:28:52: INFO: 	RUN_LOG=umtqe_cnnbilstm
+Mon, 08 Apr 2019 17:28:52: INFO: 	SAVED_MODEL=./saved_models/cwmt.en_zh.pt
+Mon, 08 Apr 2019 17:28:52: INFO: 	SCHEDULER=steplr
+Mon, 08 Apr 2019 17:28:52: INFO: 	SEED_NUM=123
+Mon, 08 Apr 2019 17:28:52: INFO: 	TEST=False
+Mon, 08 Apr 2019 17:28:52: INFO: 	TEST_FILE=./data/htqe_test_comb.txt
+Mon, 08 Apr 2019 17:28:52: INFO: 	TRAIN_FILE=./data/cwmt_train_comb.txt
+Mon, 08 Apr 2019 17:28:52: INFO: 	USE_GPU=True
+Mon, 08 Apr 2019 17:28:52: INFO: 	VOCAB_SIZE=44995
+Mon, 08 Apr 2019 17:28:52: INFO: 	WEIGHT_DECAY=0.001

@@ -1,0 +1,17 @@
+
+# Created by https://www.gitignore.io/api/cnn_bilstm_cnn_bilstm_qe
+# Edit at https://www.gitignore.io/?templates=cnn_bilstm_cnn_bilstm_qe
+
+#!! ERROR: cnn_bilstm_cnn_bilstm_qe is undefined. Use list command to see defined gitignore types !!#
+
+# End of https://www.gitignore.io/api/cnn_bilstm_cnn_bilstm_qe
+#
+#
+# ignore generated html files,
+*.html
+# ignore huge  word vector file ending with .vec
+*.vec
+
+# ignore  back up direcotory
+#
+*.*_bak 

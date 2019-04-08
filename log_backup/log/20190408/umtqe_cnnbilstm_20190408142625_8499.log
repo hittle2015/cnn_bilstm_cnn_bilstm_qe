@@ -1,0 +1,76 @@
+Mon, 08 Apr 2019 14:26:25: INFO: running main.py --model=CNN_BiLSTM --optimizer=sparseadam --batch_size=64 --vocab_size=40000 --embed_dim=300 --in_channels=1 --kernel_sizes=345 --kernel_nums=200 --hidden_dim=200 --num_layers=2 --bidirectional=True --max_seq_len=50 --learning_rate=0.02 --num_epochs=100 --dropout=0.5 --num_class=2 --train_file=./data/cwmt_train_comb.txt --dev_file=./data/cwmt_dev_comb.txt --dev_file=./data/htqe_test_comb.txt --pretrained_embeddings=./word2vec/wiki.en_zh.vec --prediction_file=./predictions/htqe_test_comb.txt --saved_model=./saved_models/cwmt.en_zh.pt --test=False --weight_decay=0.01 --grad_clip=0.0 --seed_num=123 --run_log=umtqe_cnnbilstm
+Mon, 08 Apr 2019 14:26:25: INFO: 	BATCH_SIZE=64
+Mon, 08 Apr 2019 14:26:25: INFO: 	BIDIRECTIONAL=True
+Mon, 08 Apr 2019 14:26:25: INFO: 	DEV_FILE=./data/htqe_test_comb.txt
+Mon, 08 Apr 2019 14:26:25: INFO: 	DROPOUT=0.5
+Mon, 08 Apr 2019 14:26:25: INFO: 	EMBED_DIM=300
+Mon, 08 Apr 2019 14:26:25: INFO: 	GRAD_CLIP=0.0
+Mon, 08 Apr 2019 14:26:25: INFO: 	HIDDEN_DIM=200
+Mon, 08 Apr 2019 14:26:25: INFO: 	IN_CHANNELS=1
+Mon, 08 Apr 2019 14:26:25: INFO: 	KERNEL_NUMS=200
+Mon, 08 Apr 2019 14:26:25: INFO: 	KERNEL_SIZES=[3, 4, 5]
+Mon, 08 Apr 2019 14:26:25: INFO: 	LEARNING_RATE=0.02
+Mon, 08 Apr 2019 14:26:25: INFO: 	MAX_SEQ_LEN=50
+Mon, 08 Apr 2019 14:26:25: INFO: 	MODEL=CNN_BiLSTM
+Mon, 08 Apr 2019 14:26:25: INFO: 	NUM_CLASS=2
+Mon, 08 Apr 2019 14:26:25: INFO: 	NUM_EPOCHS=100
+Mon, 08 Apr 2019 14:26:25: INFO: 	NUM_LAYERS=2
+Mon, 08 Apr 2019 14:26:25: INFO: 	OPTIMIZER=sparseadam
+Mon, 08 Apr 2019 14:26:25: INFO: 	PREDICTION_FILE=./predictions/htqe_test_comb.txt
+Mon, 08 Apr 2019 14:26:25: INFO: 	PRETRAINED_EMBEDDINGS=./word2vec/wiki.en_zh.vec
+Mon, 08 Apr 2019 14:26:25: INFO: 	PRETRAINED_WEIGHTS=tensor([[ 0.0046,  0.0888,  0.0158,  ..., -0.0273, -0.1007, -0.0268],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [-0.0243,  0.0256, -0.0030,  ...,  0.1067, -0.0387,  0.0429],
+        ...,
+        [-0.0462,  0.1180,  0.0685,  ...,  0.0208, -0.1451, -0.0827],
+        [ 0.0404,  0.0328, -0.0013,  ..., -0.0197, -0.0653, -0.0324],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000]])
+Mon, 08 Apr 2019 14:26:25: INFO: 	RUN_LOG=umtqe_cnnbilstm
+Mon, 08 Apr 2019 14:26:25: INFO: 	SAVED_MODEL=./saved_models/cwmt.en_zh.pt
+Mon, 08 Apr 2019 14:26:25: INFO: 	SEED_NUM=123
+Mon, 08 Apr 2019 14:26:25: INFO: 	TEST=False
+Mon, 08 Apr 2019 14:26:25: INFO: 	TEST_FILE=./data/htqe_test_comb.txt
+Mon, 08 Apr 2019 14:26:25: INFO: 	TRAIN_FILE=./data/cwmt_train_comb.txt
+Mon, 08 Apr 2019 14:26:25: INFO: 	USE_GPU=True
+Mon, 08 Apr 2019 14:26:25: INFO: 	VOCAB_SIZE=44995
+Mon, 08 Apr 2019 14:26:25: INFO: 	WEIGHT_DECAY=0.01
+Mon, 08 Apr 2019 14:26:51: INFO: epoch: 1, train loss: 0.6925, train acc: 0.52, dev loss: 0.6968, dev acc: 0.40, time: 23.32
+Mon, 08 Apr 2019 14:26:51: INFO: 
+Evaluation - loss: 44.316010 Precision:0.4894 Recall:0.4974 Fscore:0.1306 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:26:56: INFO: epoch: 2, train loss: 0.6926, train acc: 0.52, dev loss: 0.6970, dev acc: 0.40, time: 4.62
+Mon, 08 Apr 2019 14:26:57: INFO: 
+Evaluation - loss: 44.316011 Precision:0.4667 Recall:0.4916 Fscore:0.1303 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:01: INFO: epoch: 3, train loss: 0.6924, train acc: 0.53, dev loss: 0.6970, dev acc: 0.40, time: 4.73
+Mon, 08 Apr 2019 14:27:02: INFO: 
+Evaluation - loss: 44.316010 Precision:0.4566 Recall:0.4874 Fscore:0.1305 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:06: INFO: epoch: 4, train loss: 0.6926, train acc: 0.52, dev loss: 0.6972, dev acc: 0.38, time: 4.84
+Mon, 08 Apr 2019 14:27:07: INFO: 
+Evaluation - loss: 44.316011 Precision:0.4534 Recall:0.4873 Fscore:0.1299 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:12: INFO: epoch: 5, train loss: 0.6924, train acc: 0.52, dev loss: 0.6965, dev acc: 0.41, time: 4.91
+Mon, 08 Apr 2019 14:27:12: INFO: 
+Evaluation - loss: 44.316009 Precision:0.4847 Recall:0.4916 Fscore:0.1305 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:17: INFO: epoch: 6, train loss: 0.6924, train acc: 0.52, dev loss: 0.6967, dev acc: 0.40, time: 4.84
+Mon, 08 Apr 2019 14:27:17: INFO: 
+Evaluation - loss: 44.316010 Precision:0.4532 Recall:0.4931 Fscore:0.1297 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:22: INFO: epoch: 7, train loss: 0.6926, train acc: 0.52, dev loss: 0.6971, dev acc: 0.39, time: 4.86
+Mon, 08 Apr 2019 14:27:23: INFO: 
+Evaluation - loss: 44.316011 Precision:0.4706 Recall:0.4948 Fscore:0.1307 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:27: INFO: epoch: 8, train loss: 0.6924, train acc: 0.52, dev loss: 0.6966, dev acc: 0.40, time: 4.85
+Mon, 08 Apr 2019 14:27:28: INFO: 
+Evaluation - loss: 44.316010 Precision:0.4522 Recall:0.4782 Fscore:0.1300 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:33: INFO: epoch: 9, train loss: 0.6924, train acc: 0.52, dev loss: 0.6971, dev acc: 0.38, time: 4.87
+Mon, 08 Apr 2019 14:27:33: INFO: 
+Evaluation - loss: 44.316011 Precision:0.4543 Recall:0.4892 Fscore:0.1305 acc: 8.0000%(374/44) 
+
+Mon, 08 Apr 2019 14:27:38: INFO: epoch: 10, train loss: 0.6923, train acc: 0.53, dev loss: 0.6970, dev acc: 0.40, time: 4.85
+Mon, 08 Apr 2019 14:27:38: INFO: 
+Evaluation - loss: 44.316011 Precision:0.4859 Recall:0.4939 Fscore:0.1305 acc: 8.0000%(374/44) 
+

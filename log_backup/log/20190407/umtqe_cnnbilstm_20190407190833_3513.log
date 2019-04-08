@@ -1,0 +1,85 @@
+Sun, 07 Apr 2019 19:08:33: INFO: running main.py --model CNN_BiLSTM -Opt sgd --run_log umtqe_cnnbilstm
+Sun, 07 Apr 2019 19:08:33: INFO: 	BATCH_SIZE=64
+Sun, 07 Apr 2019 19:08:33: INFO: 	BIDIRECTIONAL=True
+Sun, 07 Apr 2019 19:08:33: INFO: 	DEV_FILE=./data/cwmt_dev_comb.txt
+Sun, 07 Apr 2019 19:08:33: INFO: 	DROPOUT=0.3
+Sun, 07 Apr 2019 19:08:33: INFO: 	EMBED_DIM=300
+Sun, 07 Apr 2019 19:08:33: INFO: 	GRAD_CLIP=0.1
+Sun, 07 Apr 2019 19:08:33: INFO: 	HIDDEN_DIM=100
+Sun, 07 Apr 2019 19:08:33: INFO: 	IN_CHANNELS=1
+Sun, 07 Apr 2019 19:08:33: INFO: 	KERNEL_NUMS=300
+Sun, 07 Apr 2019 19:08:33: INFO: 	KERNEL_SIZES=[3, 4, 5]
+Sun, 07 Apr 2019 19:08:33: INFO: 	LEARNING_RATE=0.8
+Sun, 07 Apr 2019 19:08:33: INFO: 	MAX_SEQ_LEN=50
+Sun, 07 Apr 2019 19:08:33: INFO: 	MODEL=CNN_BiLSTM
+Sun, 07 Apr 2019 19:08:33: INFO: 	NUM_CLASS=2
+Sun, 07 Apr 2019 19:08:33: INFO: 	NUM_EPOCHS=100
+Sun, 07 Apr 2019 19:08:33: INFO: 	NUM_LAYERS=3
+Sun, 07 Apr 2019 19:08:33: INFO: 	OPTIMIZER=sgd
+Sun, 07 Apr 2019 19:08:33: INFO: 	PREDICTION_FILE=./predictions/cwmt_test.csv
+Sun, 07 Apr 2019 19:08:33: INFO: 	PRETRAINED_EMBEDDINGS=./word2vec/wiki.en_zh.vec
+Sun, 07 Apr 2019 19:08:33: INFO: 	PRETRAINED_WEIGHTS=tensor([[ 0.0046,  0.0888,  0.0158,  ..., -0.0273, -0.1007, -0.0268],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [-0.0079,  0.0139,  0.0128,  ..., -0.0307, -0.0087, -0.0100],
+        ...,
+        [ 0.0605, -0.0025,  0.0315,  ..., -0.0059, -0.0008, -0.0251],
+        [-0.0071,  0.0619, -0.0325,  ...,  0.0286,  0.0986, -0.0070],
+        [-0.0053,  0.0448,  0.0456,  ..., -0.0745, -0.0486, -0.0215]])
+Sun, 07 Apr 2019 19:08:33: INFO: 	RUN_LOG=umtqe_cnnbilstm
+Sun, 07 Apr 2019 19:08:33: INFO: 	SAVED_MODEL=./saved_model/cwmt.en_zh.pt
+Sun, 07 Apr 2019 19:08:33: INFO: 	SEED_NUM=123
+Sun, 07 Apr 2019 19:08:33: INFO: 	STATIC=False
+Sun, 07 Apr 2019 19:08:33: INFO: 	TEST=False
+Sun, 07 Apr 2019 19:08:33: INFO: 	TEST_FILE=./data/htqe_test_comb.txt
+Sun, 07 Apr 2019 19:08:33: INFO: 	TRAIN_FILE=./data/cwmt_train_comb.txt
+Sun, 07 Apr 2019 19:08:33: INFO: 	USE_GPU=True
+Sun, 07 Apr 2019 19:08:33: INFO: 	VOCAB_SIZE=44995
+Sun, 07 Apr 2019 19:08:33: INFO: 	WEIGHT_DECAY=0.001
+Sun, 07 Apr 2019 19:08:59: INFO: epoch: 1, train loss: 0.6945, train acc: 0.45, dev loss: 0.6921, dev acc: 0.54, time: 23.55
+Sun, 07 Apr 2019 19:09:00: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4738 Recall:0.4880 Fscore:0.4768 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:06: INFO: epoch: 2, train loss: 0.6946, train acc: 0.44, dev loss: 0.6926, dev acc: 0.52, time: 5.95
+Sun, 07 Apr 2019 19:09:07: INFO: 
+Evaluation - loss: 43.826128 Precision:0.4878 Recall:0.4998 Fscore:0.4839 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:13: INFO: epoch: 3, train loss: 0.6945, train acc: 0.45, dev loss: 0.6919, dev acc: 0.54, time: 6.01
+Sun, 07 Apr 2019 19:09:14: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4712 Recall:0.4924 Fscore:0.4799 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:20: INFO: epoch: 4, train loss: 0.6944, train acc: 0.45, dev loss: 0.6925, dev acc: 0.53, time: 5.99
+Sun, 07 Apr 2019 19:09:21: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4755 Recall:0.4889 Fscore:0.4778 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:27: INFO: epoch: 5, train loss: 0.6945, train acc: 0.44, dev loss: 0.6921, dev acc: 0.55, time: 6.25
+Sun, 07 Apr 2019 19:09:28: INFO: 
+Evaluation - loss: 43.826126 Precision:0.4723 Recall:0.4899 Fscore:0.4785 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:34: INFO: epoch: 6, train loss: 0.6945, train acc: 0.45, dev loss: 0.6921, dev acc: 0.54, time: 5.99
+Sun, 07 Apr 2019 19:09:34: INFO: 
+Evaluation - loss: 43.826128 Precision:0.4689 Recall:0.4903 Fscore:0.4773 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:40: INFO: epoch: 7, train loss: 0.6945, train acc: 0.45, dev loss: 0.6922, dev acc: 0.53, time: 6.06
+Sun, 07 Apr 2019 19:09:41: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4712 Recall:0.4924 Fscore:0.4781 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:47: INFO: epoch: 8, train loss: 0.6945, train acc: 0.45, dev loss: 0.6920, dev acc: 0.54, time: 5.91
+Sun, 07 Apr 2019 19:09:48: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4750 Recall:0.4917 Fscore:0.4798 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:09:54: INFO: epoch: 9, train loss: 0.6944, train acc: 0.45, dev loss: 0.6923, dev acc: 0.53, time: 5.96
+Sun, 07 Apr 2019 19:09:55: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4847 Recall:0.4907 Fscore:0.4790 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:10:01: INFO: epoch: 10, train loss: 0.6946, train acc: 0.45, dev loss: 0.6923, dev acc: 0.54, time: 5.99
+Sun, 07 Apr 2019 19:10:02: INFO: 
+Evaluation - loss: 43.826126 Precision:0.4760 Recall:0.4915 Fscore:0.4802 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:10:08: INFO: epoch: 11, train loss: 0.6945, train acc: 0.45, dev loss: 0.6923, dev acc: 0.54, time: 6.00
+Sun, 07 Apr 2019 19:10:08: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4716 Recall:0.4903 Fscore:0.4776 acc: 55.0000%(2434/44) 
+
+Sun, 07 Apr 2019 19:10:14: INFO: epoch: 12, train loss: 0.6944, train acc: 0.45, dev loss: 0.6921, dev acc: 0.54, time: 5.97
+Sun, 07 Apr 2019 19:10:15: INFO: 
+Evaluation - loss: 43.826127 Precision:0.4802 Recall:0.4907 Fscore:0.4798 acc: 55.0000%(2434/44) 
+

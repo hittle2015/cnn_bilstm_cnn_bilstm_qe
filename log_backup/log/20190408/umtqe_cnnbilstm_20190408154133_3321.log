@@ -1,0 +1,58 @@
+Mon, 08 Apr 2019 15:41:33: INFO: running main.py --model=CNN_BiLSTM --optimizer=sgd --batch_size=64 --vocab_size=40000 --embed_dim=300 --in_channels=1 --kernel_sizes=1357 --kernel_nums=200 --hidden_dim=100 --num_layers=3 --bidirectional=True --max_seq_len=60 --learning_rate=0.9 --num_epochs=100 --dropout=0.5 --num_class=2 --train_file=./data/cwmt_train_comb.txt --dev_file=./data/cwmt_dev_comb.txt --dev_file=./data/htqe_test_comb.txt --pretrained_embeddings=./word2vec/wiki.en_zh.vec --prediction_file=./predictions/htqe_test_comb.txt --saved_model=./saved_models/cwmt.en_zh.pt --test=False --weight_decay=0.001 --grad_clip=0.2 --momentum=0.3 --seed_num=123 --scheduler=steplr --run_log=umtqe_cnnbilstm
+Mon, 08 Apr 2019 15:41:33: INFO: 	BATCH_SIZE=64
+Mon, 08 Apr 2019 15:41:33: INFO: 	BIDIRECTIONAL=True
+Mon, 08 Apr 2019 15:41:33: INFO: 	DEV_FILE=./data/htqe_test_comb.txt
+Mon, 08 Apr 2019 15:41:33: INFO: 	DROPOUT=0.5
+Mon, 08 Apr 2019 15:41:33: INFO: 	EMBED_DIM=300
+Mon, 08 Apr 2019 15:41:33: INFO: 	GRAD_CLIP=0.2
+Mon, 08 Apr 2019 15:41:33: INFO: 	HIDDEN_DIM=100
+Mon, 08 Apr 2019 15:41:33: INFO: 	IN_CHANNELS=1
+Mon, 08 Apr 2019 15:41:33: INFO: 	KERNEL_NUMS=200
+Mon, 08 Apr 2019 15:41:33: INFO: 	KERNEL_SIZES=[1, 3, 5, 7]
+Mon, 08 Apr 2019 15:41:33: INFO: 	LEARNING_RATE=0.9
+Mon, 08 Apr 2019 15:41:33: INFO: 	MAX_SEQ_LEN=60
+Mon, 08 Apr 2019 15:41:33: INFO: 	MODEL=CNN_BiLSTM
+Mon, 08 Apr 2019 15:41:33: INFO: 	MOMENTUM=0.3
+Mon, 08 Apr 2019 15:41:33: INFO: 	NUM_CLASS=2
+Mon, 08 Apr 2019 15:41:33: INFO: 	NUM_EPOCHS=100
+Mon, 08 Apr 2019 15:41:33: INFO: 	NUM_LAYERS=3
+Mon, 08 Apr 2019 15:41:33: INFO: 	OPTIMIZER=sgd
+Mon, 08 Apr 2019 15:41:33: INFO: 	PREDICTION_FILE=./predictions/htqe_test_comb.txt
+Mon, 08 Apr 2019 15:41:33: INFO: 	PRETRAINED_EMBEDDINGS=./word2vec/wiki.en_zh.vec
+Mon, 08 Apr 2019 15:41:34: INFO: 	PRETRAINED_WEIGHTS=tensor([[ 0.0046,  0.0888,  0.0158,  ..., -0.0273, -0.1007, -0.0268],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [-0.0100,  0.0247, -0.0236,  ...,  0.0013, -0.0439, -0.0299],
+        ...,
+        [-0.0490, -0.0437,  0.0455,  ..., -0.0159, -0.0336, -0.0242],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000],
+        [ 0.0000,  0.0000,  0.0000,  ...,  0.0000,  0.0000,  0.0000]])
+Mon, 08 Apr 2019 15:41:34: INFO: 	RUN_LOG=umtqe_cnnbilstm
+Mon, 08 Apr 2019 15:41:34: INFO: 	SAVED_MODEL=./saved_models/cwmt.en_zh.pt
+Mon, 08 Apr 2019 15:41:34: INFO: 	SCHEDULER=steplr
+Mon, 08 Apr 2019 15:41:34: INFO: 	SEED_NUM=123
+Mon, 08 Apr 2019 15:41:34: INFO: 	TEST=False
+Mon, 08 Apr 2019 15:41:34: INFO: 	TEST_FILE=./data/htqe_test_comb.txt
+Mon, 08 Apr 2019 15:41:34: INFO: 	TRAIN_FILE=./data/cwmt_train_comb.txt
+Mon, 08 Apr 2019 15:41:34: INFO: 	USE_GPU=True
+Mon, 08 Apr 2019 15:41:34: INFO: 	VOCAB_SIZE=44995
+Mon, 08 Apr 2019 15:41:34: INFO: 	WEIGHT_DECAY=0.001
+Mon, 08 Apr 2019 15:42:00: INFO: epoch: 1, train loss: 0.6906, train acc: 0.56, dev loss: 0.7074, dev acc: 0.20, time: 23.84
+Mon, 08 Apr 2019 15:42:01: INFO: 
+Evaluation - loss: 45.031264 Precision:0.0477 Recall:0.5000 Fscore:0.0862 acc: 6.0000%(267/44) 
+
+Mon, 08 Apr 2019 15:42:08: INFO: epoch: 2, train loss: 0.6903, train acc: 0.57, dev loss: 0.7081, dev acc: 0.19, time: 7.18
+Mon, 08 Apr 2019 15:42:08: INFO: 
+Evaluation - loss: 45.031265 Precision:0.0477 Recall:0.5000 Fscore:0.0856 acc: 6.0000%(267/44) 
+
+Mon, 08 Apr 2019 15:42:16: INFO: epoch: 3, train loss: 0.6906, train acc: 0.56, dev loss: 0.7081, dev acc: 0.19, time: 7.18
+Mon, 08 Apr 2019 15:42:16: INFO: 
+Evaluation - loss: 45.031264 Precision:0.0479 Recall:0.5000 Fscore:0.0863 acc: 6.0000%(267/44) 
+
+Mon, 08 Apr 2019 15:42:23: INFO: epoch: 4, train loss: 0.6906, train acc: 0.56, dev loss: 0.7076, dev acc: 0.19, time: 7.13
+Mon, 08 Apr 2019 15:42:24: INFO: 
+Evaluation - loss: 45.031263 Precision:0.0477 Recall:0.5000 Fscore:0.0860 acc: 6.0000%(267/44) 
+
+Mon, 08 Apr 2019 15:42:31: INFO: epoch: 5, train loss: 0.6907, train acc: 0.57, dev loss: 0.7085, dev acc: 0.18, time: 7.19
+Mon, 08 Apr 2019 15:42:32: INFO: 
+Evaluation - loss: 45.031265 Precision:0.0478 Recall:0.5000 Fscore:0.0864 acc: 6.0000%(267/44) 
+
