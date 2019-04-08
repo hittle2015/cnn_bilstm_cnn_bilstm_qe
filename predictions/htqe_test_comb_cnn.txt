@@ -2528,7 +2528,7 @@
 2526	ht03217	the terrible constraint on organ transplantation is that every life extended depends on the death of someone young enough and healthy enough to have organs worth transplanting .	器官 移植 的 不足之处 就是 等待 移植 的 生命 要 依靠 那些 死去 的 人 的 器官 ， 而且 死去 的 人 要 足够 年轻 、 健康 才 能 移植 器官 给 那些 病人 。	1	1
 2527	ht03221	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	加拿大 的 医生 刚刚 宣部 他们 成功 地 把 一 头 猪 的 心脏 移植 给 了 一 个 人 。	1	1
 2528	ht03222	pressure to increase the number of such xenotransplants seems to be growing .	增加 异种 器官 移植 数目 的 要求 在 上涨 。	1	1
-2529	ht03224	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	1996年 至少 有 两 个 这 方面 的 大 的 报道 出版 ， 一 个 有 欧洲 一 个 在 美国 。	1	0
+2529	ht03224	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	1996年 至少 有 两 个 这 方面 的 大 的 报道 出版 ， 一 个 有 欧洲 一 个 在 美国 。	1	1
 2530	ht03226	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 食品 药物 管理局 已经 发布 了 允许 异种 器官 移植 的 草案 ， 并 指出 ， 关于 异种 器官 移植 的 种族 问题 相对来说 是 无须 担忧 的 。	1	1
 2531	ht03228	 transplant surgeons work miracles. they take organs from one body and integrate them into another , granting the lucky recipient a longer , better life . 	器官 移植 手术 医师 创造 了 奇迹 。 他们 把 器官 从 一 个 人 身上 取出 ， 移植 到 另 一 个 人 身上 ， 从而 赋予 了 这个 幸运儿 更 长久 ， 更 健康 的 生活 。	1	1
 2532	ht03229	 sadly , every year thousands of other people are less fortunate , dying while they wait for suitable organs to be found . 	然而 ， 每 年 也 有 成千上万 不幸 的 人 来不及 等到 找到 适合 他们 的 器官 而 死去 。	1	1

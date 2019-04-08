@@ -153,8 +153,6 @@ def train (train_iter, dev_iter, test_iter, model, args, logger): #num_epoches, 
 			
 			for dev_feature, dev_label in dev_iter:
 				m += 1
-
-
 				dev_feature = dev_feature.cuda()
 				dev_label = dev_label.cuda()
 				dev_score = model(dev_feature)
@@ -166,6 +164,8 @@ def train (train_iter, dev_iter, test_iter, model, args, logger): #num_epoches, 
 				if dev_acc > best_acc:
 					best_acc = dev_acc
 					save(model, args.saved_model, 'best', n)
+		#print('n', n)
+		#print('m', m)
 
 		train_loss /=n
 		train_acc /=n
@@ -196,7 +196,7 @@ def eval(data_iter, model, args, logger):
 	model.eval()
 	corrects, avg_loss = 0, 0
 	precision, recall, fscore = 0.0, 0.0, 0.0
-	m = 0
+	m, size = 0, 0
 
 	predicted = []
 
@@ -210,28 +210,30 @@ def eval(data_iter, model, args, logger):
 
 		avg_loss += loss.item()
 		corrects += (torch.max(logit, 1)[1].view(label.size()).data == label.data).sum()
+		#print(len(label.data))
+		size += len(label.data)
 		preds = torch.max(logit, 1)[1]
 		predicted.extend(preds.cpu().data.numpy())
 
-		pre = precision_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='macro')
-		rec = recall_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='macro')
-		fs = f1_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='macro')
+		pre = precision_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='weighted')
+		rec = recall_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='weighted')
+		fs = f1_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='weighted')
 
 		#print(pre, rec, fs)
 		precision += pre
 		recall += rec
 		fscore +=fs
-
-
+	print('corrects', corrects.item())
+	print('size', size)
 	avg_loss /= m
 	precision /= m
 	recall /= m
 	fscore /= m
-	accuracy = corrects / m
+	accuracy = corrects.item() / size
 	print('\nEvaluation - loss: {:.6f} Precision:{:.4f} Recall:{:.4f} Fscore:{:.4f} acc: {:.4f}%({}/{}) \n'.format(avg_loss,
-		precision,recall, fscore,accuracy, corrects, m))
+		precision,recall, fscore,accuracy, corrects, size))
 	logger.info('\nEvaluation - loss: {:.6f} Precision:{:.4f} Recall:{:.4f} Fscore:{:.4f} acc: {:.4f}%({}/{}) \n'.format(avg_loss,
-		precision,recall, fscore,accuracy, corrects, m))
+		precision,recall, fscore, accuracy, corrects, size))
 	return avg_loss, accuracy, predicted
 
 
