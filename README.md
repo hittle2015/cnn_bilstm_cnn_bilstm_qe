@@ -8,10 +8,12 @@ Method 2 : at the terminal:
 	   python main.py [options] 
 	   
 	   
-# reference
+# references
 
 [1] https://github.com/Shawn1993/cnn-text-classification-pytorch.git
 
 [2] https://github.com/keitakurita/practical-torchtext
 
 [3] https://github.com/bamtercelboo/cnn-lstm-bilstm-deepcnn-clstm-in-pytorch
+
+[4] https://github.com/kolloldas/torchnlp
