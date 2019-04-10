@@ -4,10 +4,11 @@ import torch.nn.functional as F
 import torch.nn as nn
 import numpy as np
 import pandas as pd
+import sys
 import argparse
 import torch.optim as optim
 import torch.autograd as autograd
-from functools import wraps
+from functools import partial
 from DataLoader import DataLoader
 from torch.autograd import Variable
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
@@ -15,60 +16,14 @@ import time
 import sys
 import logging
 import os
+
 device = torch.device('cuda:0')
 # # parameterization
+def clip_gradient(model, clip_value):
+    params = list(filter(lambda p: p.grad is not None, model.parameters()))
+    for p in params:
+    	p.grad.data.clamp_(-clip_value, clip_value)
 
-def clip_gradient(optimizer, grad_clip):
-	for group in optimizer.param_groups:
-		for param in group['params']:	
-			if param.grad is not None and param.requires_grad:
-				param.grad.data.clamp_(-grad_clip, grad_clip)
-
-
-def getOptimizer(params,name="adam",lr=1,weight_decay=None, momentum=None,scheduler=None):
-
-	name = name.lower().strip()
-
-	if name=="adadelta":
-		optimizer=torch.optim.Adadelta(params, lr=1.0*lr, rho=0.9, eps=1e-06, weight_decay=0).param_groups()
-	elif name == "adagrad":
-		optimizer=torch.optim.Adagrad(params, lr=1.0*lr, lr_decay=0, weight_decay=0)
-	elif name == "sparseadam":
-		optimizer=torch.optim.SparseAdam(params, lr=1.0*lr, betas=(0.9, 0.999), eps=1e-08)
-	elif name =="adamax":
-		optimizer=torch.optim.Adamax(params, lr=2.0*lr, betas=(0.9, 0.999), eps=1e-08, weight_decay=0)
-	elif name =="asgd":
-		optimizer=torch.optim.ASGD(params, lr=1.0*lr, lambd=0.0001, alpha=0.75, t0=1000000.0, weight_decay=0)
-	elif name == "lbfgs":
-		optimizer=torch.optim.LBFGS(params, lr=1.0*lr, max_iter=20, max_eval=None, tolerance_grad=1e-05, tolerance_change=1e-09, history_size=100, line_search_fn=None)
-	elif name == "rmsprop":
-		optimizer=torch.optim.RMSprop(params, lr=1.0*lr, alpha=0.99, eps=1e-08, weight_decay=0, momentum=0, centered=False)
-	elif name =="rprop":
-		optimizer=torch.optim.Rprop(params, lr=1.0*lr, etas=(0.5, 1.2), step_sizes=(1e-06, 50))
-	elif name =="sgd":
-		optimizer=torch.optim.SGD(params, lr=1.0*lr, momentum=0, dampening=0, weight_decay=0, nesterov=False)
-	elif name =="adam":
-		optimizer=torch.optim.Adam(params, lr=0.001*lr, betas=(0.9, 0.999), eps=1e-08, weight_decay=0)
-	else:
-		print("undefined optimizer, use adam in default")
-		optimizer=torch.optim.Adam(params, lr=0.1*lr, betas=(0.9, 0.999), eps=1e-08, weight_decay=0)
-	
-	if scheduler is not None:
-		if scheduler == "lambdalr":
-			lambda1 = lambda epoch: epoch // 30
-			lambda2 = lambda epoch: 0.95 ** epoch
-			return torch.optim.lr_scheduler.LambdaLR(optimizer, lr_lambda=[lambda1, lambda2])
-		elif scheduler=="steplr":
-			return torch.optim.lr_scheduler.StepLR(optimizer, step_size=30, gamma=0.1)
-		elif scheduler =="multisteplr":
-			return torch.optim.lr_scheduler.MultiStepLR(optimizer, milestones=[30,80], gamma=0.1)
-		elif scheduler =="reducelronplateau":
-			return  torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min')
-		else:
-			pass
-	else:
-		return optimizer
-# logging module
 
 def getLogger(fname):
 	import random
@@ -98,143 +53,126 @@ def DataIterator (file_path,seq_len, batch_size):
 	data_set = torch.utils.data.TensorDataset(features, labels)
 	data_iter = torch.utils.data.DataLoader(data_set, batch_size=batch_size,shuffle=True)
 	return data_iter
-#training module
-def train (train_iter, dev_iter, test_iter, model, args, logger): #num_epoches, train_file, learning_rate, weight_decay, batch_size
-	"""
-	parameters:
-	vocab: Vocabulary Object
-	epoches: number of epoches
-	model: initialized neural network
-	train_file: path to training file
-	learning_rate: configured learning rate
-	weight_decay: L2 regularization eg. 1e-6
-	"""
+
+
+# training module
+def train(epoch, train_iter, model, args, logger):
+	if args.use_gpu:
+		model.to(device)
+		args.pretrained_weights.cuda()
+
 	loss_function = nn.CrossEntropyLoss()
 	#optimizer = torch.optim.Adam(model.parameters(), lr=args.learning_rate, weight_decay = args.weight_decay)
-	optimizer = getOptimizer(model.parameters(), name=args.optimizer, lr = args.learning_rate, momentum=args.momentum, weight_decay= args.weight_decay,scheduler=args.scheduler)
-
-	#exp_lr_scheduler = lr_scheduler.StepLR(optimizer_ft, step_size=7, gamma=0.1)
-	
+	optimizer = torch.optim.Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=args.learning_rate, weight_decay=args.weight_decay)
+	optimizer.zero_grad()
 	print("# parameters:", sum(param.numel() for param in model.parameters() if param.requires_grad))
-
-	if args.use_gpu is True:
-		model.to(device)
-		#train_iter, dev_iter, test_iter = train_iter.cuda(), dev_iter.cuda(), test_iter.cuda()
-		args.pretrained_weights =args.pretrained_weights.cuda()
-
 	
-	best_acc = 0.0
-	#model.train()
-	best_test_acc = 0.0
+	steps = 0
+	model.train()
+	start = time.time()
+	train_loss, train_acc = [], []
 
-	for epoch in range(1,args.num_epochs+1 ):
-		model.train()
-		start = time.time()
-		train_loss, dev_losses = 0, 0
-		train_acc, dev_acc = 0, 0
 
+	for idx, batch in enumerate(train_iter):
+		feature, label  = Variable(batch[0]), Variable(batch[1])
+		if args.use_gpu:
+			feature, label = feature.cuda(), label.cuda()
+		
+		prediction = model(feature)
+		loss = loss_function(prediction, label)
+		correct = (torch.max(prediction, 1)[1].view(label.size()).data == label.data).float().sum()
+
+		acc = correct / len(label.data)
+		# train_loss  += loss.item()
+		# train_acc += acc.item()
+		train_loss.append(loss.item())
+		train_acc.append(acc.item())
+
+		loss.backward()
+		clip_gradient(model, args.grad_clip)
+		optimizer.step()
+		steps +=1
 
 		
-		n, m = 0, 0
-		for feature, label in train_iter:
-			n += 1
-			model.zero_grad()
-			if args.use_gpu:
-				feature, label = Variable(feature.cuda()), Variable(label.cuda())
-			score = model(feature)
-			loss = loss_function(score, label)
-			loss.backward()
-			optimizer.step()
-			train_acc += accuracy_score(torch.argmax(score.cpu().data, dim=1), label.cpu())
-			train_loss += loss
-		# tuning on development set
-		with torch.no_grad():
-			#dev_losses, dev_acc = eval(dev_iter, model, args)
-			
-			for dev_feature, dev_label in dev_iter:
-				m += 1
-				dev_feature = dev_feature.cuda()
-				dev_label = dev_label.cuda()
-				dev_score = model(dev_feature)
-				dev_loss = loss_function(dev_score, dev_label)
-				dev_acc += accuracy_score(torch.argmax(dev_score.cpu().data,dim=1), dev_label.cpu())
+	
+		if steps% 10 == 0:
+			print('[epoch/batch]: [%d/%d]; train loss: %.2f; train acc: %.2f'%((epoch +1), (idx +1 ), loss, acc))
+			sys.stdout.flush()
+
+	avg_epc_loss, avg_epc_acc = sum(train_loss) /float(len(train_loss)), sum(train_acc) / float(len(train_acc))
+
+	
+	end = time.time()
+	runtime = end - start
+	print('epoch:%d; avg epoch Loss: %.2f; avg epoch acc: %.2f'%((epoch+1), avg_epc_loss, avg_epc_acc), flush=True)
+	logger.info('\nepoch: %d, train loss: %.4f, train acc: %.2f, time: %.2f' %(epoch, avg_epc_loss, avg_epc_acc, runtime))
+	
+	return steps
 
 
-				dev_losses += dev_loss
-				if dev_acc > best_acc:
-					best_acc = dev_acc
-					save(model, args.saved_model, 'best', n)
-		#print('n', n)
-		#print('m', m)
+# evaluation module
+def evaluate(val_iter, model, args, logger, mode):
+	#avg_epc_loss, avg_epc_acc = 0.0, 0.0
+	avg_epc_loss, avg_epc_acc = [], []
+	avg_pre, avg_rec, avg_fscore = 0.0,0.0, 0.0
+	corrects, size = 0, 0
+	batch=0
 
-		train_loss /=n
-		train_acc /=n
-		dev_acc /= m
-		dev_losses /=m
-
-		end = time.time()
-		runtime = end - start
-		print('epoch: %d, train loss: %.4f, train acc: %.2f, dev loss: %.4f, dev acc: %.2f, time: %.2f' %
-			(epoch, train_loss, train_acc, dev_losses, dev_acc, runtime))
-		logger.info('epoch: %d, train loss: %.4f, train acc: %.2f, dev loss: %.4f, dev acc: %.2f, time: %.2f' %
-			(epoch, train_loss, train_acc, dev_losses, dev_acc, runtime))
-
-		#testing while training----start evaluation
-		test_loss, test_acc, predictions = eval(test_iter, model, args, logger)
-		# print('test loss: %.4f, test acc: %.2f'%(test_loss, test_acc))
-		# logger.info('test loss: %.4f, test acc: %.2f'%(test_loss, test_acc))
-
-		# saving the results with best accuracy on the test data only
-		if test_acc > best_test_acc:
-			best_test_acc = test_acc
-			save_predictions(args.test_file, args.prediction_file, predictions)
-
-
-
-
-def eval(data_iter, model, args, logger):
-	model.eval()
-	corrects, avg_loss = 0, 0
-	precision, recall, fscore = 0.0, 0.0, 0.0
-	m, size = 0, 0
 
 	predicted = []
 
-	for feature, label in data_iter:
-		m +=1
-		if args.use_gpu:
-			feature, label = Variable(feature.cuda()), Variable(label.cuda())
+	loss_function = nn.CrossEntropyLoss()
 
-		logit = model(feature)
-		loss = F.cross_entropy(logit, label, size_average=False)
+	model.eval()
+	start = time.time()
 
-		avg_loss += loss.item()
-		corrects += (torch.max(logit, 1)[1].view(label.size()).data == label.data).sum()
-		#print(len(label.data))
-		size += len(label.data)
-		preds = torch.max(logit, 1)[1]
-		predicted.extend(preds.cpu().data.numpy())
+	with torch.no_grad():
+		for idx, batch in enumerate(val_iter):
+			feature, label  = Variable(batch[0]), Variable(batch[1])
+			if args.use_gpu:
+				feature, label = feature.cuda(), label.cuda()
+			prediction = model(feature)
+			preds = torch.argmax(prediction, dim=1).cpu().data
+			predicted.extend([p.item() for p in preds])
+			loss = loss_function(prediction, label)
+			corrects += (torch.max(prediction, 1)[1].view(label.size()).data == label.data).sum()
+			size +=len(label.data)
 
-		pre = precision_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='weighted')
-		rec = recall_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='weighted')
-		fs = f1_score(label.cpu().data.numpy(), preds.cpu().data.numpy(), average='weighted')
+			# acc = correct /len(label.data)
+			#acc = accuracy_score(label.cpu().data.numpy(), torch.argmax(prediction, dim=1).cpu().data.numpy())
+			acc = accuracy_score(label.cpu().data.numpy(), preds.numpy())
+			pre = precision_score(label.cpu().data.numpy(), torch.argmax(prediction, dim=1).cpu().data.numpy(), average='macro')
+			rec = recall_score(label.cpu().data.numpy(), torch.argmax(prediction, dim=1).cpu().data.numpy(), average='macro')
+			fsc = f1_score(label.cpu().data.numpy(), torch.argmax(prediction, dim=1).cpu().data.numpy(), average='macro')
+			# pre = precision_score(label.cpu().data.numpy(), preds.numpy(), average='micro')
+			# rec = recall_score(label.cpu().data.numpy(), preds.numpy(), average='micro')
+			# fsc = f1_score(label.cpu().data.numpy(), preds.numpy(), average='micro')
 
-		#print(pre, rec, fs)
-		precision += pre
-		recall += rec
-		fscore +=fs
-	print('corrects', corrects.item())
-	print('size', size)
-	avg_loss /= m
-	precision /= m
-	recall /= m
-	fscore /= m
-	accuracy = corrects.item() / size
-	print('\nEvaluation - loss: {:.6f} Precision:{:.4f} Recall:{:.4f} Fscore:{:.4f} acc: {:.4f}%({}/{}) \n'.format(avg_loss,
-		precision,recall, fscore,accuracy, corrects, size))
-	logger.info('\nEvaluation - loss: {:.6f} Precision:{:.4f} Recall:{:.4f} Fscore:{:.4f} acc: {:.4f}%({}/{}) \n'.format(avg_loss,
-		precision,recall, fscore, accuracy, corrects, size))
-	return avg_loss, accuracy, predicted
+			#avg_epc_loss += loss.item()
+			#avg_epc_acc += acc.item()
+			avg_epc_loss.append(loss.item())
+			avg_epc_acc.append(acc.item())
+			avg_pre += pre
+			avg_rec += rec
+			avg_fscore += fsc
+
+	#avg_epc_loss, avg_epc_acc = avg_epc_loss / len(val_iter), avg_epc_acc / len(val_iter)
+	avg_loss, avg_acc = sum(avg_epc_loss) /float(len(avg_epc_loss)), sum(avg_epc_acc) /float(len(avg_epc_acc))
+
+	avg_pre, avg_rec, avg_fscore = avg_pre / len(val_iter), avg_rec / len(val_iter) , avg_fscore / len(val_iter)
+
+	end = time.time()
+	runtime = end - start
+	if mode=="development":
+		print('dev loss: %.2f; dev acc: %.2f'%(avg_loss, avg_acc))
+		logger.info('dev loss: %.4f, dev acc: %.2f, time: %.2f' %(avg_loss, avg_acc, runtime))
+	elif mode =="testing":
+
+		print('\nevaluation - loss: {:.6f} precision:{:.4f} recall:{:.4f} f-score:{:.4f} acc: {:.4f}%({}/{}) \n'.format(avg_loss,avg_pre, avg_rec, avg_fscore, avg_acc, corrects, size))
+		logger.info('\nevaluation - loss: {:.6f} precision:{:.4f} recall:{:.4f} f-score:{:.4f} acc: {:.4f}%({}/{}) \n'.format(avg_loss,avg_pre, avg_rec, avg_fscore, avg_acc, corrects, size))
+
+	model.train()
+	return avg_acc, predicted
 
 
 def save(model, save_dir, save_prefix, steps):
@@ -243,6 +181,7 @@ def save(model, save_dir, save_prefix, steps):
 	save_prefix = os.path.join(save_dir, save_prefix)
 	save_path = '{}_steps_{}.pt'.format(save_prefix, steps)
 	torch.save(model.state_dict(), save_path)
+
 
 def save_predictions (test_file, prediction_file, predicted):
 

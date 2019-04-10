@@ -8,7 +8,7 @@
 6	ht00008	" add to such behavior the fact that some ants use leaf fragments as spoons in which to carry soft food back to their nest , and one is tempted to describe insects as "" intelligent "" and begin to make comparisons between insect and human societies . "	除此之外 ， 一些 蚂蚁用 碎 树叶子 当作 匙子 一样 将 软 食物 输送 回 巢穴 。 有 人 认为 昆虫 很 聪明 并 开始 拿 它 和 人类 作 比较 。	1	0
 7	ht00010	only a moment with a hand lens is required to discover a new world of design and beauty .	发现 一 个 崭新 世界 的 创意 和 美丽 ， 用 一 只 隐形 的 手 ， 那 只是 片刻 的 事情 。	0	0
 8	ht00011	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌视 和 恐惧 通常 是 愚昧 的 产物 ， 对抗 也不例外 。	1	0
-9	ht00012	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	当 我们 被 昆虫 蛰痛 和 受到 昆虫 带来 的 疾病 威胁 时 ， 我们 不 能 否认 昆虫 是 一 种 很 讨厌 的 东西 ， 但是 ， 当 我们 冷静地 对待 时 ， 即使 是 最 恶毒 的 昆虫 也 有 美丽 的 一 面 。	1	0
+9	ht00012	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	当 我们 被 昆虫 蛰痛 和 受到 昆虫 带来 的 疾病 威胁 时 ， 我们 不 能 否认 昆虫 是 一 种 很 讨厌 的 东西 ， 但是 ， 当 我们 冷静地 对待 时 ， 即使 是 最 恶毒 的 昆虫 也 有 美丽 的 一 面 。	1	1
 10	ht00013	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	从 对 它们 保留 下来 的 化石 研究 中 ， 我们 得知 昆虫 已在 地球 上 居住 了 将近 四亿年 的 时间 。	1	0
 11	ht00014	today we find them abundantly everywhere we look .	如今 ， 我们 发现 它们 已 多 到 随处 可 见 。	1	0
 12	ht00015	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	在 极地 的 雪中 和 高高 的 山顶 上 都 发现 了 昆虫 。	1	0
@@ -31,7 +31,7 @@
 29	ht00040	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	使 我 感到 悲哀 的 是 ， 人们 感觉 不 到 从 分工 中 得来 的 喜悦 ， 还 不如 那些 普通 的 虫子 。	0	0
 30	ht00043	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	没有 人 会 否认 ， 昆虫 是 一 种 令人讨厌 的 生物 因为 它们 会 咬痛 我们 ， 它们 是 一 种 危险 的 生物 因为 它们 能 传播 疾病 ， 但是 ， 冷静地 考虑 一下 ， 即使 是 有毒 的 昆虫 也是 美丽 的 。	1	0
 31	ht00044	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 昆虫 的 化石 遗址 可 知 ， 早在 4亿 年 前 ， 地球 上 就 有 昆虫 了 。	1	0
-32	ht00045	today we find them abundantly everywhere we look .	今天 ， 我们 可以 在 人类 生活 的 任何 地方 看到 它们 。	1	0
+32	ht00045	today we find them abundantly everywhere we look .	今天 ， 我们 可以 在 人类 生活 的 任何 地方 看到 它们 。	1	1
 33	ht00046	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	在 白雪 覆盖 的 南极 和 高山 顶峰 也 有 它们 的 踪影 。	1	0
 34	ht00047	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 黄蜂 ， 蚂蚁 、 白蚁 有 着 复杂 的 社会 ， 它们 有 不同 的 成员 负责 寻食 、 保卫 和 繁衍 后代 。	1	0
 35	ht00048	 the life of a worker honeybee is even separated into successive occupations : during the first three weeks the young worker grooms the queen and her eggs , cleans out the hive , cools it by wing- fanning at the entrance , and attacks or walls in intruders . 	即使 是 一 只 工蜂 ， 他 的 一 生 也 被 严格 划分 为 几 个 连续 的 工作 期 。 前 三 周年 轻 的 工蜂 负责 照料 蚁后 和 她 的 卵 ， 打扫 蜂巢 ， 在 门口 用 翅膀 为 蚁后 降温 ， 阻止 和 攻击 入侵者 。	1	0
@@ -42,7 +42,7 @@
 40	ht00055	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	研究 现存 的 昆虫 化石 得知 ， 昆虫 已经 在 这个 地球 上 已经 有 近 4亿 年 的 历史 了 。	1	0
 41	ht00056	today we find them abundantly everywhere we look .	现在 我们 在 各个 地方 都 能 看到 大量 的 昆虫 。	1	0
 42	ht00057	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	在 白雪 覆盖 的 两 极 地区 以及 高山 顶上 都 发现 了 昆虫 的 存在 。	1	0
-43	ht00058	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 胡蜂 ， 蚂蚁 和 白蚁 ， 都 是 一 个 错综复杂 的 社会 。 在 它们 当中 ， 不同 的 成员 有 不同 的 分工 ， 有 专门 觅食 的 ， 有 专门 防卫 的 ， 还有 专门 繁殖 的 。	1	0
+43	ht00058	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 胡蜂 ， 蚂蚁 和 白蚁 ， 都 是 一 个 错综复杂 的 社会 。 在 它们 当中 ， 不同 的 成员 有 不同 的 分工 ， 有 专门 觅食 的 ， 有 专门 防卫 的 ， 还有 专门 繁殖 的 。	1	1
 44	ht00060	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	只有 在 这 学徒 时期 过去 后 ， 它们 才 能够 离开 蜂房 ， 寻找 花蜜 和 花粉 。	1	0
 45	ht00064	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	普遍 认为 ， 敌意 和 恐惧 是 无知 的 产物 ， 我们 （ 人类 ） 的 对抗 也不例外 。	1	0
 46	ht00065	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	如果 被 昆虫 所 蛰 之 处 发肿 疼痛 ， 甚至 有 转化 为 疼痛 的 危险 ， 你 会 不 可 否认 地 认为 昆虫 很 厌恶 ， 但是 ， 平心而论 ， 即使 是 有毒 的 昆虫 也是 美丽 的 。	1	0
@@ -55,7 +55,7 @@
 53	ht00074	only a moment with a hand lens is required to discover a new world of design and beauty .	只要 透镜 在手 时 ， 就 能 发现 一 个 布局 雅致 和 美丽 的 新 世界 。	1	0
 54	ht00075	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌对 和 恐惧 是 无知 的 产物 ， 人们 之间 的 对立 也不例外 。	1	0
 55	ht00076	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	当 昆虫 把 人 咬伤 ， 引起 剧疼 ， 没有 人 不 厌烦 它们 ， 还有 对 其 传播 疾病 的 恐惧 。 但是 ， 冷静 得 看 一 看 ， 甚至 连 有毒 的 昆虫 都 是 美丽 的 。	1	0
-56	ht00077	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 它们 的 化石 遗骸 ， 我们 得知 昆虫 已在 地球 上 居住 了 近 四亿 年 。	1	0
+56	ht00077	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 它们 的 化石 遗骸 ， 我们 得知 昆虫 已在 地球 上 居住 了 近 四亿 年 。	1	1
 57	ht00078	today we find them abundantly everywhere we look .	今天 我们 在 哪儿 都 能 看到 成群结队 的 昆虫 。	1	0
 58	ht00079	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	我们 还在 极 帽 的 冰雪 和 高峰 上 找到 了 它们 。	1	0
 59	ht00080	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 黄蜂 ， 蚂蚁 和 白蚁 有 着 复杂 的 社会 ， 不同 的 成员 有 不同 的 分工 ， 有的 专门 觅食 ， 有的 专门 抵御 入侵 ， 有的 专门 繁殖 后代 。	1	0
@@ -87,19 +87,19 @@
 85	ht00112	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	我们 已经 在 南极 之 顶 的 雪中 ， 甚至 在 高 在 之巅都 发现 了 昆虫 的 存在 。	1	0
 86	ht00113	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	像 蜜蜂 ， 黄蜂 ， 蚂蚁 ， 它们 都 有 自己 错综 复杂 的 社会 结构 ， 其中 不同 的 成员 有 着 各自 的 分工 ， 像 觅食 ， 防卫 和 繁殖 。	1	0
 87	ht00114	 the life of a worker honeybee is even separated into successive occupations : during the first three weeks the young worker grooms the queen and her eggs , cleans out the hive , cools it by wing- fanning at the entrance , and attacks or walls in intruders . 	工蜂 的 生命 甚至 可以 分为 两 个 连续 工作 的 阶段 ： 在 最初 的 三 周 ， 它们 负责 照料 蜂后 和 它的卵 ， 清理 蜂巢 ， 保护 蜂穴 以防 入侵者 。	1	0
-88	ht00115	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	只有 经过 了 这 一 段 的 学徒 期后 ， 它们 才 会 被 允许 陆续 的 离开 蜂穴 ， 去 寻找 花蜜 和 花粉 。	1	0
+88	ht00115	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	只有 经过 了 这 一 段 的 学徒 期后 ， 它们 才 会 被 允许 陆续 的 离开 蜂穴 ， 去 寻找 花蜜 和 花粉 。	1	1
 89	ht00116	" add to such behavior the fact that some ants use leaf fragments as spoons in which to carry soft food back to their nest , and one is tempted to describe insects as "" intelligent "" and begin to make comparisons between insect and human societies . "	"除了 这些 行为 之外 ， 一些 蚂蚁用 叶子 碎片 当 汤匙 来 运送 柔软 的 食物 回 巢穴 ， 你 会 被 它们 吸引 ， 认为 昆虫 是 "" 聪明伶俐 的 "" 并且 会 开始 把 昆虫 和 人类 做 比较 。 "	1	0
 90	ht00117	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	让 我 伤心 的 是 ： 人们 拒绝 自己 欣赏 即便是 普通 昆虫 的 优雅 美丽 所 带来 的 朴素 快乐 。	1	0
 91	ht00118	only a moment with a hand lens is required to discover a new world of design and beauty .	只 需要 一瞬间 ， 你 就 可以 用 透镜 发现 一 个 布局 别致 美丽 的 新 世界 。	1	0
 92	ht00119	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	通常 ， 无知 是 敌意 和 恐惧 之母 ， 甚至 对抗 也不例外 。	1	0
 93	ht00120	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	当 昆虫 咬 的 人 痛 ， 由于 传播 疾病 而 威胁 人类 的 ， 无可否认 ， 它们 是 令人讨厌 的 ， 然而 ， 若 客观地 给予 它们 评价 的话 ， 即使 是 害虫 ， 也 是 美丽 的 。	1	0
-94	ht00121	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 他们 的 化石 得知 ， 这些 昆虫 约在 4亿 年 前 就 出现 在 地球 上 了 。	1	0
-95	ht00122	today we find them abundantly everywhere we look .	今天 ， 我们 随处 可 见 大量 的 昆虫 。	1	0
+94	ht00121	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 他们 的 化石 得知 ， 这些 昆虫 约在 4亿 年 前 就 出现 在 地球 上 了 。	1	1
+95	ht00122	today we find them abundantly everywhere we look .	今天 ， 我们 随处 可 见 大量 的 昆虫 。	1	1
 96	ht00123	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	昆虫 是 在 极地 的 雪峰 和 高山 之 颠给 发现 的 。	1	0
 97	ht00124	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 黄蜂 ， 蚂蚁 、 白蚁 有 着 复杂 的 社会 结构 ， 各 个 成员 也 有 着 不同 的 分工 ， 有的 负责 觅食 ， 有的 负责 防卫 工作 ， 有的 负责 繁衍 。	1	0
 98	ht00126	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	见习期 完 就 可以 离开 蜂巢 出去 寻找 事物 和 采蜜 了 。	1	0
 99	ht00128	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	这 让 我 悲伤 人们 不 要 这个 简单 方法 就 能 得的 乐趣 ， 即使 是 观察 最 普通 的 昆虫 ， 也 能 发现 其 精湛 美妙 之 处 。	0	0
-100	ht00129	only a moment with a hand lens is required to discover a new world of design and beauty .	一会儿 工夫 ， 只 需 拿 着 一 个 放大镜 就 能 看到 一 个 美丽 独特 的 新世界 。	1	0
+100	ht00129	only a moment with a hand lens is required to discover a new world of design and beauty .	一会儿 工夫 ， 只 需 拿 着 一 个 放大镜 就 能 看到 一 个 美丽 独特 的 新世界 。	1	1
 101	ht00130	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌意 论者 认为 ， 敌意 和 恐惧 是 产生 愚昧无知 的 根源 。	0	0
 102	ht00131	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	任何 人 都 不 能 否认 昆虫 是 一 种 令人讨厌 的 东西 当 他们 被 咬 时 所 带来 的 痛苦 和 威胁 ， 甚至 它们 还能 传播 疾病 ， 但 仔细 考虑 考虑 ， 即使 有的 昆虫 也 有 它 有利 的 一 面 。	0	0
 103	ht00133	today we find them abundantly everywhere we look .	今天 我们 可以 随时 随地 看见 昆虫 的 踪迹 。	1	0
@@ -119,7 +119,7 @@
 117	ht00148	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	只有 经过 这 段 训练 期 合格 后 ， 才 可以 离开 蜂巢 去 采蜜 和 花粉 。	1	0
 118	ht00149	" add to such behavior the fact that some ants use leaf fragments as spoons in which to carry soft food back to their nest , and one is tempted to describe insects as "" intelligent "" and begin to make comparisons between insect and human societies . "	"还有 诸如 此 类 的 行为 ， 如 蚂蚁 会用 碎 叶片 作 匙取 软 的 食物 带回 巢里 。 有 人 称 它们 "" 有 智慧 "" ， 并 开始 拿 它们 与 人类 社会 进行 比较 。 "	1	0
 119	ht00150	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	使我 悲伤 的 是 人们 否认 他们 自己 通过 欣赏 这 种 常见 的 昆虫 的 美丽 而 得到 的 快乐 。	1	0
-120	ht00151	only a moment with a hand lens is required to discover a new world of design and beauty .	只有 镜头 的 一 瞬间 能够 捕捉 到 一 个 美丽 多姿 的 新 世界 。	1	0
+120	ht00151	only a moment with a hand lens is required to discover a new world of design and beauty .	只有 镜头 的 一 瞬间 能够 捕捉 到 一 个 美丽 多姿 的 新 世界 。	1	1
 121	ht00152	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌意 与 恐惧 一般 是 无知 的 产物 ， 并且 我们 的 对抗 是 毫 无 例外 的 。	1	0
 122	ht00153	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	我们 不得不 否认 的 是 当 昆虫 咬 得 你 感到 疼痛 并且 他们 有着 传播 疾病 的 威胁 时 ， 他们 便 成 了 令 了 讨厌 的 东西 ， 但是 客观地 来看 ， 有害 的 昆虫 往往 是 美丽 的 昆虫 。	1	0
 123	ht00155	today we find them abundantly everywhere we look .	如今 我们 可以 在 我们 所 看 之 处 发现 大量 的 昆虫 。	1	0
@@ -131,7 +131,7 @@
 129	ht00161	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	另 我 难过 的 是 人们 否认 感谢 这 极度 高雅 甚至 更加 普通 的 昆虫 所 带来 的 简单 的 快乐 。	1	0
 130	ht00162	only a moment with a hand lens is required to discover a new world of design and beauty .	只 有用 镜头 的 那 一 刹那 才 能 捕捉 到 一 个 崭新 的 美丽 新世界 。	1	0
 131	ht00163	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌意 和 害怕 通常 是 忽略 的 产物 ， 这 也 包括 我们 的 对抗性 。	1	0
-132	ht00167	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	我们 能 在 极地 和 山峰 发现 昆虫 。	1	0
+132	ht00167	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	我们 能 在 极地 和 山峰 发现 昆虫 。	1	1
 133	ht00168	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 黄蜂 ， 蚂蚁 和 白蚁 有 着 复杂 的 社会 体系 ， 包括 不同 成员 的 分工 ， 如 寻食 ， 保卫 和 繁衍 ， 各司其职 。	1	0
 134	ht00170	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	只有 当 从 这 种 学徒 期 毕业后 他们 才 被 允许 离开 蜂巢 去 寻找 花蜜 和 花粉 。	1	0
 135	ht00173	only a moment with a hand lens is required to discover a new world of design and beauty .	通过 手 透镜 ， 只 需 一会儿 就 能 发现 一 个 新 的 构思 巧妙 的 美丽 的 世界 。	1	0
@@ -165,7 +165,7 @@
 163	ht00208	today we find them abundantly everywhere we look .	今天 我们 发现 它们 随处 可 见 。	1	0
 164	ht00209	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	在 南极 的 积雪 上 在 高山 的 山顶 上 ， 我们 都 发现 了 昆虫 。	1	0
 165	ht00210	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 黄蜂 ， 蚂蚁 和 白蚁 都 有 复杂 的 社会 分工 ， 不同 的 成员 都 有 特别 的 分工 ， 有的 负责 寻食 ， 有的 负责 防御 ， 有的 负责 生产 。	1	0
-166	ht00211	 the life of a worker honeybee is even separated into successive occupations : during the first three weeks the young worker grooms the queen and her eggs , cleans out the hive , cools it by wing- fanning at the entrance , and attacks or walls in intruders . 	一 只 工蜂 的 生活 可以 被 分成 连续 的 分工 ， 前 三 周 负责 照顾 蜂皇 和 它 的 蛋 ， 清理 蜂巢 ， 在 门口 用 挥动 翅膀 的 方式 给 蜂巢 降温 ， 做好 防卫 工作 。	1	0
+166	ht00211	 the life of a worker honeybee is even separated into successive occupations : during the first three weeks the young worker grooms the queen and her eggs , cleans out the hive , cools it by wing- fanning at the entrance , and attacks or walls in intruders . 	一 只 工蜂 的 生活 可以 被 分成 连续 的 分工 ， 前 三 周 负责 照顾 蜂皇 和 它 的 蛋 ， 清理 蜂巢 ， 在 门口 用 挥动 翅膀 的 方式 给 蜂巢 降温 ， 做好 防卫 工作 。	1	1
 167	ht00212	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	在 完成 这 方面 的 训练 之后 ， 它们 才 可以 出去 采 花蜜 和 花粉 。	1	0
 168	ht00213	" add to such behavior the fact that some ants use leaf fragments as spoons in which to carry soft food back to their nest , and one is tempted to describe insects as "" intelligent "" and begin to make comparisons between insect and human societies . "	一些 蚂蚁用 树叶 的 碎片 作为 勺子 将 柔软 的 食物 运回 它们 的 巢穴 。 有些 人 将 昆虫 喻为 天才 然后 开始 将 人类 与 昆虫 社会 做 比 一些 比较 。	1	0
 169	ht00214	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	让 我 觉得 悲伤 的 是 ， 有些 人 否认 他们 自己 欣赏 这些 优雅 的 乐趣 。	1	0
@@ -231,7 +231,7 @@
 229	ht00303	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌意 和 恐惧 一般来说 都 是 无知 所 造成 的 ， 我们 （ 对 昆虫 所 产生 的 ） 敌意 也 不 例外 （ 也 是 如此 ） 。	1	0
 230	ht00304	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	我们 不 能 否认 当 昆虫 蛰 得 人 十分 疼痛 以及 在 传播 疾病 时 是 非常 讨厌 的 并 令 人 感到 恐惧 的 东西 。 然而 ， 公平 地 说 ， 即使 是 有毒 的 昆虫 也是 美丽 的 。	1	0
 231	ht00305	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 对 它们 化石 遗迹 的 学习 ， 我们 知道 ， 昆虫 在 这个 地球 上 已经 生活 了 将近 4亿 年 了 。	1	0
-232	ht00306	today we find them abundantly everywhere we look .	如今 我们 所 看到 的 每 一 处 都会 大量 地 发现 它们 。	1	0
+232	ht00306	today we find them abundantly everywhere we look .	如今 我们 所 看到 的 每 一 处 都会 大量 地 发现 它们 。	1	1
 233	ht00307	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	人们 在 覆盖 在 南极 的 雪堆 上 以及 在 高山 顶上 发现 昆虫 。	1	0
 234	ht00308	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 ， 黄蜂 ， 蚂蚁 和 白蚁 有 着 极其 精巧 复杂 的 社会 体系 ， 在 这个 社会 里 ， 不同 的 成员 有 不同 的 任务 ， 有的 专门 寻食 ， 有的 专门 负责 保卫 ， 还 有的 专门 负责 繁殖 后代 。	1	0
 235	ht00309	 the life of a worker honeybee is even separated into successive occupations : during the first three weeks the young worker grooms the queen and her eggs , cleans out the hive , cools it by wing- fanning at the entrance , and attacks or walls in intruders . 	工蜂 的 一 生 是 被 连续不断 的 工作 隔开 的 ： 在 前 三 个 星期 ， 年轻 的 工蜂 服侍 、 喂养蜂 后 和 她 的 卵 ， 清洁 蜂巢 ， 在 入口处 用 翅膀 扇风 使 其 冷却 ， 并且 攻击 或 阻止 入侵者 进入 。	1	0
@@ -248,7 +248,7 @@
 246	ht00323	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	人们 不 愿意 让 自己 从 欣赏 一些 平常 不过 的 昆虫 的 精妙 行为 中 获得 简单 的 快乐 ， 这 令 我 很 失落 。	1	0
 247	ht00324	only a moment with a hand lens is required to discover a new world of design and beauty .	我们 只是 在 手持 放大镜 的 一 刻 ， 才 会 要求 去 探索 那 新 世界 的 风格 和 美丽 。	1	0
 248	ht00325	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌意 和 恐惧 是 普遍 的 无知 的 产物 ， 我们 人 的 敌意 也不例外 。	1	0
-249	ht00327	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 古老 的 昆虫 化石 ， 我们 知道 昆虫 住泥 里 已 有 400万 年 的 历史 。	0	0
+249	ht00327	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 古老 的 昆虫 化石 ， 我们 知道 昆虫 住泥 里 已 有 400万 年 的 历史 。	0	1
 250	ht00328	today we find them abundantly everywhere we look .	今天 我们 随处 可 见到 它们 。	1	0
 251	ht00329	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	甚至 在 极地 的 冻雪 和 山脉 的 高峰 也 有 昆虫 被 发现 。	1	0
 252	ht00330	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 、 蚂蚁和 白蚁 都 构筑 了 各 有的 社会 并 拥有 不同 的 成员 分配 社会 任务 ， 寻食 ， 防御 ， 繁殖 等 。	1	0
@@ -263,7 +263,7 @@
 261	ht00340	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	我们 在 极地 的 冰雪 中和 山顶 中 都 能 找到 虫子 。	1	0
 262	ht00341	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 、 大黄蜂 、 蚂蚁 、 白蚁 ， 这些 昆虫 都 有 着 复杂 的 社会 节构 ， 在 这个 社会 节构 中 ， 不同 的 成员 负责 着 寻食 、 护卫 和 生育 的 工作 。	1	0
 263	ht00343	only after this apprenticeship is the graduate allowed to leave the hive and forage for nectar and pollen .	只有 当 这些 看似 闲杂 的 工作 完成 后 ， 它们 才 被 允许 离开 蜂巢 ， 搜寻 花蜜 和 花粉 。	1	0
-264	ht00344	" add to such behavior the fact that some ants use leaf fragments as spoons in which to carry soft food back to their nest , and one is tempted to describe insects as "" intelligent "" and begin to make comparisons between insect and human societies . "	诸如 此 类 行为 方式 的 还有 ， 一些 蚂蚁 使用 像 匙子 一样 的 叶 将 食物 运回 巢穴 ， 难怪 人们 会想 将 这些 昆虫 说成 是 智慧 的 ， 并 由此 将 昆虫 社会 和 人类 社会 作 一 番 比较 。	1	0
+264	ht00344	" add to such behavior the fact that some ants use leaf fragments as spoons in which to carry soft food back to their nest , and one is tempted to describe insects as "" intelligent "" and begin to make comparisons between insect and human societies . "	诸如 此 类 行为 方式 的 还有 ， 一些 蚂蚁 使用 像 匙子 一样 的 叶 将 食物 运回 巢穴 ， 难怪 人们 会想 将 这些 昆虫 说成 是 智慧 的 ， 并 由此 将 昆虫 社会 和 人类 社会 作 一 番 比较 。	1	1
 265	ht00345	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	然而 ， 是 我 难过 的 是 ， 人们 却 不 愿去 寻找 这 简单 的 快乐 ， 欣赏 这 即便是 最 普遍 的 丑怪 的 独特 子 与 优美 。	1	0
 266	ht00346	only a moment with a hand lens is required to discover a new world of design and beauty .	只 需 一 小会 、 一 个 放大镜 、 你 便 能 发现 一 个 ， 巧妙 设计 、 美丽 无比的 世界 。	1	0
 267	ht00347	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	一般 情况 下 ， 敌对 和 恐惧 是 无知 的 产物 ， 而且 我们 的 敌对 性 是 没有 例外 的 。	0	0
@@ -362,7 +362,7 @@
 360	ht00492	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	从 仍然 保持 的 化石 的 研究 开看 ， 我们 知道 昆虫 在 这个 地球 上 已 居住 了 将近 四亿年 了 。	1	0
 361	ht00493	today we find them abundantly everywhere we look .	今天 我们 仍然 随处 可 见到 它们 的 存在 。	1	0
 362	ht00494	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	无论是 在 冰雪 覆盖 的 南北 极 抑或 高山 的 最顶处 ， 我们 仍 可 发现 昆虫 的 存在 。	1	0
-363	ht00495	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 、 黄蜂 、 蚂蚁 、 白蚁 也 有 一 个 社会 的 存在 ， 它们 在 其中 有 不同 的 分工 ： 觅食 、 防御 以及 再生产 。	1	0
+363	ht00495	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 、 黄蜂 、 蚂蚁 、 白蚁 也 有 一 个 社会 的 存在 ， 它们 在 其中 有 不同 的 分工 ： 觅食 、 防御 以及 再生产 。	1	1
 364	ht00499	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	仇恨 和 恐惧 大多 是 忽视 的 产物 ， 而 我们 的 不喜欢 也 属于 此类 。	1	0
 365	ht00500	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	没有 人 会 否认 这些 昆虫们 很 讨厌 当 被 它们 咬 过 的 地方 变得 疼痛 以及 它们 还会 传播 病毒 ， 这 对 我们 造成 了 一 种 威胁 。 但是 ， 当 你 冷静 下来 去 看 一 看 它们 甚至 有毒 的 昆虫 也 很 美丽 。	1	0
 366	ht00502	today we find them abundantly everywhere we look .	今天 ， 我们 到处 都 能 看到 它们 。	1	0
@@ -374,7 +374,7 @@
 372	ht00508	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	让 我 感到 难过 的 是 ， 人类 否认 去 欣赏 甚至 一些 再 普通 不过 的 昆虫 的 优美 姿态 ， 是 一 种 简单 的 快乐 。	1	0
 373	ht00510	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌意 和 恐惧 通常 是 无知 的 产物 ， 我们 的 对抗 也不例外 。	1	0
 374	ht00511	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	不 可 否认 ， 当 昆虫 的 叮咬 成为 疼痛 ， 传播 疾病 变成 一 种 危害 时 ， 它们 真是 令人讨厌 的 家伙 。 然而 ， 客观 的 说 ， 即使 再 有毒 的 昆虫 也是 美丽 的 。	1	0
-375	ht00512	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 它们 的 化石 残骸 ， 我们 发现 昆虫 在 地球 上 生存 近 4亿 多 年 。	1	0
+375	ht00512	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 它们 的 化石 残骸 ， 我们 发现 昆虫 在 地球 上 生存 近 4亿 多 年 。	1	1
 376	ht00513	today we find them abundantly everywhere we look .	今天 ， 我们 所 见 之 处 ， 昆虫 大量 存在 。	1	0
 377	ht00514	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	在 极地 冠岩 的 雪层 在 ， 在 高山 的 顶峰 ， 都 有 昆虫 的 身影 。	1	0
 378	ht00515	 bees , wasps , ants and termites have intricate societies in which different members are specialized for foraging , defense and reproduction . 	蜜蜂 、 黄蜂 、 蚂蚁和 白蚁 有 着 复杂 精细 的 群体 关系 ， 不同 的 成员 分工 去 负责 寻食 、 防御 和 繁殖 。	1	0
@@ -392,7 +392,7 @@
 390	ht00530	it saddens me that people deny themselves the simple pleasure of appreciating the exquisite elegance of even the more common insects .	使 我 感到 悲伤 的 是 人们 否认 他们 对 那些 更 普通 的 昆虫 的 优雅 ， 精致 的 欣赏 所 带来 的 简单 的 喜悦 。	1	0
 391	ht00531	only a moment with a hand lens is required to discover a new world of design and beauty .	仅仅 一 瞬间 用 一 个 放大镜 你 就 会 发现 一 个 设计 与 美丽 的 新 世界 。 .	1	0
 392	ht00532	 hostility and fear are universally the products of ignorance , and our antagonism is no exception . 	敌意 和 恐惧 通常 是 无知 的 产物 ， 我们 也不例外 。	1	0
-393	ht00533	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	我们 不 否认 昆虫 很 讨厌 当 我们 的 被咬 处变 得很 痛 的 时候 ， 并且 这 种 疼痛 还 可能 传染 疾病 。 但 我们 没有 看到 有时 有毒 的 昆虫 也 很 美丽 。	1	0
+393	ht00533	 one cannot deny that insects are a nuisance when their bites become sore , and a threat when they transmit disease , but , viewed dispassionately , even noxious insects are beautiful . 	我们 不 否认 昆虫 很 讨厌 当 我们 的 被咬 处变 得很 痛 的 时候 ， 并且 这 种 疼痛 还 可能 传染 疾病 。 但 我们 没有 看到 有时 有毒 的 昆虫 也 很 美丽 。	1	1
 394	ht00534	 from having studied their fossilized remains , we know that insects have inhabited the earth for nearly 400 million years . 	通过 研究 他们 遗留 下来 的 化石 我们 得知 昆虫 4亿 年 前 已经 在 地球 上 居住 了 。	1	0
 395	ht00535	today we find them abundantly everywhere we look .	今天 我们 能 到处 发现 他们 。	1	0
 396	ht00536	insects have been discovered on the snow of the polar caps and the peaks of high mountains .	在 极地 的 冰雪 覆盖区 和 山脉 的 顶峰 发现 了 昆虫 。	1	0
@@ -423,7 +423,7 @@
 421	ht00562	they may also quarrel in public or put up a facade of being compatible .	他们 也 可能 在 公共 场合 争吵 或是 提出 一 幅 关系 很 好 的 假象 。	1	0
 422	ht00563	 the relationship is characterized by constant conflict , tension , and bitterness . 	这 种 婚姻 模式 的 特征 是 不断 的 冲突 ， 关系 紧张 和 苦涩 。	1	0
 423	ht00565	 the partners may have some interests in common , but these interests are generally insignificant . 	他们 也 可能 会 有 共同 的 兴趣 ， 但 这些 兴趣 是 无意 的 。	1	0
-424	ht00566	this type of relationship generally has little overt conflict .	这 种 类型 的 婚姻 通常 没有 公开 的 矛盾 。	1	0
+424	ht00566	this type of relationship generally has little overt conflict .	这 种 类型 的 婚姻 通常 没有 公开 的 矛盾 。	1	1
 425	ht00567	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 模式 的 数量 是 未知 的 —— 也许 和 幸福 的 婚姻 的 数目 一致 。	1	0
 426	ht00568	the atmosphere in empty- shell marriages is without much fun or laughter .	空壳 婚姻 的 气氛 缺少 趣味 和 笑声 。	1	0
 427	ht00570	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 的 孩子 缺乏 爱 和 不 愿 交 朋友 ， 因为 他们 怕 朋友 看到 父母 的 情况 而 尴尬 。	1	0
@@ -453,7 +453,7 @@
 451	ht00597	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 模式 的 数量 是 个 未知数 ， 它 可能 和 快乐 婚姻 模式 的 数量 一样 多 。	1	0
 452	ht00598	the atmosphere in empty- shell marriages is without much fun or laughter .	在 空壳 婚姻 模式 的 气氛 里 ， 往往 缺少 趣味 与 欢笑 。	1	0
 453	ht00599	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	夫妻 中 得意 放 不 会 和 对方 分享 和 讨论 自己 的 问题 或 和 对方 商量 经验 。 交流 知识 他们 生活 当中 的 一 小 部分 。	0	0
-454	ht00600	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 环境 中 的 孩子 常常 缺乏 关隘 并且 很 难 交到 朋友 ， 因为 他们 害怕 朋友们 看到 他们 父母 的 互动 方式 ， 那 让 他们 觉得 尴尬 。	1	0
+454	ht00600	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 环境 中 的 孩子 常常 缺乏 关隘 并且 很 难 交到 朋友 ， 因为 他们 害怕 朋友们 看到 他们 父母 的 互动 方式 ， 那 让 他们 觉得 尴尬 。	1	1
 455	ht00601	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	在 这 种 婚姻 模式 里 的 夫妻 很少 一起 参加 活动 ， 而且 当 他们 身处 对方 的 工作 地点 时 也 很 少 表现 出 愉悦 的 感觉 。	1	0
 456	ht00602	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	夫妻 中 的 一 方 总是 高度 在意 对方 脆弱 和 敏感 的 部分 ， 并且 总是 想方设法 的 经常 提起 这些 部分 来 达到 伤害 对方 的 目的 。	1	0
 457	ht00603	three types of empty- shell marriages have been identified .	三 种 形式 的 空壳 婚姻 已 被 证实 。	1	0
@@ -476,7 +476,7 @@
 474	ht00623	 and in a passive- congenial relationship both partners are not happy , but are content with their lives and generally feel adequate . 	在 这 种 有着 消极 趣味 的 关系 中 ， 夫妻 双方 都 并不 快乐 ， 但 他们 却 满足于 他们 的 生活 ， 且 通常 感觉 良好 。	1	0
 475	ht00624	 the partners may have some interests in common , but these interests are generally insignificant . 	夫妻 双方 可能 会 有 一些 共同 的 兴趣 ， 但 都 是 些 无足轻重 的 方面 。	1	0
 476	ht00625	this type of relationship generally has little overt conflict .	这 种 类型 的 关系 通常 没有 什么 公开 的 矛盾 。	1	0
-477	ht00626	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数量 是 不得而知 的 ， 也许 这 种 婚姻 的 数量 与 生活 幸福 的 夫妻 数量 相当 。	1	0
+477	ht00626	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数量 是 不得而知 的 ， 也许 这 种 婚姻 的 数量 与 生活 幸福 的 夫妻 数量 相当 。	1	1
 478	ht00627	the atmosphere in empty- shell marriages is without much fun or laughter .	空壳 婚姻 的 生活 中 没有 很多 乐趣 或 欢声 可言 。	1	0
 479	ht00628	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	家庭 成员 都 互 不 分享 和 谈论 他们 各自 遇到 的 问题 和 经验 。 相互 交流 的 机会 几近 底线 。	1	0
 480	ht00629	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	这 种 家庭 中的 孩子 通常 都 很 缺乏 爱 ， 也 不 愿意 交 朋友 ， 因为 他们 觉得 让 朋友 看到 自己 父母 的 关系 会 十分 尴尬 。	1	0
@@ -491,7 +491,7 @@
 489	ht00642	the atmosphere in empty- shell marriages is without much fun or laughter .	“ 空巢 ” 婚姻 缺乏 欢笑 与 乐趣 。	1	0
 490	ht00643	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	夫妻 之间 不再 分享 与 讨论 他们 的 问题 与 经历 ， 交流 很少 。	1	0
 491	ht00644	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	孩子 门 在 空巢 家庭 中 慢慢 变得 。	0	0
-492	ht00645	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	夫妇 很少 从事 活动 和 彼此 的 同伴 一起 玩	0	0
+492	ht00645	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	夫妇 很少 从事 活动 和 彼此 的 同伴 一起 玩	0	1
 493	ht00647	in a devitalized relationship husband and wife lack excitement or any real interest in their spouse or their marriage .	在 一 个 没有 深刻 感情 的 婚姻 中 ， 夫妻 双方 对 婚姻 或 生活 缺乏 激情 ， 没有 任何 真正 的 兴趣 爱好 。	0	0
 494	ht00648	boredom and apathy characterize this marriage .	这 种 婚姻 里 充满 了 厌倦 和 冷漠 。	1	0
 495	ht00649	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	当然 激烈 的 争吵 还是 少有的 ， 在 一 个 长期 充满 政治 的 夫妻 关系 中 ， 丈夫 和 妻子 常常 在 私下里 争吵 。	1	0
@@ -511,7 +511,7 @@
 509	ht00668	 the partners may have some interests in common , but these interests are generally insignificant . 	夫妻 也许 会 有 一些 共同 的 兴趣 ， 但 这些 兴趣 通常 是 无足轻重 的 。	1	0
 510	ht00670	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数量 是 不得而知 的 ， 可能 与 幸福 的 夫妻 的 数量 差不多 。	1	0
 511	ht00671	the atmosphere in empty- shell marriages is without much fun or laughter .	在 这 种 空壳 婚姻 红 没有 太 多 欢乐 与 快乐 的 气氛 。	1	0
-512	ht00672	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	夫妻 之间 不 会 彼此 分享 讨论 他们 的 问题 或 经历 ， 他们 只 的 交流 很少 。	1	0
+512	ht00672	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	夫妻 之间 不 会 彼此 分享 讨论 他们 的 问题 或 经历 ， 他们 只 的 交流 很少 。	1	1
 513	ht00673	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 生活 的 孩子 经常 缺乏 爱 而且 当 他们 因 朋友 看见 父母 争吵 而 窘迫 的 时候 很 不 情愿 地 让 朋友 离开 。	0	0
 514	ht00674	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	这 种 婚姻 的 夫妻 一起 参加 一些 活动 ， 而且 不 乐意 在 另 一 方 的 公司 里 出现 。	0	0
 515	ht00676	three types of empty- shell marriages have been identified .	现在 被 确定 的 有三种 类型 的 空壳 婚姻 。	1	0
@@ -523,7 +523,7 @@
 521	ht00686	the atmosphere in empty- shell marriages is without much fun or laughter .	空壳 婚姻 中 缺少 欢声笑语 的 气氛 。	1	0
 522	ht00687	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	婚姻 中 的 成员 不 愿 同 另 一 半 探讨 问题 ， 分享 经历 ， 他们 的 交流 也 是 微乎其微 的 。	1	0
 523	ht00688	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 中 成长 的 孩子 大都 渴望 爱 ， 但 不 愿 交 过 多 的 朋友 ， 因为 他们 还 害怕 让 他 的 朋友 看到 父母 的 生活 。	1	0
-524	ht00690	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	婚姻 成员们 高度 关注 另 一 个 人 的 脆弱 面 和 敏感 面 ， 同时 他们 经常 以 提及 这些 方面 来 达到 伤害 对方 的 目的 。	1	0
+524	ht00690	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	婚姻 成员们 高度 关注 另 一 个 人 的 脆弱 面 和 敏感 面 ， 同时 他们 经常 以 提及 这些 方面 来 达到 伤害 对方 的 目的 。	1	1
 525	ht00691	three types of empty- shell marriages have been identified .	目前 认为 有 三 种 形式 上 的 婚姻 。	1	0
 526	ht00693	boredom and apathy characterize this marriage .	在 这 种 婚姻 的 主要 特征 是 厌倦 和 无趣 。	1	0
 527	ht00694	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	但是 很 少有 大吵大闹 。 在 常 发生 冲突 的 婚姻 关系 中 ， 丈夫 和 妻子 私 吵架 是 常事 。	1	0
@@ -579,7 +579,7 @@
 577	ht00769	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	然而 真正 有 意义 的 争论 很少 ， 在 一 个 争吵 充斥 的 婚姻 关系 中 丈夫 和 妻子 通常 只为 私人 问题 争吵 。	0	0
 578	ht00770	they may also quarrel in public or put up a facade of being compatible .	他们 也 会 在 公共 场所 争吵 或 装出 表面 的 和谐 。	1	0
 579	ht00771	 the relationship is characterized by constant conflict , tension , and bitterness . 	婚姻 关系 被 不断 的 争斗 、 紧张 和 痛苦 所 充斥 着 。	1	0
-580	ht00772	 and in a passive- congenial relationship both partners are not happy , but are content with their lives and generally feel adequate . 	在 一 个 被动 欢快 的 关系 中 ， 双方 都 不幸福 ， 只是 满足于 现有 的 生活 ， 大体上 感觉 合适 罢了 。	1	0
+580	ht00772	 and in a passive- congenial relationship both partners are not happy , but are content with their lives and generally feel adequate . 	在 一 个 被动 欢快 的 关系 中 ， 双方 都 不幸福 ， 只是 满足于 现有 的 生活 ， 大体上 感觉 合适 罢了 。	1	1
 581	ht00773	 the partners may have some interests in common , but these interests are generally insignificant . 	双方 或 但 有一些 共同 的 兴趣 ， 但 这些 兴趣 是 无足 轻 道 的 。	1	0
 582	ht00775	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数量 不 清楚 ， 也许 和 幸福 婚姻 家庭 的 数量 差不多 。	1	0
 583	ht00776	the atmosphere in empty- shell marriages is without much fun or laughter .	空壳 婚姻 没有 欢笑 ， 也 没有 快乐 。	1	0
@@ -604,7 +604,7 @@
 602	ht00804	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	伴侣们 不 会 分享 和 讨论 他们 的 问题 或是 各自 的 经历 ， 交流 十分 短暂 。	1	0
 603	ht00805	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	这 种 家庭 中 的 害喜 通常 渴望 被 关隘 ， 不 愿 交友 因为 他们 不 希望 朋友们 看到 自己 父母 的 离异 而 处于 难看 的 境地 。	0	0
 604	ht00806	three types of empty- shell marriages have been identified .	有 三 种 名存实亡 的 婚姻 关系 被 证实 。	1	0
-605	ht00807	in a devitalized relationship husband and wife lack excitement or any real interest in their spouse or their marriage .	在 一 种 没有 乐趣 的 关系 中 ， 丈夫 和 旗子 在 他们 的 配偶 或 婚姻 关系 中 缺乏 兴奋 或 任何 真正 的 兴趣 。	0	0
+605	ht00807	in a devitalized relationship husband and wife lack excitement or any real interest in their spouse or their marriage .	在 一 种 没有 乐趣 的 关系 中 ， 丈夫 和 旗子 在 他们 的 配偶 或 婚姻 关系 中 缺乏 兴奋 或 任何 真正 的 兴趣 。	0	1
 606	ht00808	boredom and apathy characterize this marriage .	无聊 和 冷漠 就是 他们 婚姻 关系 的 特点 。	1	0
 607	ht00809	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	尽管 很少 有 严重 的 争吵 ， 在 因为 习惯 冲突 的 婚姻 关系 中 ， 丈夫 和 妻子 总是 频繁地 在 私底下 吵架 。	1	0
 608	ht00810	they may also quarrel in public or put up a facade of being compatible .	他们 也许 会 在 公共 场合 吵架 或 制造 一 种 和平 共处 的 假象 。	1	0
@@ -663,7 +663,7 @@
 661	ht00875	the atmosphere in empty- shell marriages is without much fun or laughter .	在 空壳 婚姻 中 的 气氛 是 没有 开心 和 快乐 的 。	1	0
 662	ht00876	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	他们 互相 并不 分享 和 讨论 他们 的 问题 和 经验 ， 交流 是 最 小 限度 。	1	0
 663	ht00878	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	在 这 种 婚姻 的 夫妇 忙于 他们 活动 中 ， 在 彼此 之间 是 没有 快乐 的 。	0	0
-664	ht00879	three types of empty- shell marriages have been identified .	三 种 类型 的 空壳 婚姻 已经 普遍 存在 。	1	0
+664	ht00879	three types of empty- shell marriages have been identified .	三 种 类型 的 空壳 婚姻 已经 普遍 存在 。	1	1
 665	ht00881	boredom and apathy characterize this marriage .	厌烦 和 冷漠 是 这 种 婚姻 的 特征 。	1	0
 666	ht00884	 the relationship is characterized by constant conflict , tension , and bitterness . 	这 种 关系 常常 充满 永无止境 的 挣扎 ， 紧张 ， 痛苦 和 焦虑 。	1	0
 667	ht00885	 and in a passive- congenial relationship both partners are not happy , but are content with their lives and generally feel adequate . 	在 消极 的 相处 的 婚姻 关系 里 ， 夫妻 双方 都 过 的 不幸福 ， 但是 他们 却 满足于 他们 的 生活 和 感情 需求 。	1	0
@@ -685,7 +685,7 @@
 683	ht00906	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 中 的 小孩 通常 是 缺乏 爱 ， 也 不 愿意 交 知心 朋友 ， 因为 他们 害怕 因 朋友 看见 他们 父母 不 和 而 引起 的 困窘 。	1	0
 684	ht00907	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	这 类 夫妇 很少 一起 出席 参加 活动 ， 也 不 愿 与 其他 的 人 结伴 而行 。	1	0
 685	ht00908	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	这些 夫妇 都 非常 在乎 对方 的 缺点 和 脆弱 点 ， 他们 也 常常 利用 这些 去 攻击 对方 。	1	0
-686	ht00909	three types of empty- shell marriages have been identified .	有 三 种 类型 的 婚姻 被 视为 空壳 。	1	0
+686	ht00909	three types of empty- shell marriages have been identified .	有 三 种 类型 的 婚姻 被 视为 空壳 。	1	1
 687	ht00914	 the relationship is characterized by constant conflict , tension , and bitterness . 	这 种 婚姻 关系 是 一 种 持久 战争 ， 充满 紧张 和 辛酸 。	1	0
 688	ht00915	 and in a passive- congenial relationship both partners are not happy , but are content with their lives and generally feel adequate . 	第三 类 是 被动 和谐 的 婚姻 ， 尽管 夫妻 双方 并不 快乐 ， 但 他们 满足于 目前 的 生活 状态 ， 感到 差强人意 。	1	0
 689	ht00916	 the partners may have some interests in common , but these interests are generally insignificant . 	夫妻 双方 或许 有 一些 共同 的 兴趣 ， 但是 这些 兴趣 通常 是 无关紧要 的 。	1	0
@@ -707,16 +707,16 @@
 705	ht00941	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	人们 很少 和 彼此 讨论 和 分享 他们 的 问题 和 经历 。	1	0
 706	ht00945	three types of empty- shell marriages have been identified .	现在 已 发现 三 种 空壳 婚姻 。	1	0
 707	ht00947	boredom and apathy characterize this marriage .	彼此 的 厌倦 和 冷漠 导致 了 这 种 婚姻 。	0	0
-708	ht00948	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	然而 严重 的 争吵 是 罕见 的 ， 在 一 个 存在 习惯性 冲突 的 夫妻 关系 中 ， 夫妻 之间 经常 私 底下 吵架 。	1	0
+708	ht00948	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	然而 严重 的 争吵 是 罕见 的 ， 在 一 个 存在 习惯性 冲突 的 夫妻 关系 中 ， 夫妻 之间 经常 私 底下 吵架 。	1	1
 709	ht00951	 and in a passive- congenial relationship both partners are not happy , but are content with their lives and generally feel adequate . 	在 这 种 被动 共存 的 关系 中 ， 双方 都 不 开心 ， 但 他们 对 自己 的 生活 很 满足 并且 通常 感到 很 适应 。	1	0
-710	ht00952	 the partners may have some interests in common , but these interests are generally insignificant . 	夫妻 之间 可能 存在 一些 共同 兴趣 ， 但 这些 兴趣 通常 是 无意义 的 。	1	0
+710	ht00952	 the partners may have some interests in common , but these interests are generally insignificant . 	夫妻 之间 可能 存在 一些 共同 兴趣 ， 但 这些 兴趣 通常 是 无意义 的 。	1	1
 711	ht00953	this type of relationship generally has little overt conflict .	这 种 关系 一般 很少 存在 明显 的 冲突 。	1	0
 712	ht00954	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数量 还 不 知道 ， 它 可能 和 那些 美满 的 婚姻 的 数目 一样 多 。	1	0
 713	ht00955	the atmosphere in empty- shell marriages is without much fun or laughter .	在 空壳 婚姻 的 氛围 中 没 多少 欢声笑语 。	1	0
 714	ht00956	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	家庭 成员 之间 不 会 分享 和 讨论 他们 之间 的 问题 和 经历 ， 交流 保持 在 最 低 限度 。	1	0
 715	ht00957	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 中的 孩子 ， 缺乏 爱 并且 不 喜欢 交 朋友 ， 因为 他们 不 想 让 别人 看到 父母 之间 的 斗争 而 感到 困窘 。	1	0
 716	ht00958	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	在 这 种 婚姻 中 的 夫妻 很少 在一起 从事 活动 或者 对对方 的 事 不 感 兴趣 。	1	0
-717	ht00959	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	家庭 成员 非常 清楚 对方 的 缺点 和 薄弱 环节 ， 他们 经常 提 起来 伤害 对方 。	1	0
+717	ht00959	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	家庭 成员 非常 清楚 对方 的 缺点 和 薄弱 环节 ， 他们 经常 提 起来 伤害 对方 。	1	1
 718	ht00960	three types of empty- shell marriages have been identified .	已 确定 的 有三种 类型 的 “ 空壳 ” 婚姻 。	1	0
 719	ht00962	boredom and apathy characterize this marriage .	这 种 婚姻 以 厌烦 和 缺乏 兴趣 为 主要 特征 。	1	0
 720	ht00963	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	但是 很 少有 严重 的 或者 真正 意义 上 的 争吵 发生 。	1	0
@@ -770,7 +770,7 @@
 768	ht01026	 and in a passive- congenial relationship both partners are not happy , but are content with their lives and generally feel adequate . 	在 这 种 和谐 被动 的 关系 中 ， 两 个 合作者 实际上 都 不 快乐 ， 但是 他们 满足于 现在 的 生活 ， 一般说来 ， 对 他们 现在 的 生活 上 大致上 觉得 满足 。	1	0
 769	ht01027	 the partners may have some interests in common , but these interests are generally insignificant . 	两 个 合作者 或许 有 相同 的 兴趣 ， 但是 这些 兴趣 都 是 无关紧要 的 。	1	0
 770	ht01028	this type of relationship generally has little overt conflict .	这 种 类型 的 夫妻 关系 中 ， 他们 少有 冲突 。	1	0
-771	ht01029	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	我们 对 空壳 婚姻 的 具体 数字 并不 知晓 ， 可能 和 幸福 夫妻 的 数字 一样 多 。	1	0
+771	ht01029	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	我们 对 空壳 婚姻 的 具体 数字 并不 知晓 ， 可能 和 幸福 夫妻 的 数字 一样 多 。	1	1
 772	ht01030	the atmosphere in empty- shell marriages is without much fun or laughter .	空壳 婚姻 的 家庭 里 没有 欢声笑语 。	1	0
 773	ht01031	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	家庭 成员 从不 和 家人 分享 他们 的 问题 和 经历 ， 也 很 少 和 他人 沟通 。	1	0
 774	ht01032	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	这 种 家庭 中 的 小孩 缺乏 关爱 ， 也 不 愿意 与 朋友 深交 因为 他们 羞于 让 别人 知道 他们 父母 的 内部 关系 。	1	0
@@ -778,7 +778,7 @@
 776	ht01037	boredom and apathy characterize this marriage .	这 种 婚姻 的 特征 是 厌倦 和 冷淡 。	1	0
 777	ht01038	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	但 严重 的 争论 很少 ， 这 种 矛盾 频繁 的 关系 中 ， 夫妻 经常 为 私事 吵架 。	1	0
 778	ht01039	they may also quarrel in public or put up a facade of being compatible .	他们 也 在 公共 场合 吵架 ， 但是 表面上 呈现 一 种 恩爱 的 关系 。	1	0
-779	ht01040	 the relationship is characterized by constant conflict , tension , and bitterness . 	这 种 关系 的 特征 是 长期 的 矛盾 ， 紧张 和 痛苦 。	1	0
+779	ht01040	 the relationship is characterized by constant conflict , tension , and bitterness . 	这 种 关系 的 特征 是 长期 的 矛盾 ， 紧张 和 痛苦 。	1	1
 780	ht01042	 the partners may have some interests in common , but these interests are generally insignificant . 	夫妻间 也许 有 着 共同 的 兴趣 爱好 ， 但是 这些 兴趣 爱好 总的来说 不 是 很 重要 。	1	0
 781	ht01044	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数量 并 不 确定 , 它 也许 和 幸福 婚姻 家庭 的 数量 一样 多 。 	1	0
 782	ht01046	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	夫妻 之间 并不 分享 和 讨论 各自 的 问题 和 经历 ， 交流 维持 在 一 个 很 小 的 数量 中 。	1	0
@@ -812,7 +812,7 @@
 810	ht01087	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	这 种 名存实亡 的 婚姻 的 数量 不 可 得知 ， 或许 和 幸福 婚姻 的 数量 一样 多 。	1	0
 811	ht01088	the atmosphere in empty- shell marriages is without much fun or laughter .	在 这 种 名存实亡 的 婚姻 中 几乎 听不到 笑声 和 感觉 到 高兴 的 气氛 。	1	0
 812	ht01089	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	夫妻 双方 不 会 相互 承担 痛苦 和 讨论 他们 的 经验 ， 他们 把 交流 降低 到 最小 。	1	0
-813	ht01090	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 里 的 孩子 通常 缺乏 爱 并且 不 愿 交 朋友 ， 他们 害怕 因 朋友 看到 父母 的 不合 而 使 自己 陷入 窘境 。	1	0
+813	ht01090	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	在 这 种 家庭 里 的 孩子 通常 缺乏 爱 并且 不 愿 交 朋友 ， 他们 害怕 因 朋友 看到 父母 的 不合 而 使 自己 陷入 窘境 。	1	1
 814	ht01092	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	夫妻 双方 的 弱点 和 敏感 事物 都 很 了解 ， 他们 就 经常 用 这些 试图 来 伤害 对方 。	1	0
 815	ht01093	three types of empty- shell marriages have been identified .	我们 可以 分为 三 种 类型 的 婚姻 不 美满 ， 不幸福 。	0	0
 816	ht01096	 the partners may have some interests in common , but these interests are generally insignificant . 	他们 彼此 之间 会 有 一些 共同 的 爱好 ， 但是 这些 共同 的 爱好 一般 都 是 没有 多 大 意义 的 。	1	0
@@ -828,7 +828,7 @@
 826	ht01114	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	这些 夫妇 从不 相互 分享 和 讨论 其中 的 问题 和 经验 ， 他们 只 见 最 缺乏 的 就是 沟通 。	1	0
 827	ht01115	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	这 种 家庭 的 孩子 通常 会 渴望 被爱 ， 不 愿 交 朋友 ， 因为 他们 觉得 让 他们 的 朋友 看到 父母 这 种 情况 而 尴尬 。	1	0
 828	ht01116	the couples in these marriages engage in few activities together and display no pleasure in being in one another 's company .	这 种 空壳 婚姻 的 夫妇 极少 一起 活动 ， 也 不 会 和 对方 的 朋友 一起 而 感到 开心 。	1	0
-829	ht01117	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	夫妻 双方 对 各自 的 缺点 都 非常 了解 ， 他们 常 利用 这些 来 相互 伤害 。	1	0
+829	ht01117	 the members are highly aware of each other 's weaknesses and sensitive areas , and they manage to frequently mention these areas in order to hurt one another . 	夫妻 双方 对 各自 的 缺点 都 非常 了解 ， 他们 常 利用 这些 来 相互 伤害 。	1	1
 830	ht01118	three types of empty- shell marriages have been identified .	三 种 空调 的 婚姻 已 被 区分 。	0	0
 831	ht01119	in a devitalized relationship husband and wife lack excitement or any real interest in their spouse or their marriage .	在 一 种 一般 型 关系 中 ， 丈夫 与 妻子 缺乏 激情 或 其他 兴趣 在 他们 的 婚姻 当中 。	0	0
 832	ht01120	boredom and apathy characterize this marriage .	厌烦 与 冷漠 构成 了 他们 的 婚姻 。	1	0
@@ -847,7 +847,7 @@
 845	ht01148	 the relationship is characterized by constant conflict , tension , and bitterness . 	关系 是 构筑 在 争执 ， 精神 紧张 和 苦恼 。	0	0
 846	ht01150	 the partners may have some interests in common , but these interests are generally insignificant . 	双方 可能 有 共同 的 兴趣 ， 但 这些 兴趣 是 无意义 的 饿 。	1	0
 847	ht01151	this type of relationship generally has little overt conflict .	这 种 关系 基本 有 较 少 的 过激 的 冲突 。	1	0
-848	ht01152	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数字 不为人知 ， 它 可能 等于 快乐 的 数目	1	0
+848	ht01152	the number of empty- shell marriages is unknown -- it may be as high as the number of happily married couples .	空壳 婚姻 的 数字 不为人知 ， 它 可能 等于 快乐 的 数目	1	1
 849	ht01153	the atmosphere in empty- shell marriages is without much fun or laughter .	在 不和谐 的 婚姻 家庭 中 是 没有 快乐 和 欢笑 的 。	1	0
 850	ht01154	members do not share and discuss their problems or experiences with each other. communication is kept to a minimum .	夫妻 双方 不 会 相互 承担 痛苦 和 讨论 他们 的 经验 ， 他们 把 交流 降低 到 最小 。	1	0
 851	ht01155	children in such families are usually starved for love and reluctant to have friends over as they are embarrassed about having their friends see their parents interacting .	生活 杂 这 种 家庭 中的 孩子 总是 缺少 关爱 也 不 愿 结交 朋友 ， 因为 他们 不 愿 他们 结交 的 朋友 看到 他们 父母 的 相互 争吵 。	1	0
@@ -855,7 +855,7 @@
 853	ht01159	in a devitalized relationship husband and wife lack excitement or any real interest in their spouse or their marriage .	在 一 种 衰弱 的 关系 中 ， 丈夫 和 妻子 都 缺少 兴奋 或是 一 种 真正 的 趣味 。	0	0
 854	ht01160	boredom and apathy characterize this marriage .	厌倦 和 冷漠 是 这 种 婚姻 的 主要 特征 。	1	0
 855	ht01161	yet serious arguments are rare. in a conflict- habituated relationship husband and wife frequently quarrel in private .	这时 必要 的 争吵 也 会 很 少见 ， 基于 个人 立场 的 习惯性 争吵 使 夫妻 陷入 频繁 争吵 的 饿 局面 。	0	0
-856	ht01162	they may also quarrel in public or put up a facade of being compatible .	他们 经常 在 公共 场合 都 发生 争吵 或是 提出 公正 的 方法 致力于 能 协调 一致 。	0	0
+856	ht01162	they may also quarrel in public or put up a facade of being compatible .	他们 经常 在 公共 场合 都 发生 争吵 或是 提出 公正 的 方法 致力于 能 协调 一致 。	0	1
 857	ht01163	 the relationship is characterized by constant conflict , tension , and bitterness . 	不断 的 冲突 ， 不安 或是 悲痛 是 这 种 关系 最 常 呈现 的 特征 。	1	0
 858	ht01165	 the partners may have some interests in common , but these interests are generally insignificant . 	夫妻 中 或许 有 人 有些 非常 普通 的 爱好 ， 可是 这 种 爱好 在 此时 也 不太 重要 了 。	0	0
 859	ht01166	this type of relationship generally has little overt conflict .	这 种 婚姻 通常 没有 再 外 的 矛盾 。	0	0
@@ -954,7 +954,7 @@
 952	ht01292	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	散步 ， 和 游泳 ， 骑车 ， 跑步 一样 ， 是 有氧 运动 ， 通过 增加 皮肤 和 肌肉 对 氧气 的 吸收量 ， 可以 增加 体能 ， 提高 耐力 。	1	0
 953	ht01293	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这 种 运动 可能 成为 预防 心 血管 疾病 的 主要 因素 。	1	0
 954	ht01294	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	作为 最 缓和 ， 最 安全 的 有氧 运动 ， 散步 是 一 种 对 绝大多数 人 来说 都 可以 接受 的 运动 。	1	0
-955	ht01296	i first took up walking as a means of escape .	我 最初 开始 散步 是 作为 一 种 脱身之计 。	1	0
+955	ht01296	i first took up walking as a means of escape .	我 最初 开始 散步 是 作为 一 种 脱身之计 。	1	1
 956	ht01297	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	在 办公室 里 忙 了 一 个 上午 之后 ， 我 发现 午饭 时 出去 走 一 走 ， 吸 一 口 新鲜 空气 ， 享受 一下 阳光 ， 十分 令 人 神清气爽 。	1	0
 957	ht01298	 another walk in the cold night air was , i discovered , an exhilarating way to unwind . 	我 还 发现 ， 在 夜间 充满 寒意 的 空气 中 散步 也 是 一 种 使 人 心旷神怡 的 放松 办法 。	1	0
 958	ht01299	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	一 个 冬夜 ， 经过 了 医院 里 好 几 个 小时 精疲力竭 的 工作 后 我 漫步 在 空旷 无人 的 大街 上 ， 那 种 感觉 永远 都 无法 忘却 。	1	0
@@ -968,7 +968,7 @@
 966	ht01307	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	散步 是 一 种 最 不 激烈 、 最为 安全 的 有氧 运动 ， 对 绝大多数 人 都 极其 合适 。	1	0
 967	ht01308	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	以 舒适 的 速度 步行 能 促进 心肺 活动 ， 从而 提高 心肺 功能 ， 虽然 比起 其他 各 种 运动 方式 来 散步 的 作用 较为 缓慢 。	1	0
 968	ht01309	i first took up walking as a means of escape .	我 第一 次 把 散步 当成 一 种 解脱 的 方式 。	1	0
-969	ht01310	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	我 在 办公室 忙活 一 早上 后 ， 发现 午后 散步 可以 使 人 精神 清爽 ， 边 走边 呼吸 新鲜 的 空气 和 沐浴 阳光 。	1	0
+969	ht01310	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	我 在 办公室 忙活 一 早上 后 ， 发现 午后 散步 可以 使 人 精神 清爽 ， 边 走边 呼吸 新鲜 的 空气 和 沐浴 阳光 。	1	1
 970	ht01313	i suddenly realized that i no longer felt tense or tired .	我 突然 意识 到 我 不 那样 紧张 疲劳 了 。	1	0
 971	ht01314	 all the worries about my patients ' illnesses , as well as my own personal cares , seemed to evaporate as quickly as the smoky vapor of my breath in the frosty night . 	我 对 父母 疾病 的 担忧 ， 以及 我 父母 的 担忧 ， 在 夜里 我 的 担忧 如 烟雾 蒸发 。	0	0
 972	ht01315	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	在 我 把 散步 列入 到 我 的 日程 后 ， 不仅 我 的 精神 状态 提高 了 ， 我 的 体重 和 高血压 也 都 逐渐 降低 了	1	0
@@ -1002,7 +1002,7 @@
 1000	ht01356	 From this research, and my clinical observations as a family physician, I found that it is possible to walk your way to better health , a trimmer body and a longer life  -- no matter what your age . 	从 这 份 报告 和 作为 家庭 医生 的 临床 观察 中 ， 我 发现 不管 你 现在 多少 岁 , 散步 很 有 可能 会 增强 你 的 健康 , 调整 你 的 身体 或者 增加 寿命 . 	1	0
 1001	ht01358	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这样 的 运动 非常 有 利于 防止 心脏病 和 循环 系统 的 疾病 .	1	0
 1002	ht01359	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	作为 力气 花费 最小 和 最 安全 的 有氧 运动 , 散步 对于 大多数 人 来说 是 最 容易 接受 的 运动 . 	1	0
-1003	ht01360	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	以 适宜 的 速度 散步 可以 通过 激发 肺 功能 和 心脏 功能 来 提高 心 呼吸 系统 的 效率 , 但是 这 种 运动 产生 效果 的 速度 要 比 别的 运动 来 得 慢 . 	1	0
+1003	ht01360	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	以 适宜 的 速度 散步 可以 通过 激发 肺 功能 和 心脏 功能 来 提高 心 呼吸 系统 的 效率 , 但是 这 种 运动 产生 效果 的 速度 要 比 别的 运动 来 得 慢 . 	1	1
 1004	ht01361	i first took up walking as a means of escape .	一 开始 ， 散步 只是 作为 我 的 一 种 逃避 的 方式 。	1	0
 1005	ht01362	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	一 次 ， 在 半天 繁忙 的 工作 后 ， 我 利用 午饭 的 时间 去 散步 ， 借以 呼吸 新鲜 的 空气 和 沐浴 阳光 ， 我 发现 这 让 我 精神 抖擞 。	1	0
 1006	ht01363	 another walk in the cold night air was , i discovered , an exhilarating way to unwind . 	另外 一 次 在 夜晚 的 冷空气 里 的 散步 使我 觉得 ， 它 也 是 一 种 使 人 心情 愉悦 的 休息 方式 。	1	0
@@ -1023,7 +1023,7 @@
 1021	ht01379	 all the worries about my patients ' illnesses , as well as my own personal cares , seemed to evaporate as quickly as the smoky vapor of my breath in the frosty night . 	所有 关于 我 的 病人 疾病 的 担心 ， 也是 我 自己 个人 的 烦恼 ， 就 像 我 在 寒冷 夜晚 呼出 的 哈气 一样 很 快 的 消失 了 。	1	0
 1022	ht01380	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	当 我 进行 漫步 的 时候 ， 不仅 我 很 有精神 而且 我 的 体重 和 血压 也 很 规律 的 降低 。	1	0
 1023	ht01381	i began reviewing the medical literature on walking .	我 开始 在 漫步 的 时候 复习 医学 理论 。	0	0
-1024	ht01383	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	漫步 —— 就 像 游泳 ， 骑车 和 跑步 —— 是 一 种 增氧 运动 ， 它 可以 通过 皮肤 和 肌肉 供应 氧气 的 提高 建立 能量 产出 的 能力 和 耐久力	0	0
+1024	ht01383	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	漫步 —— 就 像 游泳 ， 骑车 和 跑步 —— 是 一 种 增氧 运动 ， 它 可以 通过 皮肤 和 肌肉 供应 氧气 的 提高 建立 能量 产出 的 能力 和 耐久力	0	1
 1025	ht01387	i first took up walking as a means of escape .	我 最初 开始 散步 是 作为 一 种 脱身之计 。	1	0
 1026	ht01388	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	在 办公室 里 忙 了 一 个 上午 之后 ， 我 发现 午饭 时 出去 走 一 走 ， 吸 一 口 新鲜 空气 ， 享受 一下 阳光 ， 十分 令 人 神清气爽 。	1	0
 1027	ht01389	 another walk in the cold night air was , i discovered , an exhilarating way to unwind . 	我 还 发现 ， 在 夜间 充满 寒意 的 空气 中 散步 也 是 一 种 使 人 心旷神怡 的 放松 办法 。	1	0
@@ -1063,10 +1063,10 @@
 1061	ht01423	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这 种 运动 可 成为 预防 心 血管 疾病 的 主要 因素 。	1	0
 1062	ht01424	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	散步 是 一 种 最 不 激烈 、 最为 安全 的 有氧 运动 ， 对 绝大多数 人 都 极其 合适 。	1	0
 1063	ht01425	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	以 舒适 的 速度 步行 能 促进 心肺 活动 ， 从而 提高 心肺 功能 ， 虽然 比起 其他 各 种 运动 方式 来 散步 的 作用 较为 缓慢 。	1	0
-1064	ht01426	i first took up walking as a means of escape .	我 最初 把 散步 当作 一 种 逃避 的 方法 。	1	0
+1064	ht01426	i first took up walking as a means of escape .	我 最初 把 散步 当作 一 种 逃避 的 方法 。	1	1
 1065	ht01427	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	经过 在 办公室 一 个 早晨 的 忙碌 ， 我 发现 ， 在 午饭 时间 散步 ， 呼吸 新鲜 空气 并 晒晒 太阳 很 有助于 恢复 精力 。	1	0
 1066	ht01428	 another walk in the cold night air was , i discovered , an exhilarating way to unwind . 	我 发现 ， 在 晚间 凉爽 的 空气 中 散步 是 一 种 令 人 愉悦 的 放松 方式 。	1	0
-1067	ht01429	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 永远 不 会 忘记 ， 有 一 个 冬夜 ， 我 在 医院 工作 了 几 个 小时 筋疲力尽 后 ， 走在 废弃 的 街道 上 的 感觉 。	1	0
+1067	ht01429	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 永远 不 会 忘记 ， 有 一 个 冬夜 ， 我 在 医院 工作 了 几 个 小时 筋疲力尽 后 ， 走在 废弃 的 街道 上 的 感觉 。	1	1
 1068	ht01430	i suddenly realized that i no longer felt tense or tired .	我 突然 意识 到 ， 我 不 再 紧张 和 疲惫 。	1	0
 1069	ht01432	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	当 我 投入 到 我 的 工作 中时 ， 不仅 我 的 精神 紧张 起来 ， 就 连 我 的 体重 和 血压 都 逐渐 地下 降 了	0	0
 1070	ht01434	 From this research, and my clinical observations as a family physician, I found that it is possible to walk your way to better health , a trimmer body and a longer life  -- no matter what your age . 	从 这 项 研究 中 和 我 在 做 家庭 医师 时 的 临床 观察 中 ， 我 发现 ， 散布 可以 使 人 更 健康 ， 改善 身体 状况 和 延长 寿命 — 无论 你 的 年龄 大小 。	1	0
@@ -1125,7 +1125,7 @@
 1123	ht01494	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 将 永远 不 回 忘记 那个 冬天 夜晚 当 我 在 医院 经历 了 很长 时间 的 折腾 之后 走在 荒凉 的 大街 上 的 那 种 感觉 。	1	0
 1124	ht01495	i suddenly realized that i no longer felt tense or tired .	我 突然 意识 到 我 不 再 会 感到 紧张 或 疲惫 了 。	1	0
 1125	ht01496	 all the worries about my patients ' illnesses , as well as my own personal cares , seemed to evaporate as quickly as the smoky vapor of my breath in the frosty night . 	在 那个 烟雾 蒙蒙 的 夜晚 ， 我 对 我的 病人 的 疾病 的 所有 的 担心 以及 对 我 自己 私人 事情 的 考虑 ， 似乎 随着 我 呼吸 出来 的 水蒸气 都 挥发 了 一样 。	1	0
-1126	ht01497	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	因为 我 把 散步 纳入 我 的 时间 表里 ， 不但 我 的 精力 充沛 了 ， 我 的 体重 和 血压 也 降低 了 。	1	0
+1126	ht01497	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	因为 我 把 散步 纳入 我 的 时间 表里 ， 不但 我 的 精力 充沛 了 ， 我 的 体重 和 血压 也 降低 了 。	1	1
 1127	ht01498	i began reviewing the medical literature on walking .	我 开始 在 散步 的 时候 问 西医 学 文献 。	0	0
 1128	ht01499	 From this research, and my clinical observations as a family physician, I found that it is possible to walk your way to better health , a trimmer body and a longer life  -- no matter what your age . 	从 这个 研究 和 我 做为 家庭 医生 的 临床 观测 结果 来看 ， 我 发现 对于 任何 层次 的 人 ， 散步 都 会 使 呼吸 畅通 ， 体魄 健康 ， 延长 寿命 。	1	0
 1129	ht01500	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	散步 ， 就 像 游泳 ， 骑 自行车 ， 跑步 一样 ， 是 一 种 有氧 运动 。 它 通过 为 皮肤 和 肌肉 增加 氧气 的 提供量 来 建立 能量 输出 的 能力 以及 增强 体力 。	1	0
@@ -1138,10 +1138,10 @@
 1136	ht01507	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 永远 也 不 会 忘记 一 个 冬天 的 晚上 ， 在 医院 度过 紧张 压抑 的 数 小时 后 ， 走在 荒芜 人烟 的 大街 上 的 那 种 感觉 。	1	0
 1137	ht01508	i suddenly realized that i no longer felt tense or tired .	我 突然 意识 到 我 不 再 感到 紧张 和 疲惫 。	1	0
 1138	ht01509	 all the worries about my patients ' illnesses , as well as my own personal cares , seemed to evaporate as quickly as the smoky vapor of my breath in the frosty night . 	所有 对 病人 病情 的 担心 和我 个人 的 担心 好像 我 呼出 的 烟雾 一样 的 水汽 那样 很 快 消失 在 寒冷 的 晚上 。	1	0
-1139	ht01510	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	我 把 散步 列入 我 的 时间 安排 之后 ， 不仅 我 的 精神 变得 很 高涨 ， 我 的 体重 和 血压 也 逐渐 地 降 了 下来 。	1	0
+1139	ht01510	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	我 把 散步 列入 我 的 时间 安排 之后 ， 不仅 我 的 精神 变得 很 高涨 ， 我 的 体重 和 血压 也 逐渐 地 降 了 下来 。	1	1
 1140	ht01511	i began reviewing the medical literature on walking .	我 开始 回顾 有关 我 散步 的 医学 文献 。	1	0
 1141	ht01512	 From this research, and my clinical observations as a family physician, I found that it is possible to walk your way to better health , a trimmer body and a longer life  -- no matter what your age . 	从 这 项 调查 和 我 作为 家庭 外科 医生 获得 的 医学 观测 ， 我 发现 不管 你 年龄 有 多 大 ， 散步 可以 使 你 让 你 更 健康 ， 拥有 结实 的 身体 ， 和 长久 的 生命 。	1	0
-1142	ht01513	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	就 像 游泳 ， 骑 自行车 和 跑步 一样 ， 散步 是 一 种 有氧 运动 ， 它 可以 通过 给 皮肤 和 肌肉 增加 氧气 的 供给 来 加强 能量 输出 功能 和 身体 的 忍受 能力 。	1	0
+1142	ht01513	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	就 像 游泳 ， 骑 自行车 和 跑步 一样 ， 散步 是 一 种 有氧 运动 ， 它 可以 通过 给 皮肤 和 肌肉 增加 氧气 的 供给 来 加强 能量 输出 功能 和 身体 的 忍受 能力 。	1	1
 1143	ht01514	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这样 的 运动 可能 是 预防 心脏病 和 冠心病 的 一 个 主要 因素 。	1	0
 1144	ht01515	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	作为 一 种 最 省劲 ， 最 安全 的 有氧 运动 ， 散步 对 绝大多数 的 人 来说 是 最 可以 接受 的 运动 。	1	0
 1145	ht01516	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	以 适当 的 速度 散步 可以 通过 刺激 心肺 来 提高 心脏 呼吸 系统 的 效率 ， 但是 比起 其他 形式 的 运动 ， 这 更 是 一 个 逐渐 的 、 缓慢 的 过程 。	1	0
@@ -1213,7 +1213,7 @@
 1211	ht01592	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这样 的 运动 可以 成为 预防 心脏 和 循环 系统 疾病 最 重要 的 手段 。	1	0
 1212	ht01593	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	由于 不 需要 进行 剧烈 的 动作 , 同时 又 是 最 安全 的 有氧 运动 , 散步 是 大部分 人 最 容易 接受 的 一 种 运动 方式 。 	1	0
 1213	ht01594	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	用 舒和 的 速度 散步 会 刺激 心肺 活动 , 提高 心肺 功能 . 与 其它 锻炼 活动 不同 的 是 , 散步 的 这 一 作用 体现 的 更为 缓和 一些 。 	1	0
-1214	ht01595	i first took up walking as a means of escape .	我 把 散步 作为 我 逃避 的 方式 。	1	0
+1214	ht01595	i first took up walking as a means of escape .	我 把 散步 作为 我 逃避 的 方式 。	1	1
 1215	ht01596	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	在 办公室 一 个 忙碌 的 清晨 过后 ， 我 发觉 午饭 后 散散步 ， 呼吸 一下 新鲜 空气 ， 晒晒 太阳 真是 件 好事 ， 它 能 使 人 的 精神 重新 焕发 起来 。	1	0
 1216	ht01598	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 永远 也 不 会 忘记 在 一 个 冬天 的 夜晚 ， 我 在 医院 里 精疲力竭 的 连续 工作 了 几 个 小时候 走在 一 条 脏兮兮 的 道路 上 的 感觉 。	1	0
 1217	ht01599	i suddenly realized that i no longer felt tense or tired .	我 突然间 意识 到 我 已经 不再 感觉 紧张 或 疲惫 了 。	1	0
@@ -1269,7 +1269,7 @@
 1267	ht01663	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 永远 都 不 会 忘记 ， 在 一 个 冬天 的 夜晚 ， 在 医院 里 的 繁重 的 工作 之后 ， 我 走在 空无 一 人 的 大街 上 的 那 种 感觉 。	1	0
 1268	ht01664	i suddenly realized that i no longer felt tense or tired .	我 突然 觉得 我 不 再 感到 紧张 和 疲累 了 。	1	0
 1269	ht01665	 all the worries about my patients ' illnesses , as well as my own personal cares , seemed to evaporate as quickly as the smoky vapor of my breath in the frosty night . 	所有 的 对 我 病人 的 担忧 ， 和 我 自己 的 个人 事情 一起 似乎 蒸发 了 ， 就 像 我 的 呼吸 的 气息 的 水蒸气 在 严寒 的 冬天 蒸发 一 样 快 。	1	0
-1270	ht01666	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	当 我 开始 我 的 工作 日程 ， 不仅 是 我 的 精神 上 承重 了 很多 ， 我 的 体重 ， 我 的 血压 也 逐渐 减低 了 。	1	0
+1270	ht01666	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	当 我 开始 我 的 工作 日程 ， 不仅 是 我 的 精神 上 承重 了 很多 ， 我 的 体重 ， 我 的 血压 也 逐渐 减低 了 。	1	1
 1271	ht01667	i began reviewing the medical literature on walking .	我 开始 在 散步 的 时候 ， 回顾 着 医学 文献 。	0	0
 1272	ht01673	i first took up walking as a means of escape .	开始 我 把 散步 作为 放松 逃避 的 方法 。	1	0
 1273	ht01674	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	在 办公室 忙 了 一 个 上午 之后 ， 我 发现 午饭 时间 出去 四处 散散 ， 呼吸 一下 新鲜 空气 ， 享受 阳光 的 抚慰 ， 是 一 件 非常 舒适 惬意 的 事情 。	1	0
@@ -1278,7 +1278,7 @@
 1276	ht01677	i suddenly realized that i no longer felt tense or tired .	我 突然 意识 到 ， 我 不 再 感到 紧张 和 疲惫 。	1	0
 1277	ht01678	 all the worries about my patients ' illnesses , as well as my own personal cares , seemed to evaporate as quickly as the smoky vapor of my breath in the frosty night . 	对 病人 病情 及 自己 私人 问题 所有 的 担心 忧虑 ， 似乎 都 像 我 呼出 的 烟雾 般 的 气息 一样 消失 在 这 严寒 的 冬夜 。	1	0
 1278	ht01679	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	当 我 将 散步 并入 我 的 时间 表中 ， 不仅 我 的 精神 提高 了 ， 而且 体重 和 血压 也 逐渐 降下 来 了 。	1	0
-1279	ht01681	 From this research, and my clinical observations as a family physician, I found that it is possible to walk your way to better health , a trimmer body and a longer life  -- no matter what your age . 	通过 这 项 调查 ， 和 我 作为 一 个 家庭 医师 的 临床 观察 ， 我 发现 通过 散步 让 自己 变得 更为 健康 ， 身体 更为 整洁 ， 寿命 得到 延长 是 非常 可能 的 ， 不管 你 多 大 年纪 。	1	0
+1279	ht01681	 From this research, and my clinical observations as a family physician, I found that it is possible to walk your way to better health , a trimmer body and a longer life  -- no matter what your age . 	通过 这 项 调查 ， 和 我 作为 一 个 家庭 医师 的 临床 观察 ， 我 发现 通过 散步 让 自己 变得 更为 健康 ， 身体 更为 整洁 ， 寿命 得到 延长 是 非常 可能 的 ， 不管 你 多 大 年纪 。	1	1
 1280	ht01683	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这 种 运动 是 预防 心脏 和 循环 系统 疾病 的 主要 原因 。	1	0
 1281	ht01684	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	作为 可能 是 最 不 激烈 ， 最为 安全 的 有氧 运动 ， 散步 是 为 大多数 人 所 最 能 接受 的 一 项 运动 。	1	0
 1282	ht01685	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	以 一 个 舒服 的 速度 散步 以 一 个 舒服 的 速度 通过 刺激 心脏 和肺 ， 提高 心脏 — 呼吸 系统 的 工作 效率 ， 但是 却 提供 了 一 个 比 其他 运动 更为 循序渐进 的 改善 比率 。	1	0
@@ -1305,7 +1305,7 @@
 1303	ht01713	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	经过 在 办公室 的 一 个 忙碌 的 早晨 ， 我 发现 在 午饭 时间 溜达 一下 ， 呼吸 一下 新鲜 的 空气 和 感受 一下 阳光 可以 重新 使 精神 振作 。	1	0
 1304	ht01714	 another walk in the cold night air was , i discovered , an exhilarating way to unwind . 	另外 在 凉爽 夜晚 的 空气 中 散步 ， 我 发现 ， 这 是 一 个 令 人 高兴 的 松弛 方法 。	1	0
 1305	ht01715	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 不 会 忘记 那个 冬天 的 夜晚 当 我 在 医院 经历 了 一 大 段 使 人 精疲力竭 的 工作 时间 之后 ， 行走 在 没有 人 的 街道 上 的 感受 。	1	0
-1306	ht01716	i suddenly realized that i no longer felt tense or tired .	我 突然 意识 到 我 不 再 感到 紧张 或 疲惫 。	1	0
+1306	ht01716	i suddenly realized that i no longer felt tense or tired .	我 突然 意识 到 我 不 再 感到 紧张 或 疲惫 。	1	1
 1307	ht01717	 all the worries about my patients ' illnesses , as well as my own personal cares , seemed to evaporate as quickly as the smoky vapor of my breath in the frosty night . 	我 所有 的 忧愁 ， 关于 我 的 病人 的 ， 关于 我 自己 的 ， 都 在 这个 寒冷 的 夜里 ， 随着 我 呼出 的 气息 一样 迅速 烟消 云散了 。	1	0
 1308	ht01718	 as i incorporated walking into my schedule , not only were my spirits lifted , but my weight and blood pressure were gradually reduced . 	因为 我 把 散布 融合 进 了 我 的 时间表 ， 所以 不仅仅 是 我 的 精神 提升 了 ， 而且 我 的 体重 和 血压 都 降低 了 。	1	0
 1309	ht01721	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	走路 ， 就 像 游泳 ， 骑 自行车 ， 跑步 一样 ， 是 一 种 有氧 运动 。 它 通过 为 皮肤 和 肌肉 增加 氧气 的 提供量 来 建立 能量 输出 的 能力 以及 增强 体力 。	1	0
@@ -1455,11 +1455,11 @@
 1453	ht01888	i began reviewing the medical literature on walking .	我 开始 在 散步 的 同时 温习 一些 医学 的 知识 。	0	0
 1454	ht01890	 walking , like swimming, bicycling and running , is an aerobic exercise which builds the capacity for energy output and physical endurance by increasing the supply of oxygen to skin and muscles . 	散步 —— 就 像 游泳 ， 骑车 和 跑步 —— 是 一 种 有氧 运动 ， 通过 增加 对 人体 皮肤 和 肌肉 的 供养 增强 你 的 精力 和 体力 。	1	0
 1455	ht01891	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这 项 运动 可以 从 根本 上 帮助 你 抵挡 心脏 和 血液 循环 的 疾病 。	1	0
-1456	ht01892	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	作为 强度 和 危险度 最底 的 有氧 运动 ， 散步 是 最 容易 被 大众 接受 的 一 项 。	1	0
+1456	ht01892	 as probably the least strenuous, safest aerobic activity , walking is the most acceptable exercise for the greatest number of people . 	作为 强度 和 危险度 最底 的 有氧 运动 ， 散步 是 最 容易 被 大众 接受 的 一 项 。	1	1
 1457	ht01893	 walking at comfortable speed improves the efficiency of the cardio-respiratory system by stimulating the lungs and heart , but at a more gradual rate than most other forms of exercise . 	以 一 个 适当 的 速度 散步 能 刺激 你 心肺 进而 有效 地 改善 呼吸 系统 ， 甚至 比 其他 形式 的 运动 更 家 有效 。	1	0
 1458	ht01895	 after a busy morning in my office , i found it refreshing to take a stroll at lunchtime , to breathe the fresh air and feel the sun . 	在 办公室 忙碌 一 个 上午 之后 ， 我 感到 在 午餐 时间 进行 散步 可以 使 我 精神 振奋 ， 我 可以 呼吸 新鲜 空气 并 感受 阳光 。	1	0
 1459	ht01896	 another walk in the cold night air was , i discovered , an exhilarating way to unwind . 	我 发现 ， 另 一 种 在 寒冷 的 夜晚 的 空气 下 散步 是 一 种 使 人 松弛 的 快活 的 方法 。	1	0
-1460	ht01897	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 永远 不 会 忘记 那 种 感觉 ， 在 一 个 冬天 的 夜晚 我 在 医院 经过 难熬 的 那 几 个 小时 之后 当 我 走在 空旷 的 街道 上 时 的 那 种 感觉 。	1	0
+1460	ht01897	i 'll never forget the feeling i got one winter night as i walked the deserted streets after many grueling hours at the hospital .	我 永远 不 会 忘记 那 种 感觉 ， 在 一 个 冬天 的 夜晚 我 在 医院 经过 难熬 的 那 几 个 小时 之后 当 我 走在 空旷 的 街道 上 时 的 那 种 感觉 。	1	1
 1461	ht01898	i suddenly realized that i no longer felt tense or tired .	我 突然 觉得 我 不 再 感到 紧张 和 疲劳 。	1	0
 1462	ht01902	 From this research, and my clinical observations as a family physician, I found that it is possible to walk your way to better health , a trimmer body and a longer life  -- no matter what your age . 	从 这个 调查 和 我 的 一 个 家庭 临床 报告 ， 我 发现 可以 通过 你自己 的 方式 获得 更 好 的 健康 状况 ， 一 个 调整 好 的 身体 ， 一 个 更 长 的 寿命 不管 你 的 年龄 有 多 大 。	0	0
 1463	ht01904	such exercise may be a primary factor in the prevention of heart and circulatory disease .	这样 的 运动 可能 是 对 心脏 疾病 和 血液 循环 疾病 的 预防 的 重要 因素 。	1	0
@@ -1470,7 +1470,7 @@
 1468	ht01909	 turning down a narrow track , we parked the car and got out . 	车 驶入 一 个 狭窄 的 轨道 后 , 我们 停 好 车 走了 出来 . 	1	0
 1469	ht01910	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 沿着 一 条 有 一 层 厚厚 的 松树 针叶 的 小路 走 着 . 头顶 上 是 大大 的 有 深绿色 叶子 的 常青树	1	0
 1470	ht01911	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	逐渐 地 , 这 块 地方 的 和平 与 宁静 占据 了 我 的 头脑 . 随后 我们 转过 一 个 弯 我 停住 了 , 被 这 景色 迷住 了 . 	1	0
-1471	ht01912	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	从 山顶 一直 到 几 公里 以外 的 山谷 , 都 有 两 旁 开花 水仙 的 小河	1	0
+1471	ht01912	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	从 山顶 一直 到 几 公里 以外 的 山谷 , 都 有 两 旁 开花 水仙 的 小河	1	1
 1472	ht01914	it looked as though the sun had tipped over and spilled gold down the mountainside .	仿佛 太阳 悄悄 走过 , 向 山腰 撒下 许多 金子	1	0
 1473	ht01915	a riot of questions filled my mind. who created such beauty ? why ? how ?	一 大 堆 问题 在 我 脑中 形成 . 谁 创造 了 这 种 美丽 . 为什么 ? 怎么样 创造 的 ?	1	0
 1474	ht01916	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	当 我们 增进 座落 在 庄园 中间 的 那 座 房子 时 , 我们 看到 了 这样 一 个 标志 : 我 知道 你 想问 的 问题 的 答案 . 	1	0
@@ -1483,7 +1483,7 @@
 1481	ht01924	 turning down a narrow track , we parked the car and got out . 	转 一 个 弯 到 了 小路 的 尽头 ， 我们 停车 ， 下车 。	1	0
 1482	ht01925	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 走在 两 边 满 是 老 松树 的 小径 上 。 高大 ， 呈 绿色 的 长青树 高耸入云 。	1	0
 1483	ht01926	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	渐渐 的 ， 我 融入 了 这 片 和平 与 宁静 中 。 转过 弯 后 ， 我 停 下来 惊叹 我 所 看到 的 。	1	0
-1484	ht01927	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	这 是 水仙花 的 海洋 ， 几 英 亩 的 水仙花 从 山顶 到 山谷 都 在 怒放 。	1	0
+1484	ht01927	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	这 是 水仙花 的 海洋 ， 几 英 亩 的 水仙花 从 山顶 到 山谷 都 在 怒放 。	1	1
 1485	ht01928	a profusion of color -- from the palest ivory to the deepest lemon to the most vivid salmon -- blazed like a carpet before us .	五颜六色 的 如同 一 块 地毯 在 我们 面前 闪耀 ， 从 象牙白 到 深 柠檬色 从 大红 色 。	1	0
 1486	ht01929	it looked as though the sun had tipped over and spilled gold down the mountainside .	看起来 像是 太阳 把 金色 的 光辉 洒 在 山坡 上 。	1	0
 1487	ht01930	a riot of questions filled my mind. who created such beauty ? why ? how ?	我 有 许多 问题 ： 谁 创造 了 这样 的 美景 ？ 为什么 创造 出 这样 的 美景 ？ 怎么 创造 的 ？	1	0
@@ -1562,10 +1562,10 @@
 1560	ht02018	a profusion of color -- from the palest ivory to the deepest lemon to the most vivid salmon -- blazed like a carpet before us .	从 纯白 到 深黄 再 到 鲜艳 的 粉红色 一 个 五彩缤纷 的 世界 像 一 块 地毯 闪耀 在 我们 面前 .	1	0
 1561	ht02019	it looked as though the sun had tipped over and spilled gold down the mountainside .	看 盐业 仿佛 太阳 已 过滤 , 洒下 满 山 金光 . 	0	0
 1562	ht02020	a riot of questions filled my mind. who created such beauty ? why ? how ?	一 个 有趣 的 问题 填满 我 脑中 . 谁 创造 这 一 片 美景 ? 为什么 ? 怎么 做 的呢 ?	1	0
-1563	ht02022	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 是 : 一 个 女子 两 只 手 , 两 只 脚 和 非小的 脑袋 . 第二 个 是 : 一 次 一 棵 . 第三 个 是 : 从 1958年 开始 . 	1	0
+1563	ht02022	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 是 : 一 个 女子 两 只 手 , 两 只 脚 和 非小的 脑袋 . 第二 个 是 : 一 次 一 棵 . 第三 个 是 : 从 1958年 开始 . 	1	1
 1564	ht02023	 as we drove home , i was so moved by what we had seen i could scarcely speak . 	当 我们 驱车 回家 , 我 被 我们 所 看到 的 感动 不已 . 几乎 无法 用 言语 表达 . 	1	0
 1565	ht02024	"  she changed the world ,  i finally said , "" one bulb at a time "" . "	"她 改变 了 一 个 世界 . 我 最后 说 ： "" 一 个 球根 一次 . "" "	1	0
-1566	ht02025	" she started almost 40 years ago , probably just the beginning of an idea , but she kept at it . "" the wonder of it would not let me go . "	我 己乎 从 40 年 前 开始 . 可能 仅仅 是 一 个 念头 而 开始 , 但 她 坚持 下去 了 , 它 能 神奇 始终 挥之不去 . 	1	0
+1566	ht02025	" she started almost 40 years ago , probably just the beginning of an idea , but she kept at it . "" the wonder of it would not let me go . "	我 己乎 从 40 年 前 开始 . 可能 仅仅 是 一 个 念头 而 开始 , 但 她 坚持 下去 了 , 它 能 神奇 始终 挥之不去 . 	1	1
 1567	ht02026	"  imagine ,  i said , "" if i ’ d had a vision and worked at it , jut a little bit every day , what might have i accomplished ? "" "	"我 说 ： "" 设想 我 有个 想法 , 然后 为之 奋斗 , 仅仅 每 天 一点点 , 最后 我 可能 收获 多少 ? "" "	1	0
 1568	ht02027	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	这 是 一 个 狂风 暴雨 的 日子 , 我 真 不 想 开车 沿着 弯弯曲曲 的 山路 去 我 女儿 carolyn 家 . 	1	0
 1569	ht02028	but she had insisted that i come see something at the top of the mountain .	但是 她 却 坚持 我 来在 山顶 上 看看 .	1	0
@@ -1587,7 +1587,7 @@
 1585	ht02045	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 沿着 一 条 铺满 厚厚 的 发黄 的 针叶 松 树叶 的 小路 走去 。 巨大 的 墨绿色 的 常青 树林 耸入 云霄 。	1	0
 1586	ht02046	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	渐渐 地 这个 地方 的 平和 和 寂静 开始 充盈 我 的 大脑 。 过后 我们 转过 一 个 弯 我 被 眼前 的 奇景 惊 住了 ， 并 停了 下来 。	1	0
 1587	ht02047	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	从 山顶 开始 ， 横跨 丘陵 和 山谷 ， 沿 坡 下来 的 几 处 弧形 山 路上 ， 是 竞相 开放 的 水仙花 的 海洋 。	1	0
-1588	ht02048	a profusion of color -- from the palest ivory to the deepest lemon to the most vivid salmon -- blazed like a carpet before us .	各 种 颜色 的 混和 从 最 浅 的 常青藤 到 最 深 的 柠檬黄 再 到 最最 生动 的 在 我们 面前 像 一 条 毯子 一样 展开 。	1	0
+1588	ht02048	a profusion of color -- from the palest ivory to the deepest lemon to the most vivid salmon -- blazed like a carpet before us .	各 种 颜色 的 混和 从 最 浅 的 常青藤 到 最 深 的 柠檬黄 再 到 最最 生动 的 在 我们 面前 像 一 条 毯子 一样 展开 。	1	1
 1589	ht02049	it looked as though the sun had tipped over and spilled gold down the mountainside .	看起来 好像 是 太阳踮 起 脚尖 站在 上面 ， 并且 把 金黄 洒下 了 山 的 两 边 。	1	0
 1590	ht02050	a riot of questions filled my mind. who created such beauty ? why ? how ?	一 串 问题 在 我 脑 中 徘徊 。 谁 创造 了 这样 的 美丽 ？ 为什么 这么 做 呢 ？ 怎样 做到 的呢 ？	1	0
 1591	ht02051	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	当 我们 快 到家 的 时候 ， 家 就 在 这个 奇景 的 中央 ， 我们 看到 了 一 个 告牌 ： 我 知道 你 所要 问 的 问题 的 答案 。	1	0
@@ -1615,13 +1615,13 @@
 1613	ht02079	a riot of questions filled my mind. who created such beauty ? why ? how ?	许许多多 问题 涌入 我 脑海 。 是 谁 造就 了 这 美景 ？ 为何 造 ？ 如何 造 的 ？	1	0
 1614	ht02081	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 答案 ： 一 个 女人 一 双 手 ， 一 双 脚 和 一 个 小小 的 脑袋 。 第二 个 答案 ： 一 次 做 一点 。 第三 个 答案 ： 从 1958年 开始 做起 。	1	0
 1615	ht02082	 as we drove home , i was so moved by what we had seen i could scarcely speak . 	在 我们 回家 的 路上 ， 我 一直 感动 于 我 所 看 的 ， 而 没 怎么 说话 。	1	0
-1616	ht02083	"  she changed the world ,  i finally said , "" one bulb at a time "" . "	"我 最终 说道 ： "" 她 改变 了 世界 。 一 天 一 个 鳞茎 而已 。 "" "	1	0
+1616	ht02083	"  she changed the world ,  i finally said , "" one bulb at a time "" . "	"我 最终 说道 ： "" 她 改变 了 世界 。 一 天 一 个 鳞茎 而已 。 "" "	1	1
 1617	ht02084	" she started almost 40 years ago , probably just the beginning of an idea , but she kept at it . "" the wonder of it would not let me go . "	"她 从 40 年 前 开始 做起 ， 而 那里 还 仅仅 是 一 个 想法 ， 但 她 坚持 下来 了 。 "" 那 美景 的 神奇 让 我 不舍 。 "	1	0
-1618	ht02085	"  imagine ,  i said , "" if i ’ d had a vision and worked at it , jut a little bit every day , what might have i accomplished ? "" "	"我 说 ： "" 想 一 想 ， 要是 我 曾 有 过 一 个 想法 并且 坚持 着 做 ， 只是 每天 做 一点 ， 我 现在 可以 成就 什么 了 ？ "" "	1	0
+1618	ht02085	"  imagine ,  i said , "" if i ’ d had a vision and worked at it , jut a little bit every day , what might have i accomplished ? "" "	"我 说 ： "" 想 一 想 ， 要是 我 曾 有 过 一 个 想法 并且 坚持 着 做 ， 只是 每天 做 一点 ， 我 现在 可以 成就 什么 了 ？ "" "	1	1
 1619	ht02086	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	那 是 一 个 昏暗 的 雨天 , 我 一点 都 不 想 沿着 那条 不 停 地 刮 着 风 的 山路 去 我 女儿 卡洛琳家	1	0
 1620	ht02087	but she had insisted that i come see something at the top of the mountain .	但是 她 坚持 让我 去 看 山顶 的 一些 东西	1	0
 1621	ht02088	 turning down a narrow track , we parked the car and got out . 	一 个 狭窄 的 过道 , 我们 停 好 了 车 , 走出 车门	1	0
-1622	ht02089	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 沿着 一 条 铺满 了 厚厚 的 松针 的 小路 巨大 贡献 的 黑绿色 的 常青树 矗立 在 我们 周围	1	0
+1622	ht02089	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 沿着 一 条 铺满 了 厚厚 的 松针 的 小路 巨大 贡献 的 黑绿色 的 常青树 矗立 在 我们 周围	1	1
 1623	ht02090	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	渐渐 地 这个 地方 的 安静 和 祥和 充满 了 我 的 思绪 , 然后 我们 转 了 一 个 弯 . 这时 我 停住 了 , 吃惊 的 目瞪口呆 . 	1	0
 1624	ht02092	a profusion of color -- from the palest ivory to the deepest lemon to the most vivid salmon -- blazed like a carpet before us .	一 级 绚丽 的 色彩 , 从 象牙 白色 到 深 柠檬色 再 到 最 鲜活 的 橙红色 仿佛 像 一 块 展 现在 我们 面前 的 地毯	1	0
 1625	ht02093	it looked as though the sun had tipped over and spilled gold down the mountainside .	这 看 盐业 好像 是 太阳 已经 升起 , 将 金色 的 光辉 洒 向 大山 的 每个 角落	1	0
@@ -1637,7 +1637,7 @@
 1635	ht02105	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	渐渐 地 我 感到 这个 地方 的 平和 和 静谧 . 之后 我们 转 个 弯 我 停 下来 惊呆 了 .	1	0
 1636	ht02108	it looked as though the sun had tipped over and spilled gold down the mountainside .	似乎 太阳 曾 在 此 光顾 , 把 金色 洒 在 了 山上 . 	1	0
 1637	ht02109	a riot of questions filled my mind. who created such beauty ? why ? how ?	一连串 问题 在 我 脑海 中 翻腾 : 谁 让 这 变得 如此 美丽 , 为什么 想到 要 把 它 变得 这样 美 ? 怎样 变得 这样 美 呢 ? 	1	0
-1638	ht02110	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	我们 家 就 在 这 片 景色 的 中间 , 当 我们 快 到家 时 , 看到 一 个 小 牌子 上 写着 : 我 知道 你们 正在 问 的 题问 的 答案 . 	1	0
+1638	ht02110	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	我们 家 就 在 这 片 景色 的 中间 , 当 我们 快 到家 时 , 看到 一 个 小 牌子 上 写着 : 我 知道 你们 正在 问 的 题问 的 答案 . 	1	1
 1639	ht02111	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 答案 是 : 一 个 女人 用 两 只 手 , 一 双 脚 和 动了 一 点 脑筋 创造 了 这么 一 个 美景 . 第二 个 是 : 一 次 种 一种 . 第三 个 是 : 从 1958年 开始 种的 . 	1	0
 1640	ht02112	 as we drove home , i was so moved by what we had seen i could scarcely speak . 	我们 开车 回去 的 路上 , 我 被 我们 的 所见 感动 了 , 顿时 说不出 话 来 . 	1	0
 1641	ht02113	"  she changed the world ,  i finally said , "" one bulb at a time "" . "	" 她 改变 了 世界 ,  最后 我 说 "" 一 次 一点儿 . "" "	1	0
@@ -1657,7 +1657,7 @@
 1655	ht02129	" she started almost 40 years ago , probably just the beginning of an idea , but she kept at it . "" the wonder of it would not let me go . "	她 几乎 40 年 前 就 开始 了 , 也许 那时 只是 有 个 想法 , 但 她 坚持 了 下来 这样 的 想法 让我 不 想 再 走了	1	0
 1656	ht02130	"  imagine ,  i said , "" if i ’ d had a vision and worked at it , jut a little bit every day , what might have i accomplished ? "" "	我 说 , 想像 一下 , 如果 我 有 个 想法 并且 付诸 行动 , 每 天 只 完成 一 点 , 那么 当 我 完成 时 是 会 什么 样子 呢	1	0
 1657	ht02131	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	那 天 天气 又 寒冷 ， 还 下着雨 ， 我 一点 都 不 想 在 蜿蜒 的 山路 上 开车 去 我 女儿 卡罗琳 的 家 。	1	0
-1658	ht02132	but she had insisted that i come see something at the top of the mountain .	但是 她 坚持 让我 去 看看 山顶 上 的 一些 东西 。	1	0
+1658	ht02132	but she had insisted that i come see something at the top of the mountain .	但是 她 坚持 让我 去 看看 山顶 上 的 一些 东西 。	1	1
 1659	ht02133	 turning down a narrow track , we parked the car and got out . 	绕过 了 一 条 窄 的 小路 ， 我们 停放 了 车子 并且 下 了 车 。	1	0
 1660	ht02134	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 沿着 一 条 被 厚厚 的 松树 针 覆盖 的 小路 走 着 。 两 旁 高耸 着 深绿色 的 常青树 。	1	0
 1661	ht02135	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	渐渐 地 那个 地方 的 安详 和 宁静 充满 了 我 的 思绪 ， 然后 我们 转 了 一 个 弯 我 停 了 下来 了 ， 惊讶 地倒 吸了 口气 。	1	0
@@ -1718,7 +1718,7 @@
 1716	ht02207	a riot of questions filled my mind. who created such beauty ? why ? how ?	大量 的 问题 充斥 着 我 的 大脑 , 谁 创造 了 美 ? 为什么 创造 ? 如何 创造 的 ? 	1	0
 1717	ht02208	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	那 天 天色 阴沉 ， 阴雨连绵 ， 所以 我 一 眯 也 不 想 沿着 那 弯曲 的 山路 开车 上山 去 我 女儿 卡罗琳 家 。	1	0
 1718	ht02209	but she had insisted that i come see something at the top of the mountain .	但是 她 坚持 要 我 过去 ， 去 看看 山顶 上 的 什么 东西 。	1	0
-1719	ht02210	 turning down a narrow track , we parked the car and got out . 	开过 一 条 狭窄 的 山路 以后 ， 我们 就 停了 ， 在 那 下 了 车 。	1	0
+1719	ht02210	 turning down a narrow track , we parked the car and got out . 	开过 一 条 狭窄 的 山路 以后 ， 我们 就 停了 ， 在 那 下 了 车 。	1	1
 1720	ht02211	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 沿着 一 条 铺 着 厚厚 一 层 枯黄 的 松针 的 小径 行走 着 。 我们 头顶 上 则 是 郁郁葱葱 的 常青 树木 。	1	0
 1721	ht02212	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	渐渐地 ， 我 开始 慢慢 感受 到 那个 地方 的 安详 与 宁静 。 然后 我们 拐过 了 一 个 弯 我 停 了 下来 ， 惊叹 于 眼前 的 景物 。	1	0
 1722	ht02213	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	从 山顶 一 眼 望去 ， 越过 溪流 和 山谷 连绵 数 为 都 是 盛开 着 的 水仙花 的 海洋 。	1	0
@@ -1756,7 +1756,7 @@
 1754	ht02258	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	从 山顶 到 几 亩 的 远的 山坡 和 低谷 都 是 盛开 的 水仙花 的 海洋 .	1	0
 1755	ht02259	a profusion of color -- from the palest ivory to the deepest lemon to the most vivid salmon -- blazed like a carpet before us .	一 个 颜色 的 溶江 , 有 象牙白 到 深 柠檬 到 最 生动 的 三 文 色 的 颜色 . 象个 着色 地毯 铺 在 我们 面前 . 	0	0
 1756	ht02260	it looked as though the sun had tipped over and spilled gold down the mountainside .	看起来 好似 太阳 走过 把 宝光撒 到 山 边上 .	1	0
-1757	ht02261	a riot of questions filled my mind. who created such beauty ? why ? how ?	我 脑子 里 出现 一连串 的 问题 . 谁 造 的 这么 美的 东西 ? 为什么 要 造 ? 怎么 造 的 ?	1	0
+1757	ht02261	a riot of questions filled my mind. who created such beauty ? why ? how ?	我 脑子 里 出现 一连串 的 问题 . 谁 造 的 这么 美的 东西 ? 为什么 要 造 ? 怎么 造 的 ?	1	1
 1758	ht02262	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	当 我们 走进 那 所 房子 , 我 看见 中间 竖 着 个 牌子 , 上面 写 着 : 你 要 问 的 问题 的 答案 . 	1	0
 1759	ht02263	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 问题 的 答案 是 : 一 个 女人 有 两 双 手 , 两 只 脚 , 一 个 脑袋 . 第二 问题 的 答案 : 一 次 一株 . 第三 问题 的 答案 是 : 1958 开始 的 . 	1	0
 1760	ht02264	 as we drove home , i was so moved by what we had seen i could scarcely speak . 	当 我们 开车 回家 时 , 我 感动 的 都 说 不 出来 话 . 	1	0
@@ -1771,7 +1771,7 @@
 1769	ht02273	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	从 山顶 往下 , 一 条条 水 仙花 组成 的 花溪 呈 放射状 铺 散开 在 山谷 和 山 的 折皱 之中 . 	1	0
 1770	ht02275	it looked as though the sun had tipped over and spilled gold down the mountainside .	看起来 就 像 太阳 在 山顶 上 往 山下 倾 撒 金色 的 光芒 .	1	0
 1771	ht02276	a riot of questions filled my mind. who created such beauty ? why ? how ?	一 个 问题 开始 在 我 脑中 闪现 . 是 谁 创造 了 这样 的 美景 ? 为了 什么 ? 又是 怎样 创造 的 ?	1	0
-1772	ht02277	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	当 我们 走近 那 座落 在 这 盛景 中央 的 房子 . 我们 看到 了 一 个 标牌 上面 写 着 : 你 想问 的 问题 的 答案 在 这儿 .	1	0
+1772	ht02277	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	当 我们 走近 那 座落 在 这 盛景 中央 的 房子 . 我们 看到 了 一 个 标牌 上面 写 着 : 你 想问 的 问题 的 答案 在 这儿 .	1	1
 1773	ht02278	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 答案 是 : 一 个 女人 一 双 手 , 一 双 脚 和平 凡 的 智慧 . 第二 个 是 一 次 一株 . 第三 个 是 : 从 1958年 开始 . 	1	0
 1774	ht02279	 as we drove home , i was so moved by what we had seen i could scarcely speak . 	我们 开车 回去 的 路上 , 我 被 刚 所 看到 的 感动 得 一 句 话 也 说 不 出来 . 	1	0
 1775	ht02280	"  she changed the world ,  i finally said , "" one bulb at a time "" . "	" 她 改变 了 世界 ,  最后 我 说道 , "" 一 次 种 一株 "" "	1	0
@@ -1866,13 +1866,13 @@
 1864	ht02407	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	逐渐 的 , 周围 的 平和 以及 安静 也 让 我 开始 平静 了 下来 . 我们 转 了 个 弯 . 我 停了 下来 , 深深 地 惊愕 了 . 	1	0
 1865	ht02408	 from the top of the mountain , sloping for several acres across folds and valleys were rivers of daffodils in radiant bloom . 	沿着 山顶 下来 , 覆盖 了 山脊 和 山谷 的 , 足足 有 几 公顷 的 水仙花 纵情 的 开放 着 , 放出 耀眼 的 白光 . 	1	0
 1866	ht02410	it looked as though the sun had tipped over and spilled gold down the mountainside .	看上去 就 像是 太阳 曾经 踮脚 走过 , 不小心 溢出 了 金色 , 洒遍 了 山坡 . 	1	0
-1867	ht02411	a riot of questions filled my mind. who created such beauty ? why ? how ?	我 心中 充满 了 疑问 , 谁 创造 了 这么 美丽 的 景色 , 为什么 呢 , 又是 怎么 办到 的呢 ? 	1	0
+1867	ht02411	a riot of questions filled my mind. who created such beauty ? why ? how ?	我 心中 充满 了 疑问 , 谁 创造 了 这么 美丽 的 景色 , 为什么 呢 , 又是 怎么 办到 的呢 ? 	1	1
 1868	ht02412	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	"当 我 走到 水仙 花丛 中心 的 小屋 时 , 我们 看见 了 一 句 话 ： "" 我 知道 你 的 有 问题 . 这儿 是 问题 的 答案 "" "	1	0
 1869	ht02413	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 答案 是 : 一 个 女人 一 双 手 , 一 双 脚 以及 不多 的 智慧 . 第二 个 答案 是 : 每次 一 个 第三 个 是 : 从 1958年 开始 . 	1	0
 1870	ht02415	"  she changed the world ,  i finally said , "" one bulb at a time "" . "	" 她 改变 了 世界  我 最后 终于 说话 了 : "" 一 次 种 一 颗 "" "	1	0
 1871	ht02416	" she started almost 40 years ago , probably just the beginning of an idea , but she kept at it . "" the wonder of it would not let me go . "	她 几乎 从 40 年 前 就 开始 了 , 刚 开始 或许 只是 一 个 念头 , 但 她 坚持 下来 了 . 这个 奇迹 让 我 都 不 忍 离开 . 	1	0
 1872	ht02417	"  imagine ,  i said , "" if i ’ d had a vision and worked at it , jut a little bit every day , what might have i accomplished ? "" "	" 想 一下  我 说 : "" 如果 我 也 有 这么 一 个 念头 , 而是 坚持 下来 . 每 天 都 做 一点 , 那么 我 将 要 收获 多少 呀 ! "" "	1	0
-1873	ht02418	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	这 是 个 阴冷 的 雨天 ， 我 并不 想 开车 走上 曲折 的 山路 到 我 女儿 卡洛琳 家 去 。	1	0
+1873	ht02418	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	这 是 个 阴冷 的 雨天 ， 我 并不 想 开车 走上 曲折 的 山路 到 我 女儿 卡洛琳 家 去 。	1	1
 1874	ht02419	but she had insisted that i come see something at the top of the mountain .	但是 她 坚持 要 我 去 山顶 看些 什么 。	1	0
 1875	ht02420	 turning down a narrow track , we parked the car and got out . 	拐过 一 条 狭窄 的 小道 。 我们 停车 并 走了 出来 。	1	0
 1876	ht02421	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 沿着 一 条 密布 着 古老 松树 的 小路 向前 走 。 那些 高大 深绿色 的 常青树 屹立 在 我们 上方 。	1	0
@@ -1906,7 +1906,7 @@
 1904	ht02454	a profusion of color -- from the palest ivory to the deepest lemon to the most vivid salmon -- blazed like a carpet before us .	这 是 颜色 的 海洋 从 最 浅 的 乳白色 到 最 深 的 柠檬色 再 到 灿烂 的 浅 橙色 就 像 一 幅 五颜六色 的 地毯 铺展 在 我们 面前 。	1	0
 1905	ht02455	it looked as though the sun had tipped over and spilled gold down the mountainside .	似乎 太阳 刚从 山顶 滑过 ， 并 洒落 了 一些 金子 。	1	0
 1906	ht02456	a riot of questions filled my mind. who created such beauty ? why ? how ?	此时 我 的 脑中 出现 了 许多 问题 。 谁 创造 了 这 种 美丽 ？ 为什么 创造 ？ 怎么 创造 ？	1	0
-1907	ht02457	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	当 我们 走近 位于 美景 中间 的 家 时 ， 看见 了 一 个 标志 ： 这 是 我 知道 你 想问 的 问题 的 答案 。	1	0
+1907	ht02457	 as we approached the home that stood in the center of the property , we saw a sign : answers to the questions i know you are asking . 	当 我们 走近 位于 美景 中间 的 家 时 ， 看见 了 一 个 标志 ： 这 是 我 知道 你 想问 的 问题 的 答案 。	1	1
 1908	ht02458	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 答案 是 ： 一 个 女人 两 只 手 ， 两 只 脚 ， 一 个 很 小 的 大脑 。 第二 个 答案 是 ： 每次 创造 一点 。 第三 个 答案 是 ： 开始于 1958年 。	1	0
 1909	ht02459	 as we drove home , i was so moved by what we had seen i could scarcely speak . 	当 我 开车 回家 时 ， 我 被 这些 几乎 令 我 说 不 出 话 的 美景 深深 地 感动 着 。	1	0
 1910	ht02460	"  she changed the world ,  i finally said , "" one bulb at a time "" . "	" 她 改变 了 世界 ，  我 最后 这样 说 ， "" 一 次 一 个 灯泡 。 "	1	0
@@ -1991,11 +1991,11 @@
 1989	ht02549	 as we drove home , i was so moved by what we had seen i could scarcely speak . 	回到 家 以后 , 我 被 今天 的 所见 常常 地 打动 了 , 完全 不 知 如何 表达 . 	1	0
 1990	ht02551	" she started almost 40 years ago , probably just the beginning of an idea , but she kept at it . "" the wonder of it would not let me go . "	"她 大约 40 年 前 就 动手 了 , 可能 当时 只是 一 个 小小 的 想法 , 然而 她 却 坚持 了 下来 . "" 这个 奇迹 让 我 得到 了 启发 . "	1	0
 1991	ht02552	"  imagine ,  i said , "" if i ’ d had a vision and worked at it , jut a little bit every day , what might have i accomplished ? "" "	"我 说 ： "" 想像 一下 , 如果 我 有 一 个 打算 并且 致力于 完成 它 , 每天 哪怕 仅 为 之 做 一点 , 那 我 现在 将 会 有 多 大 的 成就 啊 ? "" "	1	0
-1992	ht02553	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	一 个 阴冷 的 雨天 , 我 根本 就 不 想 在 冷风 飕飕 的 山路 上 开车 去 我 女儿 卡洛琳家 . 	1	0
+1992	ht02553	 it was a bleak , rainy day , and i had no desire to drive up the winding mountain road to my daughter carolyn 's house . 	一 个 阴冷 的 雨天 , 我 根本 就 不 想 在 冷风 飕飕 的 山路 上 开车 去 我 女儿 卡洛琳家 . 	1	1
 1993	ht02554	but she had insisted that i come see something at the top of the mountain .	但 她 坚持 要 我 去 看看 山顶 上 有 什么 东西 .	1	0
 1994	ht02555	 turning down a narrow track , we parked the car and got out . 	转变 进入 一 条 小道 , 我们 停 下车 , 走了 出去 . 	1	0
 1995	ht02556	we walked along a path that was thick with old pine needles. huge black green evergreens towered over .	我们 步入 一 条 布满 松叶 的 小 路上 , 巨大 的 常青树 在 黑暗 中 高高 耸立 . 	1	0
-1996	ht02557	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	漫漫 地 , 这里 的 宁静 和 安祥 布满 了 我 的 大脑 , 我们 转 个 弯 过后 , 我 呆住 了 , 深深 地 吸了 口 冷气 , 很 是 吃惊 . 	1	0
+1996	ht02557	gradually the peace and silence of the place began to fill my mind. then we turned a corner -- and i stopped and gasped in amazement .	漫漫 地 , 这里 的 宁静 和 安祥 布满 了 我 的 大脑 , 我们 转 个 弯 过后 , 我 呆住 了 , 深深 地 吸了 口 冷气 , 很 是 吃惊 . 	1	1
 1997	ht02560	it looked as though the sun had tipped over and spilled gold down the mountainside .	看起来 似乎 太阳 已经 倾斜 了 , 将 金色 的 光辉 溅到 了 山腰 上 . 	1	0
 1998	ht02561	a riot of questions filled my mind. who created such beauty ? why ? how ?	一些 好奇 的 问题 冲击 着 我 . 谁 创造 了 这 场 美丽 ? 为什么 ? 怎么 办到 的 ?	1	0
 1999	ht02563	 the first answer was : one woman -- two hands , two feet and very little brain. the second was : one at a time. the third : started in 1958 . 	第一 个 答案 是 : 一 个 女人 一 双 手 , 两 只 脚 , 以及 一 个 很 小 的 脑袋瓜 . 第二 个 是 : 一 次 一朵 . 第三 个 是 : 始于 1958年 . 	1	0
@@ -2068,7 +2068,7 @@
 2066	ht02644	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	散文 作者 ， 有时 是 以 他 特殊 的 方式 做 生活 的 传译 者 ， 做 生活 的 批评者 。	1	0
 2067	ht02645	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 并不 以 历史 学家 或是 哲学家 ， 或 诗人 ， 亦或是 小说家 的 视角 来 看待 生活 ， 然而 ， 他 又 它们 所有 人 对 生活 的 触觉 。	1	0
 2068	ht02646	 he is not concerned with discovering a theory of it all , or fitting the various parts of it into each other . 	他 并不 关心 发现 了 一 个 理论 ， 或是 找到 各 种 适合 彼此 的 部分 。	1	0
-2069	ht02647	 he works rather on what is called the analytic method , observing , recording , interpreting , just as things strike him , and letting his fancy play over their beauty and significance ; the end of it all being this ; that he is deeply concerned with the charm and quality of things , and gentlest light , so that at least he may make others love life a little better , and prepare them for its infinite variety and alike for its joyful and mournful surprises . 	他 宁可 致力于 所谓 的 分析法 ， 观察 、 记录 、 传译 ， 就 像 那些 事物 敲醒 他 一样 ， 它 会 让 他 的 幻想 和 他们 的 美丽 以及 价值 尽情 玩耍 。 所有 结果 都 如此 。 他 深深 地 关注 事物 的 魅力 及 品质 ， 那 最 温柔 的 灯光 ， 因此 ， 至少 它 可以 让 人们 越来越 爱 生活 ， 而且 为 他们 准备 无限 种类 以及 类似 的 欢乐 和 哀伤 的 惊喜 。	1	0
+2069	ht02647	 he works rather on what is called the analytic method , observing , recording , interpreting , just as things strike him , and letting his fancy play over their beauty and significance ; the end of it all being this ; that he is deeply concerned with the charm and quality of things , and gentlest light , so that at least he may make others love life a little better , and prepare them for its infinite variety and alike for its joyful and mournful surprises . 	他 宁可 致力于 所谓 的 分析法 ， 观察 、 记录 、 传译 ， 就 像 那些 事物 敲醒 他 一样 ， 它 会 让 他 的 幻想 和 他们 的 美丽 以及 价值 尽情 玩耍 。 所有 结果 都 如此 。 他 深深 地 关注 事物 的 魅力 及 品质 ， 那 最 温柔 的 灯光 ， 因此 ， 至少 它 可以 让 人们 越来越 爱 生活 ， 而且 为 他们 准备 无限 种类 以及 类似 的 欢乐 和 哀伤 的 惊喜 。	1	1
 2070	ht02648	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 可以 恣情 恣性 ， 我们 可以 以 任何 方式 看待 生活 但是 一定 不要 蔑视 和 嘲弄 他人 ， 因为 冷漠 和 歧视 会 伤害 到 别人 ； 因为 一切 经历 的 本质 就 是 这样 ， 我们 对 某 件 事件 的 理解 都 是 从 一无所知 开始 的 ， 进而 了解 到 生命 有 如此 多样 的 丰富 和 充实 ， 以 一 种 我们 起初 从来 没有 想过 或 怀疑 过 的 方式 进行 着 。	1	0
 2071	ht02649	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	散文家 以 自己 独特 的 反射 担任 起了 生活 的 诠释者 和 批判者 。	1	0
 2072	ht02650	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 并没有 以 历史 学家 或者 哲学家 、 诗人 、 小说家 的 角度 看待 生活 ， 然而 拥有 它们 所有 的 灵感 。	1	0
@@ -2113,7 +2113,7 @@
 2111	ht02700	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他们 并没有 以 一 个 历史学家 或 哲学家 ， 诗人 或者 小说家 的 角度 去 看待 生活 ， 然而 所有 这 一 切 也 都 影响 过 他 。	1	0
 2112	ht02702	 he works rather on what is called the analytic method , observing , recording , interpreting , just as things strike him , and letting his fancy play over their beauty and significance ; the end of it all being this ; that he is deeply concerned with the charm and quality of things , and gentlest light , so that at least he may make others love life a little better , and prepare them for its infinite variety and alike for its joyful and mournful surprises . 	（ 比起 前者 ） 他 宁愿 去 研究 那些 被 叫做 分析性 思维 ， 观察 ， 记录 ， 解释 ， 就 像 在 他 头脑 中 出现 的 那样 ， 让 他们 的 想像力 焕发 出 它们 所 具有 的 美丽 和 意义 ； 最后 所有 事物 变成 了 这个 样子 ； 他们 则 对 事物 本身 具有 的 魅力 产生 浓厚 的 兴趣 ， 因此 ， 他们 至少 让 人们 更 热爱 生活 一点 ， 就 像 它 同有 快乐 和 悲哀 的 惊喜 一样 。	1	0
 2113	ht02703	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 可以 根据 任何 心态 ， 我们 可以 用 五十 种 不同 的 眼光 看待 生活 ， 我们 唯一 不 能 做 的 事情 是 轻视 和 嘲笑 别人 由于 无知 或 偏见 ， 结果 会 影响 他人 。 认识 到 不同 的 方式 依然 可以 使 生命 多姿多彩 ， 甚至 我们 刚 开始 做梦 都 怀疑 的 生活 方式 。	1	0
-2114	ht02707	 he works rather on what is called the analytic method , observing , recording , interpreting , just as things strike him , and letting his fancy play over their beauty and significance ; the end of it all being this ; that he is deeply concerned with the charm and quality of things , and gentlest light , so that at least he may make others love life a little better , and prepare them for its infinite variety and alike for its joyful and mournful surprises . 	他 用 分析 的 方法 工作 ， 当 事情 发生 时 ， 他 观察 ， 揭露 ， 理解 ， 他 让 想像 超越 事情 本身 的 美 和 重大 意义 ， 所有 的 结尾 都 是 如此 ： 他 身陷 在 事物 的 吸引力 和 本质 ， 最轻 揉 得 光 ， 这样 他 或许 可以 使得 其他 人爱 生活 多 一点 ， 给 它们 带来 无穷无尽 的 欢乐 和 惊喜 。	1	0
+2114	ht02707	 he works rather on what is called the analytic method , observing , recording , interpreting , just as things strike him , and letting his fancy play over their beauty and significance ; the end of it all being this ; that he is deeply concerned with the charm and quality of things , and gentlest light , so that at least he may make others love life a little better , and prepare them for its infinite variety and alike for its joyful and mournful surprises . 	他 用 分析 的 方法 工作 ， 当 事情 发生 时 ， 他 观察 ， 揭露 ， 理解 ， 他 让 想像 超越 事情 本身 的 美 和 重大 意义 ， 所有 的 结尾 都 是 如此 ： 他 身陷 在 事物 的 吸引力 和 本质 ， 最轻 揉 得 光 ， 这样 他 或许 可以 使得 其他 人爱 生活 多 一点 ， 给 它们 带来 无穷无尽 的 欢乐 和 惊喜 。	1	1
 2115	ht02708	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 会 随着 各 种 情绪 对 生活 可能 有 50 种 不同 的 看法 我们 唯一 不 能 做 的 事 是 无知 、 偏见 和 影响 别人 的 权势 而 鄙视 或 嘲笑 别人 。 因为 所以 经历 的 本质 是 我们 应该 去 理解 一些 我们 还 不 了解 的 事物 ， 明白 在 多种多样 的 生活 方式 中 有些 我们 一 开始 并没有 经历 的 反射 ， 甚至 是 怀疑 的 方式 ， 生活 都 是 充实 和 丰富 多彩 的 。	1	0
 2116	ht02709	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	本 作者 以 他 独特 的 反射 来 诠释 生活 、 评论 生活 。	1	0
 2117	ht02710	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 没有 把 生活 看成 是 历史学家 ， 获 哲学家 ， 或 诗人 ， 或 小说家 ， 而是 都 经历 过 以 这些 身份 生活 。	1	0
@@ -2186,7 +2186,7 @@
 2184	ht02803	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 可能 会 随着 心情 的 改变 对 生活 的 态度 有 从 五十 个 不同 的 角度 看 只有 一 件 事 我们 一定 不 能 做 ， 那 就 是 蔑视 和 愚弄 。 因为 有 无知 和 自私 造成 的 这 种 结果 会 影响 到 他人 。 因为 所有 经历 的 实质 都 是 值得 我们 去 注意 的 ， 哪些 都 是 我们 一 开始 不 了解 没有 学习 过 的 ， 那些 实质 就是 从 所有 不同 角度 来看 生活 是 充实 而 丰富 的 而且 并不 像 我们 开始 憧憬 和 怀疑 的 那样 。	0	0
 2185	ht02805	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 所 认为 的 生活 不 像 历史 学家 、 哲学家 诗人 和 小说家 那样 但是 却 涉及 了 他们 全部 的 精髓 。	1	0
 2186	ht02806	 he is not concerned with discovering a theory of it all , or fitting the various parts of it into each other . 	他 对 发现 新 的 学说 和 不 相关 的 部分 荣 为 一体 并不 感 兴趣 。	0	0
-2187	ht02808	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 应该 随着 心情 生活 ， 用 50 种 不同 的 方式 看待 人生 而 唯一 的 一 件 我们 所 不 应作 的 就 是 轻视 或 嘲笑 ， 这些 由于 无知 和 偏见 造成 的 将会 影响 其它 人 。 因为 那些 经历 的 本质 是 我们 应该 认识 那些 我们 一 开始 不 了解 的 事情 ， 了解 到 生活 包含 那些 我们 不曾 想 过 的 各 种 不同 的 事物 构成 。	1	0
+2187	ht02808	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 应该 随着 心情 生活 ， 用 50 种 不同 的 方式 看待 人生 而 唯一 的 一 件 我们 所 不 应作 的 就 是 轻视 或 嘲笑 ， 这些 由于 无知 和 偏见 造成 的 将会 影响 其它 人 。 因为 那些 经历 的 本质 是 我们 应该 认识 那些 我们 一 开始 不 了解 的 事情 ， 了解 到 生活 包含 那些 我们 不曾 想 过 的 各 种 不同 的 事物 构成 。	1	1
 2188	ht02809	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	作家 以他 特殊 的 方式 诠释 或 评论 人生 。	1	0
 2189	ht02810	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 不曾 以 历史 学家 、 哲学家 、 诗人 或 小说家 的 身份 来 看待 人生 ， 但 他 却 在 作品 中 接触 过 这些 。	1	0
 2190	ht02811	 he is not concerned with discovering a theory of it all , or fitting the various parts of it into each other . 	他 并不 关心 是否 发现 了 其中 的 原理 ， 或使 各 个 不同 的 部分 相互 融入 。	1	0
@@ -2197,7 +2197,7 @@
 2195	ht02820	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 不是 在 以 一 个 历史学家 ， 或 心理学家 ， 诗人 ， 小说家 的 眼光 去 看待 人生 ， 而是 都 有所 涉及 的 区 看待 。	1	0
 2196	ht02823	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 可以 有 不同 的 心境 ， 我们 可以 从 不同 的 角度 来 看待 生活 ， 但 我们 却 不 可以 因 无知 和 偏见 ， 因 行为 影响 而 去 鄙视 、 嘲笑 生活 。 因为 人生 的 各 种 经历 的 本质 就 是 让 我们 从中 认 知道 那些 我们 以前 并不 知晓 的 事物 ， 感悟 到 那些 我们 以前 甚至 并 无 憧憬 过 的 丰富 多彩 ， 五彩斑斓 的 生活 。	1	0
 2197	ht02824	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	于是 ， 作家 其实 就是 在 用 其 独有 的 方式 诠释 生活 、 评判 生活 。	1	0
-2198	ht02825	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 并不 是 单 从 历史家 或者 学家 或 诗人 亦 或 小说家 的 角度 看 生活 ， 他 每 方面 均 有 涉及 。	1	0
+2198	ht02825	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 并不 是 单 从 历史家 或者 学家 或 诗人 亦 或 小说家 的 角度 看 生活 ， 他 每 方面 均 有 涉及 。	1	1
 2199	ht02826	 he is not concerned with discovering a theory of it all , or fitting the various parts of it into each other . 	他 并 着重于 发掘 生活 的 一 段 理论 ， 或 为 生活 添加 各式各样 的 章节 。	0	0
 2200	ht02829	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	小品文 作用 他 独有 的 方式 来 诠释 生命 ， 批判 生命 。	0	0
 2201	ht02830	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 并不 把 生命 看成 历史 学家 、 哲学家 、 诗人 或者 小说家 ， 然而 它 全然 能 感受 到 这些 。	0	0
@@ -2222,7 +2222,7 @@
 2220	ht02863	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 可以 跟着 任何 思绪 ， 我们 可以 从 50 种 不同 方式 看待 人生 ， 但 有 一 种 我们 必不 能 做 那 就 是 绝望 或 失望 。 因为 无知 和 偏见 ， 这些 影响 别人 的 变化 。 因为 所有 经历 的 基本 就是 我们 要 觉察 到 我们 不 在 从 认识 开始 。 我们 从 人生 有 丰富 多彩 的 种类 和 变化多端 的 方式 去 认知 ， 而 这些 都 是 我们 没有 首先 甚至 没有 猜想 到 的 。	1	0
 2221	ht02864	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	这个 评论家 有 着 特别 光辉 的 翻译 事业 的 一生 ， 批判 的 一 生 。	0	0
 2222	ht02865	 he does not see life as the historian , or as the philosopher , or as the poet , or as the novelist , and yet he has a touch of all these . 	他 的 人生观 不 像 历史 学家 ， 获市 哲人 ， 即 不 像 诗人 ， 又 不 像 小说家 但 他 却 对 以上 各 家 都 有 涉猎 。	0	0
-2223	ht02866	 he is not concerned with discovering a theory of it all , or fitting the various parts of it into each other . 	他 不在意 去 发现 其中 的 深意 ， 或是 满足 互 种 部分 （ 的 需要 ） 。	0	0
+2223	ht02866	 he is not concerned with discovering a theory of it all , or fitting the various parts of it into each other . 	他 不在意 去 发现 其中 的 深意 ， 或是 满足 互 种 部分 （ 的 需要 ） 。	0	1
 2224	ht02867	 he works rather on what is called the analytic method , observing , recording , interpreting , just as things strike him , and letting his fancy play over their beauty and significance ; the end of it all being this ; that he is deeply concerned with the charm and quality of things , and gentlest light , so that at least he may make others love life a little better , and prepare them for its infinite variety and alike for its joyful and mournful surprises . 	他 的 工作 可以 被 叫做 解析 思想 ， 观查 、 记录 ， 翻译 。 就 像 东西 使 他 困扰 ， 他 就 让 他们 变得 华丽 而 流畅 ； 最后 成为 作品 ， 它 深刻 在意 作品 的 内涵 和 质量 。 退 一 步 说 ， 至少 他 让 别人 有一些 更 热爱 生活 ， 让 他们 为 丰富 多彩 而 作 准备 ， 为 生活 的 悲欢 而 惊叹 。	0	0
 2225	ht02868	 we may follow any mood , we may look at life in fifty different ways -- the only thing we must not do is to despise or deride , because of ignorance or prejudice , the influences which affect others ; because the essence of all experience is that we should perceive something which we do not begin by knowing , and learn that life has a fullness and a richness in all sorts of diverse ways which we do not at first even dream of suspecting . 	我们 会 有 各 种 情绪 ， 我们 也许 对 生活 有 五十 种 不同 的 看法 ， 但 我们 不 可以 由于 无知 或 偏见 而 鄙视 或 嘲笑 他人 ， 这 会 对 他们 产生 影响 ， 生活 的 精华 在于 ， 对 我们 没有 涉及 过 的 事情 ， 我们 要 用 认识 的 眼光 去 思考 ， 同时 我们 要 认识 到 ， 在 我们 想像 不到 的 各种各样 的 方式 中 ， 生活 既 充实 又 丰富 。	1	0
 2226	ht02869	 the essayist , then , is in his particular fashion an interpreter of life , a critic of life . 	因此 ， 散文家们 在 生活 中 扮演 独特 的 角色 ， 他 使 生活 的 翻译者 ， 也 是 批评者 。	1	0
@@ -2314,7 +2314,7 @@
 2312	ht02964	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	印度 的 医生 宣言 说 他们 成功 的 给 人 移植 了 一 个 猪 身上 的 心脏 。	1	0
 2313	ht02965	pressure to increase the number of such xenotransplants seems to be growing .	为 提高 此 种 异种 器官 移植 的 数量 而 产生 的 压力 越来越 大 。	1	0
 2314	ht02966	 in europe and america , herds of pigs are being specially bred and genetically engineered for organ donation . 	在 欧 美 国家 ， 人们 用 特殊 的 喂养 方式 和 基因 操纵 的 方法 来 培养 成 批 的 猪 来 达到 器官 捐赠 的 目的 。	1	0
-2315	ht02967	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	1996 ， 至少 两 则 关于 这个 主题 的 大型 报道 面世 ， 一 则 在 欧洲 ， 另 一 则 发生 在 美国 。	1	0
+2315	ht02967	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	1996 ， 至少 两 则 关于 这个 主题 的 大型 报道 面世 ， 一 则 在 欧洲 ， 另 一 则 发生 在 美国 。	1	1
 2316	ht02968	they agreed that xenotransplants were permissible on ethical grounds. and cautiously recommended that they be allowed .	他们 认为 异种 器官 移植 在 道德 范畴 内 是 被 允许 的 ， 他们 也 很 谨慎 地 建议 这 种 器官 移植 应该 被 允许 < 实行 > 。	1	0
 2317	ht02969	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 的 食品 药品 管理局 已经 出版 了 异种 器官 移植 的 初稿 。 异种 器官 移植 的 道德 标准 相对来说 是 不必 担心 的 。	1	0
 2318	ht02971	 transplant surgeons work miracles. they take organs from one body and integrate them into another , granting the lucky recipient a longer , better life . 	器官 移植 医生 的 工作 创造 奇迹 。 他们 把 器官 从 捐赠者 身上 取下 ， 移植 到 受赠 的 病人 身上 ， 这样 ， 这些 病人 幸运 地 延长 了 生命 。	1	0
@@ -2322,7 +2322,7 @@
 2320	ht02973	the terrible constraint on organ transplantation is that every life extended depends on the death of someone young enough and healthy enough to have organs worth transplanting .	器官 移植 手术 的 最大 瓶 井 在于 器官 来源 惟有 那些 足够 年轻 和 健康 的 器官 才 有 被 移植 的 价值 ， 而 这 要 在 一 条 年轻 生命 逝去 之后 才 有 可能 。	1	0
 2321	ht02974	 such donors are few. the waiting lists are long , and getting longer . 	符合 这些 条件 的 捐赠 器官 非常 有限 ， 而 排队 等待 接受 手术 的 病人 却 非常 多 ， 而且 ， 这个 数字 还 在 不断 增长 。	1	0
 2322	ht02975	freedom from this constraint is the dream of every transplant surgeon .	解决 器官 来源 的 问题 ， 也 就 成了 每 一 位 器官 移植 医师 的 愿望 。	1	0
-2323	ht02976	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	迄今 为止 ， 制造 人造 器官 的 想法 已被 宣告 失败 ， 毕竟 ， 自然 是 难以 被 精确 地 仿造 的 。 因此 ， 医师们 决定 尝试 使用 动物 器官 作为 器官 来源 。	1	0
+2323	ht02976	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	迄今 为止 ， 制造 人造 器官 的 想法 已被 宣告 失败 ， 毕竟 ， 自然 是 难以 被 精确 地 仿造 的 。 因此 ， 医师们 决定 尝试 使用 动物 器官 作为 器官 来源 。	1	1
 2324	ht02977	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	近日 ， 印度 医生 宣布 ， 他们 已 成功 地 完成 了 一 例 把 猪 的 心脏 移植 至 人体 的 手术 。	1	0
 2325	ht02978	pressure to increase the number of such xenotransplants seems to be growing .	但是 ， 大量 、 广泛 地 实施 此 类 异种 器官 移植 手术 所 面临 的 压力 好像 也 在 增加 。	1	0
 2326	ht02980	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	1996年 ， 发布 了 至少 2 份 关于 此 项 研究 的 重要 报告 ， 一 份 在 欧洲 ， 另 一 份 在 美国 。	1	0
@@ -2352,7 +2352,7 @@
 2350	ht03008	 sadly , every year thousands of other people are less fortunate , dying while they wait for suitable organs to be found . 	不幸 的 是 ， 每 年 都 有 成千上万 的 病人 ， 他们 并没有 那样 幸运 能够 得 合适 的 器官 移植 ， 只 能 绝望 地 等待 生命 结束 。	1	0
 2351	ht03009	the terrible constraint on organ transplantation is that every life extended depends on the death of someone young enough and healthy enough to have organs worth transplanting .	这样 的 器官 移植 是 非常 受限制 的 。 因为 这 种 生命 的 延续 是 依靠 适合 移植 的 器官 的 ， 而 这些 器官 是 从 那些 较为 年轻 的 ， 健康 的 人 死亡 后 的 身体 上 取下 来 的 。	1	0
 2352	ht03010	 such donors are few. the waiting lists are long , and getting longer . 	这样 的 器官 捐赠 是 极为 少的 。 因此 等待 移植 手术 的 名单 变得 很长 ， 并且 人数 越来越 多 。	1	0
-2353	ht03011	freedom from this constraint is the dream of every transplant surgeon .	每 一 个 器官 移植 手术 的 最大 愿望 就是 摆脱 这个 限制 的 束缚 。	1	0
+2353	ht03011	freedom from this constraint is the dream of every transplant surgeon .	每 一 个 器官 移植 手术 的 最大 愿望 就是 摆脱 这个 限制 的 束缚 。	1	1
 2354	ht03012	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	目前 为止 ， 制造 人工 器官 的 尝试 和 努力 仍 不尽人意 。 因为 自然 是 不可以 违背 的 。 因此 ， 人们 目前 正 尝试 用 动物 身上 的 器官 进行 移植 。	1	0
 2355	ht03013	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	印度 的 医生 刚 宣布 他们 已 成功 地 在 一 个 病人 身上 移植 了 一 颗 猪 心脏 。	1	0
 2356	ht03014	pressure to increase the number of such xenotransplants seems to be growing .	增加 这 种 异种 器官 移植 所 受 的 压力 似乎 正在 上升 。	1	0
@@ -2379,7 +2379,7 @@
 2377	ht03036	 such donors are few. the waiting lists are long , and getting longer . 	像 这样 的 捐赠者 非常 少 。 排队 等候 的 人 很多 ， 而且 也 越来越 多 。	1	0
 2378	ht03037	freedom from this constraint is the dream of every transplant surgeon .	摆脱 这个 局限 是 每 一 个 移植 手术 医生 的 梦想 。	1	0
 2379	ht03039	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	印度 的 医生 已经 宣布 他们 成功 地 将 一 个 猪 心脏 移植 到了 人体 内 。	1	0
-2380	ht03042	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	在 1996年 ， 关于 这个 主题 ， 至少 有 两 个 大 的 报告 发表 了 。 一 个 在 欧洲 ， 一 个 在 美国 。	1	0
+2380	ht03042	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	在 1996年 ， 关于 这个 主题 ， 至少 有 两 个 大 的 报告 发表 了 。 一 个 在 欧洲 ， 一 个 在 美国 。	1	1
 2381	ht03043	they agreed that xenotransplants were permissible on ethical grounds. and cautiously recommended that they be allowed .	他们 认为 在 道德 上 ， 异种 器官 移植 是 可以 允许 的 ， 并且 他们 认真 表明 他们 的 行为 是 被 允许 的 。	1	0
 2382	ht03044	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 食品 药物 管理局 已经 颁步 了 异种 器官 移植 指导 草案 。 异种 器官 移植 的 道德 标准 相对来说 是 不用 担心 的 。	1	0
 2383	ht03046	 transplant surgeons work miracles. they take organs from one body and integrate them into another , granting the lucky recipient a longer , better life . 	移植 手术 创造 了 奇迹 。 它们 通过 把 一 个 人 的 器官 植入 另 一 个 人 的 体内 ， 从而 使得 一些 幸运 的 器官 植入 者 能 活 得 更 久 ， 过上 更 好 的 生活 。	1	0
@@ -2470,7 +2470,7 @@
 2468	ht03146	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	在 1996年 期间 ， 最少 有 两 大 报告 出版 ， 分别 在 欧洲 和 美国 。	1	0
 2469	ht03147	they agreed that xenotransplants were permissible on ethical grounds. and cautiously recommended that they be allowed .	他们 都 认为 在 道德 方面 异种 器官 移植 是 可行 的 ， 而且 还 认为 他们 应该 推行 。	1	0
 2470	ht03148	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 的 食物 和 药物 管理局 已经 出版 了 异种 器官 移植 的 简介 。 异种 器官 移植 的 道德 问题 是 无须 担心 的 。	1	0
-2471	ht03149	 people already kill pigs both for food and for sport ; killing them to save a human life seems , if anything , easier to justify. however , the science of xenotransplantation is much less straightforward . 	人们 已经 因 食物 和 运动 而 屠杀猪 。 可能 因为 拯救 一 个 生命 ， 而 牺牲 它们 更 容易 让 人 接受 ， 然而 ， 异 和 器官 的 移植 道路 是 弯曲 的 。	1	0
+2471	ht03149	 people already kill pigs both for food and for sport ; killing them to save a human life seems , if anything , easier to justify. however , the science of xenotransplantation is much less straightforward . 	人们 已经 因 食物 和 运动 而 屠杀猪 。 可能 因为 拯救 一 个 生命 ， 而 牺牲 它们 更 容易 让 人 接受 ， 然而 ， 异 和 器官 的 移植 道路 是 弯曲 的 。	1	1
 2472	ht03150	 transplant surgeons work miracles. they take organs from one body and integrate them into another , granting the lucky recipient a longer , better life . 	器官 移植 手术 大夫 创造 了 许多 奇迹 。 他们 将 器官 从 捐献者 移植 至 接受者 ， 从而 赋与 这 幸运 的 接受者 更 长 更 美好 的 人生 。	1	0
 2473	ht03151	 sadly , every year thousands of other people are less fortunate , dying while they wait for suitable organs to be found . 	可惜 的 是 每 年 都 有 很多 不 那么 幸运 的 人 ， 在 等待 合适 器官 出现 的 过程 中 死亡 。	1	0
 2474	ht03152	the terrible constraint on organ transplantation is that every life extended depends on the death of someone young enough and healthy enough to have organs worth transplanting .	在 器官 移植 过程 中 的 一 个 严重 限制 是 每 一 个 生命 的 沿续 必须 依靠 另外 一 个 足够 年轻 和 健康 的 生命 （ 他 的 器官 有 移植 价值 ） 的 死亡 来 实现 。	1	0
@@ -2494,7 +2494,7 @@
 2492	ht03178	the terrible constraint on organ transplantation is that every life extended depends on the death of someone young enough and healthy enough to have organs worth transplanting .	器官 移植 有 个 可怕 的 限制 ， 那就是 必须 要 从 足够 年轻 和 健康 的 人身 上 取 有 价值 的 器官 ， 才 能 使 生命 延续 。	1	0
 2493	ht03179	 such donors are few. the waiting lists are long , and getting longer . 	这样 的 捐献 少之 又 少 ， 于是 等待 器官 捐献 的 人 越来越 多 。	1	0
 2494	ht03180	freedom from this constraint is the dream of every transplant surgeon .	突破 这个 限制 是 每 个 移植 医生 的 梦想 。	1	0
-2495	ht03181	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	到 现在 为止 ， 做人 造 器官 的 尝试 总是 以 失败 告终 ， 因为 自然 是 很 难 仿造 的 。 于是 人们 把 兴趣 投向 了 使用 动物 的 器官 。	1	0
+2495	ht03181	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	到 现在 为止 ， 做人 造 器官 的 尝试 总是 以 失败 告终 ， 因为 自然 是 很 难 仿造 的 。 于是 人们 把 兴趣 投向 了 使用 动物 的 器官 。	1	1
 2496	ht03182	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	不久前 ， 印度 的 医生 宣称 他们 已 成功 地 把 猪心 移植 到了 人身 上 。	1	0
 2497	ht03183	pressure to increase the number of such xenotransplants seems to be growing .	增加 类似 异种 器官 移植 的 压力 似乎 正在 上涨 。	1	0
 2498	ht03184	 in europe and america , herds of pigs are being specially bred and genetically engineered for organ donation . 	在 欧洲 和 美国 ， 人们 正用 特别 的 饲养 和 基因 工程 方法 和 培育 适合 器官 移植 的 猪 。	1	0
@@ -2511,14 +2511,14 @@
 2509	ht03197	 in europe and america , herds of pigs are being specially bred and genetically engineered for organ donation . 	在 欧洲 和 美国 ， 大量 的 猪正 在 被 进行 特别 饲养 和 基因 改造 以便 适合 器官 移植 。	1	0
 2510	ht03198	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	1996年 期间 ， 至少 有 两 篇 较大 的 关于 这 方面 的 报导 。 一 篇 在 欧洲 一 篇 在 美国 。	1	0
 2511	ht03199	they agreed that xenotransplants were permissible on ethical grounds. and cautiously recommended that they be allowed .	他们 一致 认为 ， 在 种族 伦理 方面 ， 异种 器官 是 可以 接受 的 ， 并且 建议 允许 这 类 移植 。	1	0
-2512	ht03200	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 食品 药物 管理局 已经 发布 了 允许 异种 器官 移植 的 草案 。 并 指出 ， 关于 异种 器官 移植 的 种族 问题 相对来说 是 无须 担忧 的 。	1	0
+2512	ht03200	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 食品 药物 管理局 已经 发布 了 允许 异种 器官 移植 的 草案 。 并 指出 ， 关于 异种 器官 移植 的 种族 问题 相对来说 是 无须 担忧 的 。	1	1
 2513	ht03202	 transplant surgeons work miracles. they take organs from one body and integrate them into another , granting the lucky recipient a longer , better life . 	器官 移植 手术 创造 了 奇迹 。 通过 将 一 个 人体 的 器官 取出 并 融入 到 另 一 人 体内 ， 它们 给 一些 幸运 的 病人 创造 了 更 长 更 好 的 生活 。	1	0
 2514	ht03203	 sadly , every year thousands of other people are less fortunate , dying while they wait for suitable organs to be found . 	然而 ， 不幸 的 是 ， 每 年 有 成千上万 的 其他 人们 在 苦苦 等待 适合 自己 器官 的 同时 ， 忍受 着 垂死 的 挣扎 。	1	0
 2515	ht03205	 such donors are few. the waiting lists are long , and getting longer . 	这样 的 捐赠者 是 非常 少的 。 而 等待 移植者 的 名单 已经 很 长 了 ， 并且 越来越 长 。	1	0
 2516	ht03206	freedom from this constraint is the dream of every transplant surgeon .	摆脱 这 种 限制 是 每 一 个 移植 手术 家 的 梦想 。	1	0
 2517	ht03207	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	至今 为止 ， 制造 人工 器官 所 做 的 努力 都 不尽人意 ： 自然 是 难以 征服 的 。 于是 ， 人们 开始 热衷于 新 的 方法 ， 即 试图 从 动物 身上 取得 器官 。	1	0
 2518	ht03208	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	印度 的 医生 最近 已经 宣布 他们 已 成功 的 将 猪 心脏 移植 到人 身上 。	1	0
-2519	ht03210	 in europe and america , herds of pigs are being specially bred and genetically engineered for organ donation . 	欧洲 和 美国 正在 对 猪 进行 特别 养殖 和 基因 工程 ， 以 用于 器官 捐赠 。	1	0
+2519	ht03210	 in europe and america , herds of pigs are being specially bred and genetically engineered for organ donation . 	欧洲 和 美国 正在 对 猪 进行 特别 养殖 和 基因 工程 ， 以 用于 器官 捐赠 。	1	1
 2520	ht03211	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	1996年 ， 欧 美 分别 发表 了 1 个 关于 器官 移植 的 重大 报告 。	1	0
 2521	ht03212	they agreed that xenotransplants were permissible on ethical grounds. and cautiously recommended that they be allowed .	他们 认为 在 伦理 基础 上 ， 异性 器官 移植 是 允许 的 ， 并 谨慎 的 推荐 允许 异性 器官 移植 手术 。	1	0
 2522	ht03213	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 食品 和 药物 局 已经 发表 了 异性 器官 移植 方针 初稿 。 所以 人们 对于 异性 器官 移植 的 伦理 相对而言 可 不 必 担忧 。	1	0
@@ -2658,7 +2658,7 @@
 2656	ht03373	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	到 目前 为止 ， 制造 人造 器官 的 想法 已经 让 人 失望 ， 因为 自然 是 难以 效仿 的 。 因此 ， 人们 再一次 尝试 使用 动物 器官 。	1	0
 2657	ht03374	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	印度 的 医生们 宣称 他们 已经 成功 地 把 一 颗 猪心 移植 到人 身 上去 了 。	1	0
 2658	ht03376	 in europe and america , herds of pigs are being specially bred and genetically engineered for organ donation . 	在 欧洲 和 美国 ， 很多 猪 被 特别 饲养 。 这些 猪 就 是 用来 为 器官 移植 做 基因 实验 的 。	1	0
-2659	ht03377	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	在 1996年 ， 至少 有 两 例 关于 这个 主题 的 报告 被 报道 ， 一 例 发生 在 欧洲 ， 另 一 例 在 美国 。	1	0
+2659	ht03377	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	在 1996年 ， 至少 有 两 例 关于 这个 主题 的 报告 被 报道 ， 一 例 发生 在 欧洲 ， 另 一 例 在 美国 。	1	1
 2660	ht03378	they agreed that xenotransplants were permissible on ethical grounds. and cautiously recommended that they be allowed .	他们 同意 在 道德 伦理 的 立场 上 ， 异种 器官 移植 是 被 允许 的 。	0	0
 2661	ht03379	america 's food and drug administration has already published draft guidelines for xenotransplantation. the ethics of xenotransplantation are relatively unworrying .	美国 食品 与 药物 质量 监督局 已经 发布 了 异种 器官 移植 的 纲要 / 草案 ， 所以 关于 它 的 伦理道德 方面 应该 没 什么 可 担心 的 了 。	1	0
 2662	ht03380	 people already kill pigs both for food and for sport ; killing them to save a human life seems , if anything , easier to justify. however , the science of xenotransplantation is much less straightforward . 	人们 宰猪 ， 是 为了 吃 肉 ， 运动 ， 现在 杀 了 他们 可以 救人 的 命 ， 这些 看起来 很 容易 被 接受 ， 然而 ， 异种 器官 移植 的 科学 可 不 是 那么 容易 探索 的 。	1	0
@@ -2728,7 +2728,7 @@
 2726	ht03450	freedom from this constraint is the dream of every transplant surgeon .	能 摆脱 这 种 局限 事 每 个 移植 手术 外科 医生 的 梦想 。	1	0
 2727	ht03451	so far attempts to make artificial organs have been disappointing : nature is hard to mimic. hence the renewed interest in trying to use organs from animals .	到 现在 为止 ， 试图 人工 制造 器官 是 让 人 失望 的 ， 因为 自然 属性 是 很 难 改变 的 。 所以 人们 的 兴趣 又 转移 到 使用 动物 内脏 的 偿试 。	1	0
 2728	ht03452	doctors in india have just announced that they have successfully transplanted a heart from a pig into a person .	印度 的 医生 宣称 他们 已经 成功 地 把 一 个 猪 的 心脏 移植 到了 一 个 人 的 体内 。	1	0
-2729	ht03453	pressure to increase the number of such xenotransplants seems to be growing .	提高 异种 器官 移植 数量 的 压力 看来 好像 在 加大 。	1	0
+2729	ht03453	pressure to increase the number of such xenotransplants seems to be growing .	提高 异种 器官 移植 数量 的 压力 看来 好像 在 加大 。	1	1
 2730	ht03454	 in europe and america , herds of pigs are being specially bred and genetically engineered for organ donation . 	在 欧洲 和 美国 ， 很多 头 猪 被 特殊 的 喂养 和 进行 基因 重组 后为 人类 提供 器官 。	1	0
 2731	ht03455	during 1996 at least two big reports on the subject -- one in europe and one in america -- were published .	在 1996年 至少 有 两 个 报道 是 关于 这个 项目 的 一 个 在 欧洲 ， 另 一 个 在 美国 。	1	0
 2732	ht03456	they agreed that xenotransplants were permissible on ethical grounds. and cautiously recommended that they be allowed .	他们 赞同 异种 器官 移植 在 伦理 上 是 允许 的 ， 并且 还 谨慎 地 要求 他们 被 允许 。	1	0

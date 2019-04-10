@@ -18,7 +18,6 @@ import sys
 def parse_args():
     parser = argparse.ArgumentParser(description="Neural model for Translation Quality Classification")
     parser.add_argument('-M','--model', type = str, default = "CNN")
-    parser.add_argument('-Opt','--optimizer', type = str, default = "adam")
     parser.add_argument('-B','--batch_size', type = int, default= 64)
     parser.add_argument('-V', '--vocab_size', type = int, default= 30000)
     parser.add_argument('-D','--embed_dim', type = int, default = 300)
@@ -43,10 +42,7 @@ def parse_args():
     parser.add_argument('-L2','--weight_decay', type=float, default=1e-3, help='setting up a float')
     parser.add_argument('--grad_clip', type=float, default=3e-1,help='grad_clip')
     parser.add_argument('--seed_num', type=int, default=123)
-    parser.add_argument('--momentum', type=float, default=0.3)
-    parser.add_argument('--scheduler', type=str, help='steplr, lambdalr, multisteplr, reducelronplateau')
     parser.add_argument('--use_gpu', action='store_false',help='use gpu device')
-    #parser.add_argument('--disable_cuda', action='store_false', help='switch between CPU and GPU device')
     parser.add_argument('--run_log',type=str, default= 'quality_estimation', required=True)
 
     args = parser.parse_args()
@@ -81,27 +77,44 @@ def main():
 
     if args.model=="CNN":
         model = CNN(args)
-        #model = CNN(args.vocab_size, args.embed_dim,args.max_seq_len, args.num_class, args.kernel_nums, args.dropout, args.kernel_sizes, args.pretrained_weights, args.use_gpu)
+        
     elif args.model =="BiLSTM":
         model = BiLSTM(args)
-        #model = BiLSTM(args.vocab_size, args.embed_dim, args.hidden_dim,args.num_layers,args.bidirectional, args.pretrained_weights,args.num_class, args.use_gpu)
+        
     elif args.model =="CNN_BiLSTM":
         model =CNN_BiLSTM(args)
-        #model = CNN_BiLSTM(args.hidden_dim, args.num_class, args.num_layers, args.vocab_size, args.embed_dim, args.kernel_nums, args.kernel_sizes,args.dropout,args.pretrained_weights, args.use_gpu )
+        
     elif args.model =="CNN_BiLSTM_ATT":
         model = CNN_BiLSTM_ATTENTION(args)
     print(model)
 
     # starting training, comment this line if you are load a pretrained model
     if args.test is False:
-        model.train()
+
         ##
-        train (train_iter, dev_iter, test_iter, model, args, logger)
+
+
+        for epoch in range(args.num_epochs):
+            best_acc = 0.0
+            #model.train()
+    
+            steps = train (epoch, train_iter, model, args, logger)
+
+            for mode in ['development', 'testing']:
+                if mode=='development':
+                    evaluate(dev_iter, model, args, logger, mode)
+                elif mode=='testing':
+                    test_acc, predictions = evaluate(test_iter, model, args, logger, mode)
+                    if test_acc > best_acc:
+                        best_acc = test_acc
+                        save(model, args.saved_model, 'best', steps)
+                        save_predictions(args.test_file, args.prediction_file, predictions)
+
     
     else:
         model = torch.load(args.saved_model, map_location=lambda storage, loc: storage)
-        model.eval()
-        eval(test_iter, model, args, logger)
+        #model.eval()
+        evaluate(test_iter, model, args, logger, mode='testing')
 
 
 
